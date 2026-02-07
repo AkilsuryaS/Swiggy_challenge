@@ -1,0 +1,67 @@
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "offline-partner-assistant"
+version = "0.1.0"
+description = "Offline on-device NLP models for delivery partner assistant"
+requires-python = ">=3.9"
+
+dependencies = [
+    # ----------------------------
+    # Core ML / Math
+    # ----------------------------
+    "torch>=2.0",                 # MPS support on M1
+    "numpy>=1.23",
+    "scipy>=1.10",
+
+    # ----------------------------
+    # Tokenization (allowed)
+    # ----------------------------
+    "sentencepiece>=0.1.99",      # Train your own BPE/Unigram tokenizer
+
+    # ----------------------------
+    # Data handling
+    # ----------------------------
+    "pandas>=1.5",
+    "scikit-learn>=1.2",          # train/val splits, basic metrics
+    "tqdm>=4.65",
+
+    # ----------------------------
+    # Structured prediction
+    # ----------------------------
+    "torchcrf>=1.1.0",            # CRF for slot/address parsing
+
+    # ----------------------------
+    # Configs & validation
+    # ----------------------------
+    "pyyaml>=6.0",
+    "pydantic>=1.10",             # schema validation for synthetic data
+
+    # ----------------------------
+    # Export & inference
+    # ----------------------------
+    "onnx>=1.14",
+    "onnxruntime>=1.15",          # CPU + mobile-friendly runtime
+    "onnxruntime-tools>=1.7",     # quantization helpers
+
+    # ----------------------------
+    # Utilities
+    # ----------------------------
+    "rich>=13.3",                 # clean logs / CLI output
+    "loguru>=0.7",
+
+    # ----------------------------
+    # Visualization (optional but useful)
+    # ----------------------------
+    "matplotlib>=3.7"
+]
+
+[project.optional-dependencies]
+dev = [
+    "black>=23.3",
+    "isort>=5.12",
+    "pytest>=7.3",
+    "mypy>=1.4"
+]
