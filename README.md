@@ -90,3 +90,69 @@ Qualitative Results
 outputs/qualitative_examples/task_a.md
 
 ✅ Challenge 1 – Task A completed
+
+
+Offline Partner Assistant – Task B (Smart Reply Generator)
+=========================================================
+
+What this is
+------------
+Task B generates short, natural Hinglish smart replies for a given delivery-partner context. Replies are constrained to be concise (<= 12 words) and fully offline.
+
+Demo in One Line
+---------------
+Context:
+customer gate band hai, kya karu
+
+Output (example):
+{"context":"customer gate band hai, kya karu","replies":["main call karta hoon","main wait karta hoon","aap gate khol sakte ho?"]}
+
+Data
+----
+Synthetic Hinglish context-reply pairs with strict schema validation.
+
+Tokenizer
+---------
+python -m scripts.build_tokenizer_b \
+  --task_b_clean_jsonl data/interim/task_b/clean_v2.jsonl \
+  --out_dir models/tokenizer/task_b
+
+Preprocess
+----------
+python -m scripts.preprocess \
+  --task task_b \
+  --clean_jsonl data/interim/task_b/clean_v2.jsonl \
+  --out_dir data/processed/task_b
+
+Train
+-----
+python -m scripts.train_task_b --prefer_mps
+
+Output:
+models/task_b/best.pt
+
+Export + Quantize
+----------------
+python -m scripts.export_task_b_onnx \
+  --ckpt models/task_b/best.pt \
+  --out_dir models/task_b/onnx
+
+Run ONNX Inference (End-to-End)
+-------------------------------
+python -m scripts.run_task_b_onnx \
+  --onnx models/task_b/onnx/task_b_lm.int8.onnx \
+  --spm models/tokenizer/task_b/spm.model \
+  --context "customer gate band hai, kya karu"
+
+Output:
+{"context":"customer gate band hai, kya karu","replies":["main call karta hoon","main wait karta hoon","aap gate khol sakte ho?"]}
+
+Qualitative Results
+-------------------
+python -m scripts.evaluate_task_b \
+  --onnx models/task_b/onnx/task_b_lm.onnx \
+  --spm models/tokenizer/task_b/spm.model \
+  --test_jsonl data/processed/task_b/test.jsonl
+
+Outputs:
+outputs/qualitative_examples/task_b.md

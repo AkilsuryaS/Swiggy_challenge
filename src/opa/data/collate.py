@@ -27,3 +27,13 @@ def collate_task_b(batch: List[TaskBExample]) -> Dict[str, torch.Tensor]:
     for k in t[0].keys():
         out[k] = torch.stack([x[k] for x in t], dim=0)
     return out
+
+
+from opa.data.dataset_c import TaskCExample, as_tensors as as_tensors_c
+
+def collate_task_c(batch: List[TaskCExample]) -> Dict[str, torch.Tensor]:
+    t = [as_tensors_c(b) for b in batch]
+    out = {}
+    for k in t[0].keys():
+        out[k] = torch.stack([x[k] for x in t], dim=0)
+    return out
