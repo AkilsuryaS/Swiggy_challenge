@@ -132,3 +132,66 @@ class TaskBRecord(BaseModel):
             raise ValueError(f"reply too long: {len(words)} words")
         return v
 
+
+from typing import Optional
+
+
+class TaskCParsed(BaseModel):
+    name: Optional[str] = None
+    phone: Optional[str] = None
+    house_flat: Optional[str] = None
+    building: Optional[str] = None
+    street: Optional[str] = None
+    landmark: Optional[str] = None
+    locality: Optional[str] = None
+    city: Optional[str] = None
+    state: Optional[str] = None
+    pincode: Optional[str] = None
+
+    @validator("pincode")
+    def pincode_six_digits_or_null(cls, v: Optional[str]) -> Optional[str]:
+        if v is None:
+            return None
+        v = v.strip()
+        if not v:
+            return None
+        if len(v) != 6 or not v.isdigit():
+            raise ValueError("pincode must be exactly 6 digits or null")
+        return v
+
+    @validator("phone")
+    def phone_masked_or_null(cls, v: Optional[str]) -> Optional[str]:
+        if v is None:
+            return None
+        v = v.strip()
+        if not v:
+            return None
+        # Allow masked formats only (e.g., 98xxxxxx12, 9xxxxxxx21)
+        digits = [c for c in v if c.isdigit()]
+        if len(digits) >= 10:
+            # looks like a real phone number -> reject
+            raise ValueError("phone looks like a real phone number; must be masked or null")
+        return v
+
+
+class TaskCRecord(BaseModel):
+    """
+    Task C raw schema:
+    {
+      "raw_address": "...",
+      "parsed": { ...fields... }
+    }
+    """
+    raw_address: str
+    parsed: TaskCParsed
+
+    @validator("raw_address")
+    def raw_address_valid(cls, v: str) -> str:
+        v = v.strip()
+        if not v:
+            raise ValueError("raw_address is empty")
+        # Reject Devanagari (must be roman)
+        if any("\u0900" <= ch <= "\u097F" for ch in v):
+            raise ValueError("raw_address contains Devanagari characters")
+        return v
+

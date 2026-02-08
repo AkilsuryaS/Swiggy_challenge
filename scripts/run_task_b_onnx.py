@@ -9,6 +9,7 @@ import numpy as np
 import onnxruntime as ort
 import sentencepiece as spm
 
+from opa.export.quantize import quantize_onnx_dynamic
 from opa.utils.text_norm import normalize_hinglish
 
 
@@ -63,7 +64,21 @@ def main() -> None:
     pad_id = sp.pad_id()
     eos_id = sp.eos_id()
 
-    sess = ort.InferenceSession(str(Path(args.onnx)), providers=["CPUExecutionProvider"])
+    onnx_path = Path(args.onnx)
+    if not onnx_path.exists():
+        # If user asked for INT8 but only FP32 exists, quantize on the fly.
+        if onnx_path.name.endswith(".int8.onnx"):
+            fp32_path = onnx_path.with_name(onnx_path.name.replace(".int8.onnx", ".onnx"))
+            if fp32_path.exists():
+                onnx_path = quantize_onnx_dynamic(fp32_path, onnx_path)
+            else:
+                raise FileNotFoundError(
+                    f"INT8 model not found: {onnx_path}. Also missing FP32: {fp32_path}"
+                )
+        else:
+            raise FileNotFoundError(f"ONNX model not found: {onnx_path}")
+
+    sess = ort.InferenceSession(str(onnx_path), providers=["CPUExecutionProvider"])
 
     ctx = normalize_hinglish(args.context)
     prompt = f"{ctx} {args.sep_token}".strip()

@@ -112,7 +112,7 @@ def build_label_maps_task_a() -> dict:
 # -----------------------------
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--task", type=str, required=True, choices=["task_a", "task_b"])
+    ap.add_argument("--task", type=str, required=True, choices=["task_a", "task_b", "task_c"])
     ap.add_argument("--clean_jsonl", type=str, required=True)
     ap.add_argument("--out_dir", type=str, required=True)
     ap.add_argument("--seed", type=int, default=1337)
@@ -166,6 +166,25 @@ def main() -> None:
         write_jsonl(out_dir / "test.jsonl", test)
 
         print(f"✅ Task B splits written to {out_dir}")
+        print(f"  train: {len(train)}")
+        print(f"  val:   {len(val)}")
+        print(f"  test:  {len(test)}")
+
+    elif args.task == "task_c":
+        # Task C rows: {"raw_address": "...", "parsed": {...}}
+        rows = []
+        from opa.data.schemas import TaskCRecord
+        for r in rows_raw:
+            rec = TaskCRecord(**r)
+            rows.append({"raw_address": rec.raw_address, "parsed": rec.parsed.dict()})
+
+        train, val, test = simple_split(rows, args.seed, args.val_frac, args.test_frac)
+
+        write_jsonl(out_dir / "train.jsonl", train)
+        write_jsonl(out_dir / "val.jsonl", val)
+        write_jsonl(out_dir / "test.jsonl", test)
+
+        print(f"✅ Task C splits written to {out_dir}")
         print(f"  train: {len(train)}")
         print(f"  val:   {len(val)}")
         print(f"  test:  {len(test)}")
