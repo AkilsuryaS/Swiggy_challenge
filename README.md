@@ -1,3 +1,18 @@
+This repository implements **Challenge 1** as an on-device, fully offline
+language-model-based assistant for delivery partners.
+
+The system consists of three tasks:
+- **Task A**: Hinglish Command Parsing (intent + slots)
+- **Task B**: Smart Reply Generation
+- **Task C**: Indian Address Parsing
+
+All models are:
+- trained from scratch (no hosted APIs)
+- optimized for on-device inference
+- exported to ONNX and INT8 quantized
+- runnable fully offline on CPU / Apple Silicon
+
+
 Offline Partner Assistant – Task A (Hinglish Command Parser)
 ============================================================
 
@@ -12,6 +27,18 @@ bhai next order ka address batao
 
 Output:
 {"intent":"get_address","slots":{"order":"next"}}
+
+Example
+-------
+Input:
+```
+order issue hai, item missing hai
+```
+
+Output:
+```json
+{"intent":"order_issue","slots":{"issue":"item_missing"}}
+```
 
 Supported Intents
 -----------------
@@ -107,6 +134,18 @@ customer gate band hai, kya karu
 Output (example):
 {"context":"customer gate band hai, kya karu","replies":["main call karta hoon","main wait karta hoon","aap gate khol sakte ho?"]}
 
+Example
+-------
+Context:
+```
+traffic zyada hai, late hoga
+```
+
+Output (example):
+```json
+{"context":"traffic zyada hai, late hoga","replies":["10 min late ho jaunga","thoda delay hai","main pahunch raha hoon"]}
+```
+
 Data
 ----
 Synthetic Hinglish context-reply pairs with strict schema validation.
@@ -172,6 +211,18 @@ flat 2B, MG road, Indore 452001
 
 Output (example):
 {"raw_address":"flat 2B, MG road, Indore 452001","parsed":{"name":null,"phone":null,"house_flat":"2B","building":null,"street":"MG road","landmark":null,"locality":null,"city":"Indore","state":null,"pincode":"452001"}}
+
+Example
+-------
+Raw:
+```
+2nd floor, A wing, Green Tower, Andheri West Mumbai 400058
+```
+
+Output (example):
+```json
+{"raw_address":"2nd floor, A wing, Green Tower, Andheri West Mumbai 400058","parsed":{"name":null,"phone":null,"house_flat":"2nd floor","building":"Green Tower","street":null,"landmark":null,"locality":"Andheri West","city":"Mumbai","state":null,"pincode":"400058"}}
+```
 
 Data
 ----
