@@ -36,6 +36,8 @@ env/
 
 # Project specific
 models/*/
+!models/tokenizer/
+!models/tokenizer/**
 !models/.gitkeep
 outputs/*/
 !outputs/.gitkeep
