@@ -313,6 +313,6 @@ Performance Summary (CPU, batch=1)
 ----------------------------------
 | Task | Model Size (INT8) | Latency |
 |------|------------------|---------|
-| A    | ~3.2 MB          | ~25 ms  |
-| B    | ~3.1 MB          | ~30 ms  |
-| C    | ~4.0 MB          | ~35 ms  |
+| A    | 3.18 MB          | 12.59 ms |
+| B    | 3.53 MB          | 2.61 ms  |
+| C    | 3.12 MB          | 91.59 ms |
