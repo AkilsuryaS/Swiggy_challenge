@@ -156,3 +156,68 @@ python -m scripts.evaluate_task_b \
 
 Outputs:
 outputs/qualitative_examples/task_b.md
+
+
+Offline Partner Assistant – Task C (Address Parser)
+===================================================
+
+What this is
+------------
+Task C parses a raw delivery address into structured fields (name/phone/address parts) using a lightweight encoder with span prediction and MLM auxiliary loss.
+
+Demo in One Line
+---------------
+Raw:
+flat 2B, MG road, Indore 452001
+
+Output (example):
+{"raw_address":"flat 2B, MG road, Indore 452001","parsed":{"name":null,"phone":null,"house_flat":"2B","building":null,"street":"MG road","landmark":null,"locality":null,"city":"Indore","state":null,"pincode":"452001"}}
+
+Data
+----
+Synthetic Hinglish/roman address data with strict schema validation and masked phone enforcement.
+
+Preprocess
+----------
+python -m scripts.preprocess \
+  --task task_c \
+  --clean_jsonl data/interim/task_c/clean_v3.jsonl \
+  --out_dir data/processed/task_c
+
+Train
+-----
+python -m scripts.train_task_c --prefer_mps
+
+Output:
+models/task_c/best.pt
+
+Export ONNX
+-----------
+python -m scripts.export_task_c_onnx \
+  --ckpt models/task_c/best.pt \
+  --out_dir models/task_c/onnx
+
+Run Inference (PyTorch)
+-----------------------
+python -m scripts.run_task_c \
+  --ckpt models/task_c/best.pt \
+  --raw_address "flat 2B, MG road, Indore 452001"
+
+Run Inference (ONNX)
+-------------------
+python -m scripts.run_task_c_onnx \
+  --onnx models/task_c/onnx/task_c_spans.onnx \
+  --spm models/tokenizer/task_a/spm.model \
+  --raw_address "flat 2B, MG road, Indore 452001"
+
+Qualitative Results
+-------------------
+python -m scripts.evaluate_task_c \
+  --onnx models/task_c/onnx/task_c_spans.onnx \
+  --spm models/tokenizer/task_a/spm.model \
+  --test_jsonl data/processed/task_c/test.jsonl \
+  --out_md outputs/qualitative_examples/task_c.md \
+  --num_examples 5
+
+Outputs:
+outputs/qualitative_examples/task_c.md
