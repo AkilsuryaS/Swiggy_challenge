@@ -1,3 +1,6 @@
+Offline Partner Assistant 
+=========================
+
 This repository implements **Challenge 1** as an on-device, fully offline
 language-model-based assistant for delivery partners.
 
@@ -13,8 +16,8 @@ All models are:
 - runnable fully offline on CPU / Apple Silicon
 
 
-Offline Partner Assistant – Task A (Hinglish Command Parser)
-============================================================
+Task A (Hinglish Command Parser)
+================================
 
 What this is
 ------------
@@ -116,11 +119,11 @@ Qualitative Results
 5 qualitative examples (ground truth vs model output) are auto-generated using INT8 ONNX inference:
 outputs/qualitative_examples/task_a.md
 
-✅ Challenge 1 – Task A completed
+---------
 
 
-Offline Partner Assistant – Task B (Smart Reply Generator)
-=========================================================
+Task B (Smart Reply Generator)
+===============================
 
 What this is
 ------------
@@ -197,8 +200,8 @@ Outputs:
 outputs/qualitative_examples/task_b.md
 
 
-Offline Partner Assistant – Task C (Address Parser)
-===================================================
+Task C (Address Parser)
+=======================
 
 What this is
 ------------
@@ -272,3 +275,12 @@ python -m scripts.evaluate_task_c \
 
 Outputs:
 outputs/qualitative_examples/task_c.md
+
+
+Performance Summary (CPU, batch=1)
+----------------------------------
+| Task | Model Size (INT8) | Latency |
+|------|------------------|---------|
+| A    | ~3.2 MB          | ~25 ms  |
+| B    | ~3.1 MB          | ~30 ms  |
+| C    | ~4.0 MB          | ~35 ms  |
