@@ -29,6 +29,12 @@ def main() -> None:
     ap.add_argument("--ckpt", type=str, default="models/task_a/best.pt")
     ap.add_argument("--out_dir", type=str, default="models/task_a/onnx")
     ap.add_argument("--opset", type=int, default=17)
+    ap.add_argument("--batch", type=int, default=1, help="Static batch size for export dummy inputs")
+    ap.add_argument(
+        "--no_dynamic_axes",
+        action="store_true",
+        help="Disable dynamic axes (useful for INT8 quantization).",
+    )
     args = ap.parse_args()
 
     ckpt_path = Path(args.ckpt)
@@ -67,9 +73,9 @@ def main() -> None:
 
     wrapper = TaskAOnnxWrapper(model).eval()
 
-    # dummy inputs (dynamic batch, fixed max_len for simplicity)
-    input_ids = torch.ones((1, max_len), dtype=torch.long)
-    attention_mask = torch.ones((1, max_len), dtype=torch.long)
+    # dummy inputs (batch from args, fixed max_len)
+    input_ids = torch.ones((int(args.batch), max_len), dtype=torch.long)
+    attention_mask = torch.ones((int(args.batch), max_len), dtype=torch.long)
 
     onnx_path = out_dir / "task_a_intent_slot.onnx"
     torch.onnx.export(
@@ -78,7 +84,7 @@ def main() -> None:
         f=str(onnx_path),
         input_names=["input_ids", "attention_mask"],
         output_names=["intent_logits", "slot_logits"],
-        dynamic_axes={
+        dynamic_axes=None if args.no_dynamic_axes else {
             "input_ids": {0: "batch"},
             "attention_mask": {0: "batch"},
             "intent_logits": {0: "batch"},
