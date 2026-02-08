@@ -86,30 +86,66 @@ def main() -> None:
 
     parsed: Dict[str, Optional[str]] = {f: None for f in FIELDS}
 
+    bad_name_tokens = {
+        "flat","house","h","no","hno","road","rd","street","st","near","opp","behind",
+        "tower","apts","apartment","society","phase","block","wing","mg","main"
+    }
+
+    def looks_like_masked_phone(s: str) -> bool:
+        s2 = s.replace(" ", "")
+        if "x" in s2.lower():
+            return True
+        digits = "".join([c for c in s2 if c.isdigit()])
+        # reject real-looking phones
+        if len(digits) >= 10:
+            return False
+        return False
+
+    field_thresh = {f: float(args.confidence) for f in FIELDS}
+    field_thresh["name"] = max(float(args.confidence), 0.55)
+    field_thresh["phone"] = max(float(args.confidence), 0.65)
+
     for fi, field in enumerate(FIELDS):
         s = start_logits[fi, :T_valid]
         e = end_logits[fi, :T_valid]
+
         ps = softmax(s.astype(np.float64))
         pe = softmax(e.astype(np.float64))
+
         s_idx = int(np.argmax(ps))
         e_idx = int(np.argmax(pe))
         conf = float(ps[s_idx] * pe[e_idx])
 
         if e_idx < s_idx:
             continue
-        if conf < float(args.confidence):
+        if conf < field_thresh.get(field, float(args.confidence)):
             continue
 
         text = extract_span_text(sp, ids_core, s_idx, e_idx)
         if not text:
             continue
 
+        text = " ".join(text.split()).strip()
+
         if field == "pincode":
             digits = "".join([c for c in text if c.isdigit()])
             text = digits if len(digits) == 6 else ""
+            if not text:
+                continue
 
-        if text:
-            parsed[field] = text
+        if field == "phone":
+            if not looks_like_masked_phone(text):
+                continue
+
+        if field == "name":
+            low = text.lower()
+            toks = [t for t in low.replace(",", " ").split() if t]
+            if any(t in bad_name_tokens for t in toks):
+                continue
+            if len(toks) == 1 and len(toks[0]) <= 3:
+                continue
+
+        parsed[field] = text
 
     print(json.dumps({"raw_address": raw, "parsed": parsed}, ensure_ascii=False, indent=2))
 
