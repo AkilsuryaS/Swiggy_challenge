@@ -82,19 +82,24 @@ Strict schema validation + deduplication
 
 Setup
 -----
+```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -e .
+```
 
 Train
 -----
+```bash
 python -m scripts.train_task_a --prefer_mps
+```
 
 Output:
 models/task_a/best.pt
 
 Export + Quantize
 ----------------
+```bash
 python -m scripts.export_onnx \
   --ckpt models/task_a/best.pt \
   --out_dir models/task_a/onnx
@@ -102,14 +107,17 @@ python -m scripts.export_onnx \
 python -m scripts.benchmark_infer \
   --onnx models/task_a/onnx/task_a_intent_slot.onnx \
   --out_dir models/task_a/onnx
+```
 
 Run ONNX Inference (End-to-End)
 -------------------------------
+```bash
 python -m scripts.run_task_a_onnx \
   --onnx models/task_a/onnx/task_a_intent_slot.int8.onnx \
   --spm models/tokenizer/task_a/spm.model \
   --label_maps data/processed/task_a/label_maps.json \
   --text "traffic zyada hai 10 min late hoga"
+```
 
 Output:
 {"intent":"report_delay","slots":{"delay_min":"10"}}
@@ -155,46 +163,58 @@ Synthetic Hinglish context-reply pairs with strict schema validation.
 
 Tokenizer
 ---------
+```bash
 python -m scripts.build_tokenizer_b \
   --task_b_clean_jsonl data/interim/task_b/clean_v2.jsonl \
   --out_dir models/tokenizer/task_b
+```
 
 Preprocess
 ----------
+```bash
 python -m scripts.preprocess \
   --task task_b \
   --clean_jsonl data/interim/task_b/clean_v2.jsonl \
   --out_dir data/processed/task_b
+```
 
 Train
 -----
+```bash
 python -m scripts.train_task_b --prefer_mps
+```
 
 Output:
 models/task_b/best.pt
 
 Export + Quantize
 ----------------
+```bash
 python -m scripts.export_task_b_onnx \
   --ckpt models/task_b/best.pt \
   --out_dir models/task_b/onnx
+```
 
 Run ONNX Inference (End-to-End)
 -------------------------------
+```bash
 python -m scripts.run_task_b_onnx \
   --onnx models/task_b/onnx/task_b_lm.int8.onnx \
   --spm models/tokenizer/task_b/spm.model \
   --context "customer gate band hai, kya karu"
+```
 
 Output:
 {"context":"customer gate band hai, kya karu","replies":["main call karta hoon","main wait karta hoon","aap gate khol sakte ho?"]}
 
 Qualitative Results
 -------------------
+```bash
 python -m scripts.evaluate_task_b \
   --onnx models/task_b/onnx/task_b_lm.onnx \
   --spm models/tokenizer/task_b/spm.model \
   --test_jsonl data/processed/task_b/test.jsonl
+```
 
 Outputs:
 outputs/qualitative_examples/task_b.md
@@ -233,45 +253,57 @@ Synthetic Hinglish/roman address data with strict schema validation and masked p
 
 Preprocess
 ----------
+```bash
 python -m scripts.preprocess \
   --task task_c \
   --clean_jsonl data/interim/task_c/clean_v3.jsonl \
   --out_dir data/processed/task_c
+```
 
 Train
 -----
+```bash
 python -m scripts.train_task_c --prefer_mps
+```
 
 Output:
 models/task_c/best.pt
 
 Export ONNX
 -----------
+```bash
 python -m scripts.export_task_c_onnx \
   --ckpt models/task_c/best.pt \
   --out_dir models/task_c/onnx
+```
 
 Run Inference (PyTorch)
 -----------------------
+```bash
 python -m scripts.run_task_c \
   --ckpt models/task_c/best.pt \
   --raw_address "flat 2B, MG road, Indore 452001"
+```
 
 Run Inference (ONNX)
 -------------------
+```bash
 python -m scripts.run_task_c_onnx \
   --onnx models/task_c/onnx/task_c_spans.onnx \
   --spm models/tokenizer/task_a/spm.model \
   --raw_address "flat 2B, MG road, Indore 452001"
+```
 
 Qualitative Results
 -------------------
+```bash
 python -m scripts.evaluate_task_c \
   --onnx models/task_c/onnx/task_c_spans.onnx \
   --spm models/tokenizer/task_a/spm.model \
   --test_jsonl data/processed/task_c/test.jsonl \
   --out_md outputs/qualitative_examples/task_c.md \
   --num_examples 5
+```
 
 Outputs:
 outputs/qualitative_examples/task_c.md
