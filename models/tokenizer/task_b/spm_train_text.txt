@@ -1,0 +1,6000 @@
+tower par entry issue hai
+main handle kar raha hoon
+turn miss ho gaya
+map dekh kar aa raha hoon
+road closed ki wajah se 10 min late ho jayega
+bas 25 min mein pahunch jaunga
+diversion ki wajah se 12 min late ho jayega
+bas 5 min mein pahunch jaunga
+25 min late ho jayega
+bas thoda wait kar lijiye
+society par security rok rahi hai
+main location confirm karta hoon
+restaurant ne bola 10 min aur lagega
+jaise hi ready hoga main nikal jaunga
+customer bol raha hai route galat hai
+main map check kar raha hoon
+rain ki wajah se 18 min late ho jayega
+bas 15 min mein pahunch jaunga
+restaurant ne bola 5 min aur lagega
+main check karke batata hoon
+order issue report karna hai
+main update dunga
+traffic ki wajah se 5 min late ho jayega
+bas 15 min mein pahunch jaunga
+map sahi nahi aa raha
+main gate pe aa raha hoon
+road work ki wajah se late ho raha hai
+main time par pahunchne ki koshish kar raha hoon
+landmark match nahi ho raha
+theek hai main dekh raha hoon
+road work ki wajah se 5 min late ho jayega
+bas 15 min mein pahunch jaunga
+rain ki wajah se 35 min late ho jayega
+bas 30 min mein pahunch jaunga
+traffic ki wajah se 5 min late ho jayega
+bas 12 min mein pahunch jaunga
+lane par security rok rahi hai
+main landmark dekh kar aa raha hoon
+road closed ki wajah se 25 min late ho jayega
+bas 18 min mein pahunch jaunga
+system me address mismatch dikh raha hai
+main check karke batata hoon
+customer ke paas pahunch gaya hoon
+deliver karte hi update dunga
+rain ki wajah se 18 min late ho jayega
+delay ke liye sorry
+pickup location pahunch gaya hoon
+main check karke batata hoon
+accident ki wajah se 12 min late ho jayega
+bas 10 min mein pahunch jaunga
+20 min late ho jayega
+bas 35 min mein pahunch jaunga
+order handover kar diya
+main customer ke gate par hoon
+signal block ki wajah se 18 min late ho jayega
+main handle kar raha hoon
+road closed ki wajah se 18 min late ho jayega
+bas 10 min mein pahunch jaunga
+signal block ki wajah se 20 min late ho jayega
+main handle kar raha hoon
+customer ne bola thoda wait karo
+main phir se aata hoon
+landmark samajh nahi aa raha
+main check karke batata hoon
+pickup ke liye nikal gaya hoon
+theek hai main dekh raha hoon
+18 min ka delay hai
+main update de raha hoon
+direction clear nahi hai
+main security se baat karta hoon
+signal block ki wajah se 12 min late ho jayega
+main jaldi aa raha hoon
+road closed ki wajah se 5 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+road closed ki wajah se 35 min late ho jayega
+bas 15 min mein pahunch jaunga
+customer ne bola thoda wait karo
+main support ko inform karta hoon
+map me route change aa raha hai
+main turn lekar aa raha hoon
+entry par entry issue hai
+main map check kar raha hoon
+order ready hone ka wait hai
+bas thoda wait kijiye
+society band hai
+main map check kar raha hoon
+rain ki wajah se late ho raha hai
+main update de raha hoon
+10 min late ho jayega
+bas 15 min mein pahunch jaunga
+delivery me delay ho gaya
+bas thoda wait kar lijiye
+customer ko item damaged lag raha hai
+main help leta hoon
+traffic ki wajah se 20 min late ho jayega
+delay ke liye sorry
+35 min late ho jayega
+bas 30 min mein pahunch jaunga
+traffic ki wajah se 20 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+location match nahi ho raha
+main gate pe aa raha hoon
+rain ki wajah se 30 min late ho jayega
+bas 5 min mein pahunch jaunga
+pin clear nahi hai
+main security se baat karta hoon
+road closed ki wajah se 25 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+location match nahi ho raha
+main location confirm karta hoon
+signal block ki wajah se 15 min late ho jayega
+bas 10 min mein pahunch jaunga
+signal block ki wajah se 18 min late ho jayega
+bas 25 min mein pahunch jaunga
+diversion ki wajah se 8 min late ho jayega
+bas 12 min mein pahunch jaunga
+signal block ki wajah se 8 min late ho jayega
+bas 35 min mein pahunch jaunga
+accident ki wajah se 30 min late ho jayega
+bas thoda wait kar lijiye
+rasta samajh nahi aa raha
+theek hai main dekh raha hoon
+road closed ki wajah se 12 min late ho jayega
+bas 30 min mein pahunch jaunga
+road work ki wajah se 35 min late ho jayega
+bas 12 min mein pahunch jaunga
+traffic ki wajah se 10 min late ho jayega
+thodi der aur
+road work ki wajah se 15 min late ho jayega
+bas 5 min mein pahunch jaunga
+wrong route le liya
+main sahi route pakad raha hoon
+accident ki wajah se 35 min late ho jayega
+bas 15 min mein pahunch jaunga
+direction sahi nahi aa raha
+main entry point dhoondh raha hoon
+accident ki wajah se 5 min late ho jayega
+main update de raha hoon
+call lagaya par response nahi mila
+main handle kar raha hoon
+5 min ka delay hai
+delay ke liye sorry
+system me location mismatch dikh raha hai
+main handle kar raha hoon
+jam ki wajah se 10 min late ho jayega
+main check karke batata hoon
+road closed ki wajah se 5 min late ho jayega
+bas 35 min mein pahunch jaunga
+customer se wait ho raha hai
+main check karke batata hoon
+accident ki wajah se 5 min late ho jayega
+on the way hoon
+road closed ki wajah se 5 min late ho jayega
+main check karke batata hoon
+jam ki wajah se 10 min late ho jayega
+on the way hoon
+road work ki wajah se 12 min late ho jayega
+main check karke batata hoon
+20 min ka delay hai
+bas 35 min mein pahunch jaunga
+customer bol raha hai map galat hai
+main entry point dhoondh raha hoon
+pin clear nahi hai
+main gate pe aa raha hoon
+road work ki wajah se late ho raha hai
+bas thoda wait kar lijiye
+system bol raha hai order late hai
+main update de raha hoon
+traffic ki wajah se 18 min late ho jayega
+bas 30 min mein pahunch jaunga
+building par entry issue hai
+main landmark dekh kar aa raha hoon
+customer ne bola abhi nahi mil sakta
+main check karke batata hoon
+traffic ki wajah se 18 min late ho jayega
+bas 35 min mein pahunch jaunga
+road closed ki wajah se 20 min late ho jayega
+bas 15 min mein pahunch jaunga
+jam ki wajah se 30 min late ho jayega
+thodi der aur
+direction clear nahi hai
+theek hai main dekh raha hoon
+rain ki wajah se 8 min late ho jayega
+on the way hoon
+order tracking update chahiye
+main abhi update bhej raha hoon
+road work ki wajah se late ho raha hai
+bas 20 min mein pahunch jaunga
+traffic ki wajah se 8 min late ho jayega
+bas 35 min mein pahunch jaunga
+order deliver kar diya
+main handle kar raha hoon
+rain ki wajah se 20 min late ho jayega
+main update de raha hoon
+main queue me hoon
+main update dunga
+signal block ki wajah se 10 min late ho jayega
+on the way hoon
+parking band hai
+main security se baat karta hoon
+address samajh nahi aa raha
+main check karke batata hoon
+lane par security rok rahi hai
+theek hai main dekh raha hoon
+8 min ka delay hai
+bas 12 min mein pahunch jaunga
+18 min ka delay hai
+bas 8 min mein pahunch jaunga
+direction sahi nahi aa raha
+main landmark dekh kar aa raha hoon
+customer se call par baat nahi ho rahi
+main dobara call karta hoon
+direction clear nahi hai
+main landmark dekh kar aa raha hoon
+entry ka rasta nahi mil raha
+main address verify kar raha hoon
+number lagaya par response nahi mila
+main thodi der mein call karta hoon
+order ka status pooch rahe hain
+main status confirm karke batata hoon
+delivery instructions check karni hai
+main instructions check karta hoon
+traffic ki wajah se late ho raha hai
+theek hai main dekh raha hoon
+block par security rok rahi hai
+main map check kar raha hoon
+diversion ki wajah se 25 min late ho jayega
+main update dunga
+route sahi nahi aa raha
+main check karke batata hoon
+address clear nahi hai
+main gate pe aa raha hoon
+customer se number par baat nahi ho rahi
+main message bhej raha hoon
+road closed ki wajah se 10 min late ho jayega
+bas 12 min mein pahunch jaunga
+diversion ki wajah se 30 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+customer bol raha hai society band hai
+theek hai main dekh raha hoon
+diversion ki wajah se 15 min late ho jayega
+bas 35 min mein pahunch jaunga
+accident ki wajah se 15 min late ho jayega
+main handle kar raha hoon
+5 min ka delay hai
+bas 12 min mein pahunch jaunga
+customer se confirmation chahiye
+main details verify kar raha hoon
+customer ka phone busy aa raha hai
+main check karke batata hoon
+restaurant par wait chal raha hai
+main wait kar raha hoon
+8 min ka delay hai
+on the way hoon
+diversion ki wajah se 30 min late ho jayega
+bas 10 min mein pahunch jaunga
+diversion ki wajah se 20 min late ho jayega
+bas 35 min mein pahunch jaunga
+diversion ki wajah se 15 min late ho jayega
+main check karke batata hoon
+road work ki wajah se 10 min late ho jayega
+bas 18 min mein pahunch jaunga
+diversion ki wajah se 12 min late ho jayega
+on the way hoon
+traffic ki wajah se 18 min late ho jayega
+main update de raha hoon
+lift par entry issue hai
+main entry point dhoondh raha hoon
+15 min late ho jayega
+thodi der aur
+system me landmark mismatch dikh raha hai
+main gate pe aa raha hoon
+accident ki wajah se 12 min late ho jayega
+bas 20 min mein pahunch jaunga
+tower par security rok rahi hai
+main check karke batata hoon
+traffic ki wajah se 8 min late ho jayega
+main update de raha hoon
+25 min ka delay hai
+delay ke liye sorry
+jam ki wajah se 30 min late ho jayega
+bas 18 min mein pahunch jaunga
+pickup complete ho gaya
+abhi nikal raha hoon
+road work ki wajah se 8 min late ho jayega
+main update de raha hoon
+order thoda late ho raha hai
+main update dunga
+road closed ki wajah se 15 min late ho jayega
+bas 15 min mein pahunch jaunga
+jam ki wajah se late ho raha hai
+bas 25 min mein pahunch jaunga
+system bol raha hai order late hai
+bas 8 min mein pahunch jaunga
+diversion ki wajah se 35 min late ho jayega
+on the way hoon
+diversion ki wajah se 30 min late ho jayega
+bas 30 min mein pahunch jaunga
+accident ki wajah se 5 min late ho jayega
+bas 30 min mein pahunch jaunga
+pin clear nahi hai
+main entry point dhoondh raha hoon
+road closed ki wajah se late ho raha hai
+bas 30 min mein pahunch jaunga
+jam ki wajah se 15 min late ho jayega
+bas 12 min mein pahunch jaunga
+traffic ki wajah se late ho raha hai
+main update dunga
+gate code confirm karna hai
+main instructions check karta hoon
+customer ka phone switch off hai
+main thodi der mein call karta hoon
+jam ki wajah se 12 min late ho jayega
+main check karke batata hoon
+rain ki wajah se 35 min late ho jayega
+thodi der aur
+main queue me hoon
+theek hai main dekh raha hoon
+5 min late ho jayega
+bas 35 min mein pahunch jaunga
+20 min ka delay hai
+bas 8 min mein pahunch jaunga
+call lagaya par response nahi mila
+main message bhej raha hoon
+call connect nahi ho raha
+main thodi der mein call karta hoon
+customer ke paas pahunch gaya hoon
+delivery complete kar diya
+pin samajh nahi aa raha
+theek hai main dekh raha hoon
+20 min late ho jayega
+bas 30 min mein pahunch jaunga
+accident ki wajah se 25 min late ho jayega
+bas 10 min mein pahunch jaunga
+traffic ki wajah se 5 min late ho jayega
+bas 18 min mein pahunch jaunga
+rain ki wajah se 35 min late ho jayega
+on the way hoon
+direction match nahi ho raha
+theek hai main dekh raha hoon
+order le liya hai
+order le liya hai
+road work ki wajah se 8 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+block ka rasta nahi mil raha
+main check karke batata hoon
+number lagaya par response nahi mila
+main handle kar raha hoon
+diversion ki wajah se 8 min late ho jayega
+bas 10 min mein pahunch jaunga
+jam ki wajah se 12 min late ho jayega
+theek hai main dekh raha hoon
+18 min late ho jayega
+bas 20 min mein pahunch jaunga
+road work ki wajah se 30 min late ho jayega
+main handle kar raha hoon
+road work ki wajah se 5 min late ho jayega
+thodi der aur
+route match nahi ho raha
+main handle kar raha hoon
+gate par entry issue hai
+main map check kar raha hoon
+security par entry issue hai
+main landmark dekh kar aa raha hoon
+map sahi nahi aa raha
+main handle kar raha hoon
+jam ki wajah se 20 min late ho jayega
+thodi der aur
+customer bol raha hai refund chahiye
+main handle kar raha hoon
+diversion ki wajah se 20 min late ho jayega
+main handle kar raha hoon
+5 min ka delay hai
+bas 18 min mein pahunch jaunga
+thoda delay ho gaya
+maaf kijiye thoda late ho raha hoon
+order deliver karne ja raha hoon
+main delivery complete kar raha hoon
+food ready nahi hua
+main handle kar raha hoon
+direction sahi nahi aa raha
+main check karke batata hoon
+pickup confirmed hai
+main update dunga
+30 min ka delay hai
+main time par pahunchne ki koshish kar raha hoon
+road closed ki wajah se 25 min late ho jayega
+thodi der aur
+road closed ki wajah se late ho raha hai
+bas 15 min mein pahunch jaunga
+entry par entry issue hai
+main address verify kar raha hoon
+15 min late ho jayega
+bas 20 min mein pahunch jaunga
+traffic ki wajah se 12 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+road work ki wajah se 20 min late ho jayega
+thodi der aur
+signal block ki wajah se 8 min late ho jayega
+theek hai main dekh raha hoon
+road work ki wajah se 8 min late ho jayega
+bas 25 min mein pahunch jaunga
+jam ki wajah se 12 min late ho jayega
+thodi der aur
+20 min ka delay hai
+maaf kijiye thoda late ho raha hoon
+jam ki wajah se 18 min late ho jayega
+main jaldi aa raha hoon
+parking band hai
+main address verify kar raha hoon
+restaurant ne bola 15 min aur lagega
+restaurant se pickup ke baad nikalunga
+building band hai
+main address verify kar raha hoon
+lift par entry issue hai
+main handle kar raha hoon
+customer ke paas pahunch gaya hoon
+order de diya hai
+restaurant ne bola 12 min aur lagega
+theek hai main dekh raha hoon
+road work ki wajah se 18 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+landmark clear nahi hai
+main handle kar raha hoon
+restaurant crowded hai
+packing complete hote hi nikalta hoon
+diversion ki wajah se 30 min late ho jayega
+main update dunga
+diversion ki wajah se 12 min late ho jayega
+bas 10 min mein pahunch jaunga
+diversion ki wajah se 5 min late ho jayega
+theek hai main dekh raha hoon
+landmark clear nahi hai
+main location confirm karta hoon
+road work ki wajah se 10 min late ho jayega
+main jaldi aa raha hoon
+diversion ki wajah se late ho raha hai
+bas 12 min mein pahunch jaunga
+road closed ki wajah se 10 min late ho jayega
+main update de raha hoon
+address sahi nahi aa raha
+main handle kar raha hoon
+lane band hai
+main gate pe aa raha hoon
+tower band hai
+main map check kar raha hoon
+restaurant me packing delay hai
+main restaurant se confirm kar raha hoon
+customer bol raha hai route galat hai
+main entry point dhoondh raha hoon
+traffic ki wajah se 12 min late ho jayega
+bas 35 min mein pahunch jaunga
+15 min ka delay hai
+maaf kijiye thoda late ho raha hoon
+customer bol raha hai order late hai
+main jaldi aa raha hoon
+customer bol raha hai location galat hai
+theek hai main dekh raha hoon
+delivery me delay ho gaya
+bas 35 min mein pahunch jaunga
+traffic ki wajah se 15 min late ho jayega
+main jaldi aa raha hoon
+12 min late ho jayega
+thodi der aur
+accident ki wajah se 25 min late ho jayega
+bas 18 min mein pahunch jaunga
+jam ki wajah se 35 min late ho jayega
+theek hai main dekh raha hoon
+jam ki wajah se 12 min late ho jayega
+bas 25 min mein pahunch jaunga
+jam ki wajah se 8 min late ho jayega
+bas 15 min mein pahunch jaunga
+12 min ka delay hai
+main update dunga
+diversion ki wajah se 20 min late ho jayega
+thodi der aur
+thoda delay ho gaya
+delay ke liye sorry
+order deliver kar diya
+order de diya hai
+5 min ka delay hai
+main check karke batata hoon
+road closed ki wajah se late ho raha hai
+bas thoda wait kar lijiye
+traffic ki wajah se 25 min late ho jayega
+main check karke batata hoon
+restaurant ne bola 18 min aur lagega
+ready hote hi update dunga
+rain ki wajah se 12 min late ho jayega
+bas 5 min mein pahunch jaunga
+gate par security rok rahi hai
+main location confirm karta hoon
+diversion ki wajah se 30 min late ho jayega
+thodi der aur
+gate ka rasta nahi mil raha
+main gate pe aa raha hoon
+accident ki wajah se 15 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+25 min ka delay hai
+main handle kar raha hoon
+road closed ki wajah se 8 min late ho jayega
+main jaldi aa raha hoon
+order details verify karni hai
+theek hai main dekh raha hoon
+diversion ki wajah se late ho raha hai
+theek hai main dekh raha hoon
+thoda delay ho gaya
+main update de raha hoon
+diversion ki wajah se 25 min late ho jayega
+bas 18 min mein pahunch jaunga
+road closed ki wajah se 25 min late ho jayega
+bas 20 min mein pahunch jaunga
+galat lane me aa gaya
+navigation follow kar raha hoon
+lift par security rok rahi hai
+main location confirm karta hoon
+route unclear hai
+main check karke batata hoon
+restaurant ne bola 12 min aur lagega
+main check karke batata hoon
+accident ki wajah se 35 min late ho jayega
+main jaldi aa raha hoon
+road work ki wajah se 30 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+system me address mismatch dikh raha hai
+main location confirm karta hoon
+5 min late ho jayega
+delay ke liye sorry
+rain ki wajah se 25 min late ho jayega
+bas 18 min mein pahunch jaunga
+road closed ki wajah se late ho raha hai
+main update de raha hoon
+address samajh nahi aa raha
+main location confirm karta hoon
+customer bol raha hai security band hai
+theek hai main dekh raha hoon
+accident ki wajah se 18 min late ho jayega
+bas 12 min mein pahunch jaunga
+delivery late ho rahi hai
+bas 25 min mein pahunch jaunga
+traffic ki wajah se late ho raha hoon
+main update de raha hoon
+road closed ki wajah se 15 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+jam ki wajah se 8 min late ho jayega
+bas 18 min mein pahunch jaunga
+aaj thoda delay ho gaya
+main handle kar raha hoon
+chef abhi ban raha hai
+main update dunga
+road closed ki wajah se 5 min late ho jayega
+main handle kar raha hoon
+rain ki wajah se 20 min late ho jayega
+bas 12 min mein pahunch jaunga
+order details verify karni hai
+main entry details confirm karta hoon
+signal block ki wajah se 18 min late ho jayega
+main jaldi aa raha hoon
+rain ki wajah se 30 min late ho jayega
+bas 18 min mein pahunch jaunga
+tower par entry issue hai
+main entry point dhoondh raha hoon
+restaurant par wait chal raha hai
+main wait karke update dunga
+diversion ki wajah se 30 min late ho jayega
+bas 18 min mein pahunch jaunga
+road work ki wajah se 30 min late ho jayega
+bas 20 min mein pahunch jaunga
+call connect nahi ho raha
+main message bhej raha hoon
+road work ki wajah se 18 min late ho jayega
+bas thoda wait kar lijiye
+route sahi nahi aa raha
+main security se baat karta hoon
+road work ki wajah se 30 min late ho jayega
+bas 12 min mein pahunch jaunga
+gate code confirm karna hai
+main check karke batata hoon
+entry par entry issue hai
+main location confirm karta hoon
+call connect nahi ho raha
+main phir se contact karta hoon
+order issue report karna hai
+main help leta hoon
+traffic ki wajah se late ho raha hoon
+bas 30 min mein pahunch jaunga
+landmark match nahi ho raha
+main map check kar raha hoon
+customer bol raha hai lift band hai
+main update dunga
+customer ne bola abhi nahi mil sakta
+main support ko inform karta hoon
+customer call nahi utha raha
+main thodi der mein call karta hoon
+system bol raha hai order late hai
+bas 18 min mein pahunch jaunga
+18 min ka delay hai
+maaf kijiye thoda late ho raha hoon
+traffic ki wajah se 15 min late ho jayega
+bas 10 min mein pahunch jaunga
+customer bol raha hai parking band hai
+theek hai main dekh raha hoon
+rain ki wajah se 25 min late ho jayega
+on the way hoon
+restaurant ne bola 10 min aur lagega
+main handle kar raha hoon
+diversion ki wajah se 12 min late ho jayega
+main update de raha hoon
+accident ki wajah se 12 min late ho jayega
+main update de raha hoon
+aaj thoda delay ho gaya
+bas thoda wait kar lijiye
+traffic ki wajah se 10 min late ho jayega
+bas 15 min mein pahunch jaunga
+payment me issue aa raha hai
+main verify karke batata hoon
+restaurant se wait chal raha hai
+theek hai main dekh raha hoon
+thoda delay ho gaya
+thodi der aur
+lift ka rasta nahi mil raha
+main landmark dekh kar aa raha hoon
+block band hai
+main security se baat karta hoon
+direction samajh nahi aa raha
+main map check kar raha hoon
+8 min late ho jayega
+on the way hoon
+signal block ki wajah se 35 min late ho jayega
+bas 15 min mein pahunch jaunga
+kitchen busy hai
+main restaurant se confirm kar raha hoon
+traffic ki wajah se 12 min late ho jayega
+bas 18 min mein pahunch jaunga
+delivery ke liye near location hoon
+delivery complete kar diya
+jam ki wajah se 15 min late ho jayega
+main jaldi aa raha hoon
+18 min late ho jayega
+theek hai main dekh raha hoon
+customer bol raha hai lift band hai
+main map check kar raha hoon
+jam ki wajah se 35 min late ho jayega
+bas 25 min mein pahunch jaunga
+jam ki wajah se 25 min late ho jayega
+main update de raha hoon
+rain ki wajah se 18 min late ho jayega
+theek hai main dekh raha hoon
+traffic ki wajah se 25 min late ho jayega
+bas 12 min mein pahunch jaunga
+road work ki wajah se 10 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+road work ki wajah se 12 min late ho jayega
+theek hai main dekh raha hoon
+delivery ke liye nikal gaya hoon
+order de diya hai
+delivery instructions unclear hai
+main map check kar raha hoon
+road work ki wajah se 8 min late ho jayega
+bas 30 min mein pahunch jaunga
+order deliver kar diya
+main delivery complete kar raha hoon
+10 min late ho jayega
+bas 18 min mein pahunch jaunga
+signal block ki wajah se 30 min late ho jayega
+bas 8 min mein pahunch jaunga
+35 min late ho jayega
+bas thoda wait kar lijiye
+18 min ka delay hai
+bas thoda wait kar lijiye
+diversion ki wajah se 20 min late ho jayega
+bas 12 min mein pahunch jaunga
+rain ki wajah se 15 min late ho jayega
+bas 5 min mein pahunch jaunga
+delivery note confirm karna hai
+main entry details confirm karta hoon
+restaurant crowded hai
+main wait kar raha hoon
+signal block ki wajah se 12 min late ho jayega
+main update dunga
+signal block ki wajah se 8 min late ho jayega
+main check karke batata hoon
+traffic ki wajah se 12 min late ho jayega
+main update de raha hoon
+signal block ki wajah se 15 min late ho jayega
+main jaldi aa raha hoon
+block par entry issue hai
+main entry point dhoondh raha hoon
+location sahi nahi aa raha
+main handle kar raha hoon
+parking par security rok rahi hai
+main map check kar raha hoon
+security par security rok rahi hai
+main location confirm karta hoon
+signal block ki wajah se 8 min late ho jayega
+bas 18 min mein pahunch jaunga
+traffic ki wajah se late ho raha hai
+bas 30 min mein pahunch jaunga
+direction match nahi ho raha
+main address verify kar raha hoon
+delivery late ho rahi hai
+bas 10 min mein pahunch jaunga
+entry par security rok rahi hai
+main location confirm karta hoon
+main customer ke gate par hoon
+deliver karte hi update dunga
+pin clear nahi hai
+theek hai main dekh raha hoon
+order ready hai pickup kar raha hoon
+order le liya hai
+location samajh nahi aa raha
+main check karke batata hoon
+road closed ki wajah se 5 min late ho jayega
+bas thoda wait kar lijiye
+route kaafi confusing hai
+main sahi route pakad raha hoon
+diversion ki wajah se 25 min late ho jayega
+main jaldi aa raha hoon
+main queue me hoon
+main thodi der wait karta hoon
+signal block ki wajah se 15 min late ho jayega
+main update de raha hoon
+traffic ki wajah se 12 min late ho jayega
+bas 5 min mein pahunch jaunga
+20 min late ho jayega
+thodi der aur
+delivery instructions check karni hai
+main check karke batata hoon
+parking par security rok rahi hai
+main entry point dhoondh raha hoon
+8 min late ho jayega
+bas 18 min mein pahunch jaunga
+25 min ka delay hai
+main time par pahunchne ki koshish kar raha hoon
+20 min late ho jayega
+delay ke liye sorry
+traffic ki wajah se 25 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+customer bol raha hai tower band hai
+main security se baat karta hoon
+signal block ki wajah se 5 min late ho jayega
+main check karke batata hoon
+system bol raha hai customer unreachable hai
+main dubara reach out karta hoon
+10 min late ho jayega
+bas 35 min mein pahunch jaunga
+restaurant ne bola 18 min aur lagega
+main wait kar raha hoon
+rain ki wajah se 35 min late ho jayega
+bas 25 min mein pahunch jaunga
+rain ki wajah se 30 min late ho jayega
+delay ke liye sorry
+customer bol raha hai building band hai
+main landmark dekh kar aa raha hoon
+road closed ki wajah se 15 min late ho jayega
+thodi der aur
+signal block ki wajah se 35 min late ho jayega
+bas 20 min mein pahunch jaunga
+block par entry issue hai
+main landmark dekh kar aa raha hoon
+diversion ki wajah se 5 min late ho jayega
+bas 35 min mein pahunch jaunga
+system bol raha hai order late hai
+thodi der aur
+road closed ki wajah se 5 min late ho jayega
+bas 5 min mein pahunch jaunga
+route match nahi ho raha
+main address verify kar raha hoon
+diversion ki wajah se 25 min late ho jayega
+bas 10 min mein pahunch jaunga
+accident ki wajah se 10 min late ho jayega
+main update de raha hoon
+rain ki wajah se 8 min late ho jayega
+bas 12 min mein pahunch jaunga
+jam ki wajah se 5 min late ho jayega
+thodi der aur
+traffic ki wajah se 25 min late ho jayega
+bas 10 min mein pahunch jaunga
+customer ke paas pahunch gaya hoon
+theek hai main dekh raha hoon
+traffic ki wajah se 8 min late ho jayega
+bas 30 min mein pahunch jaunga
+rain ki wajah se 15 min late ho jayega
+bas 20 min mein pahunch jaunga
+signal block ki wajah se 5 min late ho jayega
+theek hai main dekh raha hoon
+jam ki wajah se 35 min late ho jayega
+bas 30 min mein pahunch jaunga
+society band hai
+main security se baat karta hoon
+food ready nahi hua
+theek hai main dekh raha hoon
+jam ki wajah se 20 min late ho jayega
+bas thoda wait kar lijiye
+signal block ki wajah se 12 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+jam ki wajah se 5 min late ho jayega
+bas 18 min mein pahunch jaunga
+rain ki wajah se 8 min late ho jayega
+bas 18 min mein pahunch jaunga
+lane band hai
+main location confirm karta hoon
+customer ka call busy aa raha hai
+main thodi der mein call karta hoon
+traffic ki wajah se 8 min late ho jayega
+bas 8 min mein pahunch jaunga
+customer ko item damaged lag raha hai
+main handle kar raha hoon
+accident ki wajah se 20 min late ho jayega
+on the way hoon
+customer bol raha hai route galat hai
+main landmark dekh kar aa raha hoon
+main customer ke gate par hoon
+main check karke batata hoon
+diversion ki wajah se 35 min late ho jayega
+bas 18 min mein pahunch jaunga
+jam ki wajah se late ho raha hai
+main handle kar raha hoon
+customer bol raha hai order late hai
+bas 5 min mein pahunch jaunga
+system me pin mismatch dikh raha hai
+main handle kar raha hoon
+accident ki wajah se 8 min late ho jayega
+main jaldi aa raha hoon
+traffic ki wajah se late ho raha hai
+thodi der aur
+address match nahi ho raha
+main handle kar raha hoon
+delivery me delay ho gaya
+main check karke batata hoon
+diversion ki wajah se 35 min late ho jayega
+bas 5 min mein pahunch jaunga
+road closed ki wajah se 8 min late ho jayega
+bas 18 min mein pahunch jaunga
+aaj thoda delay ho gaya
+main time par pahunchne ki koshish kar raha hoon
+restaurant ne bola 25 min aur lagega
+packing complete hote hi nikalta hoon
+building par security rok rahi hai
+main gate pe aa raha hoon
+signal block ki wajah se 5 min late ho jayega
+bas 5 min mein pahunch jaunga
+customer bol raha hai pin galat hai
+main gate pe aa raha hoon
+signal block ki wajah se 10 min late ho jayega
+main check karke batata hoon
+customer ka gate lock hai
+main phir se aata hoon
+route clear nahi hai
+main security se baat karta hoon
+call connect nahi ho raha
+main abhi try karta hoon
+delivery note confirm karna hai
+main update dunga
+road work ki wajah se 10 min late ho jayega
+bas thoda wait kar lijiye
+delivery me delay ho gaya
+bas 8 min mein pahunch jaunga
+chef abhi ban raha hai
+theek hai main dekh raha hoon
+restaurant ne bola 35 min aur lagega
+main update dunga
+order thoda late ho raha hai
+maaf kijiye thoda late ho raha hoon
+pickup confirmed hai
+order le liya hai
+15 min late ho jayega
+bas 25 min mein pahunch jaunga
+traffic ki wajah se 25 min late ho jayega
+bas 35 min mein pahunch jaunga
+signal block ki wajah se 18 min late ho jayega
+bas 5 min mein pahunch jaunga
+rain ki wajah se 18 min late ho jayega
+bas 10 min mein pahunch jaunga
+diversion ki wajah se 5 min late ho jayega
+bas 25 min mein pahunch jaunga
+customer se confirmation chahiye
+main confirm karke batata hoon
+road work ki wajah se 15 min late ho jayega
+bas thoda wait kar lijiye
+customer se confirmation chahiye
+theek hai main dekh raha hoon
+customer ne bola thoda wait karo
+main check karke batata hoon
+12 min late ho jayega
+bas 15 min mein pahunch jaunga
+system me pin mismatch dikh raha hai
+main map check kar raha hoon
+accident ki wajah se 8 min late ho jayega
+bas 15 min mein pahunch jaunga
+diversion ki wajah se 8 min late ho jayega
+bas 20 min mein pahunch jaunga
+lift band hai
+main entry point dhoondh raha hoon
+road closed ki wajah se 30 min late ho jayega
+bas 25 min mein pahunch jaunga
+accident ki wajah se 15 min late ho jayega
+main update de raha hoon
+lift band hai
+theek hai main dekh raha hoon
+road closed ki wajah se 18 min late ho jayega
+main jaldi aa raha hoon
+traffic ki wajah se 8 min late ho jayega
+bas 20 min mein pahunch jaunga
+traffic ki wajah se 5 min late ho jayega
+main jaldi aa raha hoon
+accident ki wajah se 20 min late ho jayega
+main update dunga
+8 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+building band hai
+main handle kar raha hoon
+block ka rasta nahi mil raha
+main address verify kar raha hoon
+accident ki wajah se 8 min late ho jayega
+bas 5 min mein pahunch jaunga
+accident ki wajah se 25 min late ho jayega
+bas 25 min mein pahunch jaunga
+diversion ki wajah se late ho raha hai
+bas 20 min mein pahunch jaunga
+traffic ki wajah se 25 min late ho jayega
+bas 30 min mein pahunch jaunga
+jam ki wajah se 35 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+road closed ki wajah se 5 min late ho jayega
+bas 25 min mein pahunch jaunga
+diversion ki wajah se late ho raha hai
+main time par pahunchne ki koshish kar raha hoon
+status update chahiye
+main abhi update bhej raha hoon
+customer bol raha hai society band hai
+main gate pe aa raha hoon
+diversion ki wajah se late ho raha hai
+bas 18 min mein pahunch jaunga
+10 min ka delay hai
+bas 8 min mein pahunch jaunga
+restaurant ne bola 20 min aur lagega
+ready hote hi update dunga
+customer ko item damaged lag raha hai
+main verify karke batata hoon
+signal block ki wajah se 10 min late ho jayega
+main update de raha hoon
+18 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+rain ki wajah se 18 min late ho jayega
+thodi der aur
+road closed ki wajah se 35 min late ho jayega
+on the way hoon
+order thoda late ho raha hai
+main check karke batata hoon
+jam ki wajah se 25 min late ho jayega
+bas 10 min mein pahunch jaunga
+customer bol raha hai route galat hai
+main check karke batata hoon
+road closed ki wajah se 8 min late ho jayega
+delay ke liye sorry
+security ka rasta nahi mil raha
+main handle kar raha hoon
+customer bol raha hai landmark galat hai
+main gate pe aa raha hoon
+signal block ki wajah se 12 min late ho jayega
+main handle kar raha hoon
+accident ki wajah se 18 min late ho jayega
+bas 20 min mein pahunch jaunga
+diversion ki wajah se 8 min late ho jayega
+main jaldi aa raha hoon
+diversion ki wajah se 18 min late ho jayega
+bas 15 min mein pahunch jaunga
+traffic ki wajah se late ho raha hai
+on the way hoon
+system me address mismatch dikh raha hai
+main security se baat karta hoon
+thoda wait karna padega
+bas thoda wait kijiye
+diversion ki wajah se 18 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+tower par entry issue hai
+main update dunga
+traffic ki wajah se 25 min late ho jayega
+bas 8 min mein pahunch jaunga
+customer se phone par baat nahi ho rahi
+main customer se baat karta hoon
+road work ki wajah se 12 min late ho jayega
+main update de raha hoon
+landmark clear nahi hai
+main landmark dekh kar aa raha hoon
+diversion ki wajah se 15 min late ho jayega
+bas 30 min mein pahunch jaunga
+road closed ki wajah se 12 min late ho jayega
+bas 8 min mein pahunch jaunga
+accident ki wajah se 5 min late ho jayega
+bas 12 min mein pahunch jaunga
+road work ki wajah se late ho raha hai
+main check karke batata hoon
+rain ki wajah se 18 min late ho jayega
+bas 30 min mein pahunch jaunga
+35 min ka delay hai
+bas 8 min mein pahunch jaunga
+diversion ki wajah se 10 min late ho jayega
+main jaldi aa raha hoon
+parking par security rok rahi hai
+main gate pe aa raha hoon
+30 min late ho jayega
+bas 30 min mein pahunch jaunga
+road work ki wajah se 35 min late ho jayega
+bas 18 min mein pahunch jaunga
+signal block ki wajah se late ho raha hai
+maaf kijiye thoda late ho raha hoon
+parking par entry issue hai
+main check karke batata hoon
+building par entry issue hai
+main address verify kar raha hoon
+road closed ki wajah se 30 min late ho jayega
+bas 15 min mein pahunch jaunga
+diversion ki wajah se 8 min late ho jayega
+bas 5 min mein pahunch jaunga
+10 min ka delay hai
+main jaldi aa raha hoon
+road work ki wajah se 20 min late ho jayega
+bas thoda wait kar lijiye
+customer location par nahi mila
+main update dunga
+order le liya hai
+pickup karke aa raha hoon
+8 min ka delay hai
+theek hai main dekh raha hoon
+signal block ki wajah se 30 min late ho jayega
+bas 35 min mein pahunch jaunga
+signal block ki wajah se 20 min late ho jayega
+main update dunga
+rain ki wajah se late ho raha hai
+thodi der aur
+society ka rasta nahi mil raha
+main update dunga
+diversion ki wajah se 25 min late ho jayega
+bas thoda wait kar lijiye
+traffic ki wajah se late ho raha hoon
+bas 25 min mein pahunch jaunga
+signal block ki wajah se 20 min late ho jayega
+bas 35 min mein pahunch jaunga
+galat lane me aa gaya
+theek hai main dekh raha hoon
+12 min late ho jayega
+delay ke liye sorry
+lift ka rasta nahi mil raha
+main gate pe aa raha hoon
+payment pending dikh raha hai
+main issue resolve kar raha hoon
+wrong address mila
+main restaurant se confirm karta hoon
+gate code confirm karna hai
+main entry details confirm karta hoon
+traffic ki wajah se late ho raha hai
+bas 5 min mein pahunch jaunga
+road work ki wajah se 35 min late ho jayega
+theek hai main dekh raha hoon
+block par entry issue hai
+main update dunga
+customer ka gate lock hai
+main handle kar raha hoon
+order ready hone ka wait hai
+main handle kar raha hoon
+jam ki wajah se 10 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+customer bol raha hai direction galat hai
+main security se baat karta hoon
+customer bol raha hai gate band hai
+main landmark dekh kar aa raha hoon
+block par entry issue hai
+main address verify kar raha hoon
+kitchen busy hai
+main handle kar raha hoon
+restaurant ne bola 35 min aur lagega
+main handle kar raha hoon
+rain ki wajah se 20 min late ho jayega
+bas 8 min mein pahunch jaunga
+order ka status pooch rahe hain
+theek hai main dekh raha hoon
+road work ki wajah se 5 min late ho jayega
+bas 8 min mein pahunch jaunga
+status update chahiye
+main update dunga
+20 min ka delay hai
+bas 25 min mein pahunch jaunga
+aaj thoda delay ho gaya
+delay ke liye sorry
+landmark clear nahi hai
+main entry point dhoondh raha hoon
+pickup confirmed hai
+pickup karke aa raha hoon
+rain ki wajah se late ho raha hai
+bas 25 min mein pahunch jaunga
+customer bol raha hai direction galat hai
+main update dunga
+customer ka phone busy aa raha hai
+main thodi der mein call karta hoon
+traffic ki wajah se 15 min late ho jayega
+bas 30 min mein pahunch jaunga
+customer bol raha hai lane band hai
+main location confirm karta hoon
+road closed ki wajah se 15 min late ho jayega
+theek hai main dekh raha hoon
+number lagaya par response nahi mila
+main check karke batata hoon
+restaurant ne bola 8 min aur lagega
+theek hai main dekh raha hoon
+jam ki wajah se 8 min late ho jayega
+bas 35 min mein pahunch jaunga
+galat lane me aa gaya
+map dekh kar aa raha hoon
+call lagaya par response nahi mila
+main dobara call karta hoon
+road closed ki wajah se 12 min late ho jayega
+on the way hoon
+jam ki wajah se 10 min late ho jayega
+bas 10 min mein pahunch jaunga
+entry band hai
+main handle kar raha hoon
+lift par security rok rahi hai
+main gate pe aa raha hoon
+customer ka number busy aa raha hai
+main phir se contact karta hoon
+20 min late ho jayega
+on the way hoon
+system bol raha hai order late hai
+bas 15 min mein pahunch jaunga
+order deliver karne ja raha hoon
+main check karke batata hoon
+tower par security rok rahi hai
+main security se baat karta hoon
+8 min late ho jayega
+delay ke liye sorry
+main customer ke gate par hoon
+main handle kar raha hoon
+30 min late ho jayega
+bas 10 min mein pahunch jaunga
+diversion ki wajah se 5 min late ho jayega
+main handle kar raha hoon
+map samajh nahi aa raha
+theek hai main dekh raha hoon
+road closed ki wajah se 20 min late ho jayega
+bas 18 min mein pahunch jaunga
+customer bol raha hai block band hai
+main entry point dhoondh raha hoon
+10 min ka delay hai
+main handle kar raha hoon
+road closed ki wajah se 18 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+customer bol raha hai map galat hai
+main handle kar raha hoon
+rain ki wajah se 10 min late ho jayega
+main jaldi aa raha hoon
+delivery complete ho gayi
+main deliver kar raha hoon
+customer ka call busy aa raha hai
+main dobara call karta hoon
+traffic ki wajah se 30 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+25 min late ho jayega
+main check karke batata hoon
+road work ki wajah se late ho raha hai
+bas 18 min mein pahunch jaunga
+customer bol raha hai map galat hai
+main security se baat karta hoon
+signal block ki wajah se late ho raha hai
+on the way hoon
+25 min ka delay hai
+bas 35 min mein pahunch jaunga
+road closed ki wajah se late ho raha hai
+main time par pahunchne ki koshish kar raha hoon
+road work ki wajah se 20 min late ho jayega
+main handle kar raha hoon
+system bol raha hai order ready nahi hai
+theek hai main dekh raha hoon
+restaurant ne bola 18 min aur lagega
+restaurant se pickup ke baad nikalunga
+jam ki wajah se 5 min late ho jayega
+bas 8 min mein pahunch jaunga
+customer ka gate lock hai
+main thodi der wait karta hoon
+traffic ki wajah se 35 min late ho jayega
+bas 5 min mein pahunch jaunga
+restaurant ne bola 20 min aur lagega
+packing complete hote hi nikalta hoon
+pickup location pahunch gaya hoon
+main handle kar raha hoon
+lift band hai
+main check karke batata hoon
+restaurant ne bola 15 min aur lagega
+main pickup ke liye ready hoon
+address match nahi ho raha
+main security se baat karta hoon
+society par security rok rahi hai
+main handle kar raha hoon
+accident ki wajah se 20 min late ho jayega
+bas 12 min mein pahunch jaunga
+road closed ki wajah se 20 min late ho jayega
+theek hai main dekh raha hoon
+15 min ka delay hai
+main jaldi aa raha hoon
+customer bol raha hai item missing hai
+main verify karke batata hoon
+restaurant ne bola 20 min aur lagega
+main check karke batata hoon
+accident ki wajah se 5 min late ho jayega
+thodi der aur
+road closed ki wajah se 20 min late ho jayega
+bas thoda wait kar lijiye
+jam ki wajah se 10 min late ho jayega
+bas 15 min mein pahunch jaunga
+rain ki wajah se 35 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+road work ki wajah se 20 min late ho jayega
+on the way hoon
+accident ki wajah se late ho raha hai
+bas 20 min mein pahunch jaunga
+signal block ki wajah se 30 min late ho jayega
+bas 25 min mein pahunch jaunga
+8 min late ho jayega
+bas 30 min mein pahunch jaunga
+parking band hai
+main gate pe aa raha hoon
+tower ka rasta nahi mil raha
+main landmark dekh kar aa raha hoon
+rain ki wajah se 10 min late ho jayega
+bas 12 min mein pahunch jaunga
+jam ki wajah se 30 min late ho jayega
+main jaldi aa raha hoon
+customer bol raha hai gate band hai
+main address verify kar raha hoon
+restaurant ne bola 15 min aur lagega
+theek hai main dekh raha hoon
+tower ka rasta nahi mil raha
+main address verify kar raha hoon
+accident ki wajah se late ho raha hai
+bas 35 min mein pahunch jaunga
+thoda delay ho gaya
+bas 35 min mein pahunch jaunga
+signal block ki wajah se late ho raha hai
+bas 20 min mein pahunch jaunga
+number lagaya par response nahi mila
+theek hai main dekh raha hoon
+accident ki wajah se late ho raha hai
+main update de raha hoon
+lane ka rasta nahi mil raha
+main check karke batata hoon
+15 min late ho jayega
+main update de raha hoon
+jam ki wajah se 15 min late ho jayega
+bas 18 min mein pahunch jaunga
+address clear nahi hai
+main update dunga
+road closed ki wajah se 30 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+gate ka rasta nahi mil raha
+main map check kar raha hoon
+accident ki wajah se 25 min late ho jayega
+theek hai main dekh raha hoon
+society par security rok rahi hai
+main map check kar raha hoon
+restaurant ne bola 5 min aur lagega
+restaurant se pickup ke baad nikalunga
+gate par security rok rahi hai
+main map check kar raha hoon
+pickup ke liye wait karna hai
+main update dunga
+system me route mismatch dikh raha hai
+main entry point dhoondh raha hoon
+tower par entry issue hai
+main address verify kar raha hoon
+signal block ki wajah se 25 min late ho jayega
+main jaldi aa raha hoon
+customer bol raha hai lane band hai
+main handle kar raha hoon
+30 min late ho jayega
+bas thoda wait kar lijiye
+customer ne bola abhi nahi mil sakta
+main dobara try karta hoon
+delivery late ho rahi hai
+theek hai main dekh raha hoon
+diversion ki wajah se 15 min late ho jayega
+thodi der aur
+thoda wait karna padega
+main thodi der wait karta hoon
+accident ki wajah se late ho raha hai
+main time par pahunchne ki koshish kar raha hoon
+signal block ki wajah se 35 min late ho jayega
+theek hai main dekh raha hoon
+8 min ka delay hai
+bas 30 min mein pahunch jaunga
+security par entry issue hai
+main security se baat karta hoon
+delivery me delay ho gaya
+main update de raha hoon
+rain ki wajah se 18 min late ho jayega
+bas 35 min mein pahunch jaunga
+pin clear nahi hai
+main location confirm karta hoon
+road work ki wajah se 15 min late ho jayega
+bas 15 min mein pahunch jaunga
+customer bol raha hai security band hai
+main location confirm karta hoon
+call lagaya par response nahi mila
+main dubara reach out karta hoon
+navigation help chahiye
+main turn lekar aa raha hoon
+order late ho raha hai
+bas thoda wait kar lijiye
+gate par security rok rahi hai
+theek hai main dekh raha hoon
+traffic ki wajah se late ho raha hoon
+main update dunga
+customer busy hai baad me milega
+main update dunga
+restaurant ne bola 15 min aur lagega
+ready hote hi update dunga
+chef abhi ban raha hai
+ready hote hi update dunga
+signal block ki wajah se 30 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+diversion ki wajah se 35 min late ho jayega
+thodi der aur
+order me mismatch hai
+main support se baat karta hoon
+kitchen busy hai
+packing complete hote hi nikalta hoon
+delivery ka status update do
+main abhi status share karta hoon
+accident ki wajah se 10 min late ho jayega
+theek hai main dekh raha hoon
+customer busy hai baad me milega
+main phir se aata hoon
+traffic ki wajah se 10 min late ho jayega
+bas 18 min mein pahunch jaunga
+jam ki wajah se 8 min late ho jayega
+thodi der aur
+rain ki wajah se 18 min late ho jayega
+main check karke batata hoon
+map sahi nahi aa raha
+main update dunga
+jam ki wajah se 25 min late ho jayega
+bas thoda wait kar lijiye
+main queue me hoon
+bas thoda wait kijiye
+restaurant me packing delay hai
+ready hote hi update dunga
+tower band hai
+main handle kar raha hoon
+traffic ki wajah se 12 min late ho jayega
+bas 12 min mein pahunch jaunga
+security par entry issue hai
+main handle kar raha hoon
+traffic ki wajah se 30 min late ho jayega
+bas 20 min mein pahunch jaunga
+road work ki wajah se 35 min late ho jayega
+main update dunga
+traffic ki wajah se 15 min late ho jayega
+bas 15 min mein pahunch jaunga
+signal block ki wajah se 35 min late ho jayega
+bas 5 min mein pahunch jaunga
+order ready hai pickup kar raha hoon
+pickup karke aa raha hoon
+entry ka rasta nahi mil raha
+main entry point dhoondh raha hoon
+aaj thoda delay ho gaya
+on the way hoon
+customer se confirmation chahiye
+main customer se confirm karta hoon
+15 min late ho jayega
+bas 5 min mein pahunch jaunga
+signal block ki wajah se 8 min late ho jayega
+bas thoda wait kar lijiye
+pin samajh nahi aa raha
+main gate pe aa raha hoon
+road work ki wajah se late ho raha hai
+on the way hoon
+jam ki wajah se 25 min late ho jayega
+bas 8 min mein pahunch jaunga
+accident ki wajah se 18 min late ho jayega
+delay ke liye sorry
+diversion ki wajah se 18 min late ho jayega
+bas 35 min mein pahunch jaunga
+12 min ka delay hai
+bas 30 min mein pahunch jaunga
+signal block ki wajah se 30 min late ho jayega
+bas 12 min mein pahunch jaunga
+order issue report karna hai
+main check karke batata hoon
+rain ki wajah se 30 min late ho jayega
+bas 35 min mein pahunch jaunga
+pin samajh nahi aa raha
+main check karke batata hoon
+landmark clear nahi hai
+main update dunga
+restaurant ne bola 18 min aur lagega
+theek hai main dekh raha hoon
+rain ki wajah se 25 min late ho jayega
+theek hai main dekh raha hoon
+gate par entry issue hai
+main check karke batata hoon
+order ready hone me time lag raha hai
+main restaurant se confirm kar raha hoon
+traffic ki wajah se 15 min late ho jayega
+main update dunga
+pickup confirmed hai
+main pickup karke on the way hoon
+main queue me hoon
+main handle kar raha hoon
+rain ki wajah se 35 min late ho jayega
+main update de raha hoon
+customer bol raha hai order late hai
+main update dunga
+restaurant crowded hai
+theek hai main dekh raha hoon
+customer ne bola abhi nahi mil sakta
+main customer se dobara confirm karta hoon
+direction clear nahi hai
+main check karke batata hoon
+30 min late ho jayega
+bas 20 min mein pahunch jaunga
+building par security rok rahi hai
+main security se baat karta hoon
+accident ki wajah se 15 min late ho jayega
+thodi der aur
+road work ki wajah se 10 min late ho jayega
+thodi der aur
+accident ki wajah se 5 min late ho jayega
+delay ke liye sorry
+road closed ki wajah se late ho raha hai
+bas 5 min mein pahunch jaunga
+signal block ki wajah se 15 min late ho jayega
+thodi der aur
+road work ki wajah se 12 min late ho jayega
+on the way hoon
+diversion ki wajah se 25 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+accident ki wajah se 30 min late ho jayega
+bas 5 min mein pahunch jaunga
+signal block ki wajah se 10 min late ho jayega
+main handle kar raha hoon
+entry par security rok rahi hai
+theek hai main dekh raha hoon
+diversion ki wajah se 20 min late ho jayega
+bas 18 min mein pahunch jaunga
+landmark samajh nahi aa raha
+main security se baat karta hoon
+road work ki wajah se late ho raha hai
+main handle kar raha hoon
+navigation help chahiye
+main handle kar raha hoon
+signal block ki wajah se 8 min late ho jayega
+bas 5 min mein pahunch jaunga
+customer bol raha hai address galat hai
+main landmark dekh kar aa raha hoon
+gate ka rasta nahi mil raha
+main address verify kar raha hoon
+road work ki wajah se 25 min late ho jayega
+bas 20 min mein pahunch jaunga
+customer bol raha hai pin galat hai
+main check karke batata hoon
+road closed ki wajah se 12 min late ho jayega
+bas 25 min mein pahunch jaunga
+jam ki wajah se 5 min late ho jayega
+delay ke liye sorry
+diversion ki wajah se 5 min late ho jayega
+bas 20 min mein pahunch jaunga
+signal block ki wajah se 20 min late ho jayega
+delay ke liye sorry
+customer bol raha hai order late hai
+bas 10 min mein pahunch jaunga
+12 min ka delay hai
+bas 25 min mein pahunch jaunga
+jam ki wajah se 10 min late ho jayega
+theek hai main dekh raha hoon
+road closed ki wajah se 25 min late ho jayega
+bas 5 min mein pahunch jaunga
+diversion ki wajah se 12 min late ho jayega
+delay ke liye sorry
+road closed ki wajah se 5 min late ho jayega
+bas 18 min mein pahunch jaunga
+signal block ki wajah se 10 min late ho jayega
+theek hai main dekh raha hoon
+diversion ki wajah se 12 min late ho jayega
+bas thoda wait kar lijiye
+jam ki wajah se 35 min late ho jayega
+main jaldi aa raha hoon
+entry band hai
+main check karke batata hoon
+block ka rasta nahi mil raha
+theek hai main dekh raha hoon
+restaurant ne bola 25 min aur lagega
+ready hote hi update dunga
+address sahi nahi aa raha
+theek hai main dekh raha hoon
+delivery late ho rahi hai
+bas 12 min mein pahunch jaunga
+road closed ki wajah se 15 min late ho jayega
+main handle kar raha hoon
+20 min late ho jayega
+bas 18 min mein pahunch jaunga
+jam ki wajah se 25 min late ho jayega
+main check karke batata hoon
+order le liya hai
+pickup complete ho gaya
+location clear nahi hai
+main address verify kar raha hoon
+traffic ki wajah se 8 min late ho jayega
+main check karke batata hoon
+signal block ki wajah se 25 min late ho jayega
+main update de raha hoon
+food ready nahi hua
+main restaurant se confirm kar raha hoon
+road closed ki wajah se 5 min late ho jayega
+thodi der aur
+block band hai
+main address verify kar raha hoon
+18 min late ho jayega
+bas 10 min mein pahunch jaunga
+security par security rok rahi hai
+theek hai main dekh raha hoon
+address clear nahi hai
+main security se baat karta hoon
+road work ki wajah se 8 min late ho jayega
+bas 15 min mein pahunch jaunga
+25 min late ho jayega
+on the way hoon
+accident ki wajah se 8 min late ho jayega
+main update de raha hoon
+signal block ki wajah se 12 min late ho jayega
+main update de raha hoon
+customer bol raha hai parking band hai
+main map check kar raha hoon
+12 min ka delay hai
+delay ke liye sorry
+security band hai
+main location confirm karta hoon
+main thodi der wait kar raha hoon
+main wait kar raha hoon
+restaurant ne bola 10 min aur lagega
+main check karke batata hoon
+customer ka phone busy aa raha hai
+main dobara call karta hoon
+diversion ki wajah se 5 min late ho jayega
+bas 5 min mein pahunch jaunga
+rain ki wajah se 12 min late ho jayega
+bas 30 min mein pahunch jaunga
+system bol raha hai order late hai
+main jaldi aa raha hoon
+rain ki wajah se 20 min late ho jayega
+bas thoda wait kar lijiye
+order ready hone ka wait hai
+main check karke batata hoon
+signal block ki wajah se 25 min late ho jayega
+bas 18 min mein pahunch jaunga
+phone lagaya par response nahi mila
+main abhi try karta hoon
+road closed ki wajah se 35 min late ho jayega
+bas 30 min mein pahunch jaunga
+landmark clear nahi hai
+theek hai main dekh raha hoon
+customer bol raha hai lift band hai
+main address verify kar raha hoon
+road closed ki wajah se 12 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+delivery complete ho gayi
+main delivery complete kar raha hoon
+customer status pooch raha hai
+main check karke batata hoon
+chef abhi ban raha hai
+jaise hi ready hoga main nikal jaunga
+12 min ka delay hai
+bas thoda wait kar lijiye
+building ka rasta nahi mil raha
+main address verify kar raha hoon
+restaurant ne bola 5 min aur lagega
+main wait kar raha hoon
+jam ki wajah se late ho raha hai
+on the way hoon
+traffic ki wajah se late ho raha hoon
+delay ke liye sorry
+restaurant ne bola 12 min aur lagega
+main pickup ke liye ready hoon
+10 min ka delay hai
+bas 15 min mein pahunch jaunga
+signal block ki wajah se 5 min late ho jayega
+main handle kar raha hoon
+address clear nahi hai
+main entry point dhoondh raha hoon
+tower ka rasta nahi mil raha
+main entry point dhoondh raha hoon
+18 min ka delay hai
+main check karke batata hoon
+rain ki wajah se 20 min late ho jayega
+theek hai main dekh raha hoon
+restaurant crowded hai
+main pickup ke liye ready hoon
+system me pin mismatch dikh raha hai
+main check karke batata hoon
+road closed ki wajah se 12 min late ho jayega
+main jaldi aa raha hoon
+traffic ki wajah se late ho raha hoon
+main check karke batata hoon
+traffic ki wajah se 12 min late ho jayega
+main jaldi aa raha hoon
+society par security rok rahi hai
+main gate pe aa raha hoon
+customer ka phone switch off hai
+main update dunga
+customer se call par baat nahi ho rahi
+main thodi der mein call karta hoon
+jam ki wajah se 25 min late ho jayega
+bas 5 min mein pahunch jaunga
+delivery instructions unclear hai
+main update dunga
+order ready hone me time lag raha hai
+main check karke batata hoon
+jam ki wajah se 5 min late ho jayega
+bas 25 min mein pahunch jaunga
+rain ki wajah se 15 min late ho jayega
+on the way hoon
+order thoda late ho raha hai
+bas 12 min mein pahunch jaunga
+18 min late ho jayega
+bas 15 min mein pahunch jaunga
+rain ki wajah se 15 min late ho jayega
+main handle kar raha hoon
+customer bol raha hai pin galat hai
+main map check kar raha hoon
+location match nahi ho raha
+main check karke batata hoon
+order late ho raha hai
+bas 30 min mein pahunch jaunga
+gate band hai
+main handle kar raha hoon
+25 min late ho jayega
+bas 12 min mein pahunch jaunga
+customer busy hai baad me milega
+main dobara try karta hoon
+route unclear hai
+main update dunga
+accident ki wajah se 35 min late ho jayega
+delay ke liye sorry
+lift band hai
+main address verify kar raha hoon
+road work ki wajah se 25 min late ho jayega
+bas 35 min mein pahunch jaunga
+traffic ki wajah se 15 min late ho jayega
+delay ke liye sorry
+landmark samajh nahi aa raha
+main map check kar raha hoon
+jam ki wajah se 8 min late ho jayega
+delay ke liye sorry
+traffic ki wajah se 35 min late ho jayega
+bas 18 min mein pahunch jaunga
+building par security rok rahi hai
+main update dunga
+traffic ki wajah se 30 min late ho jayega
+main update de raha hoon
+route samajh nahi aa raha
+main address verify kar raha hoon
+rain ki wajah se 5 min late ho jayega
+main update de raha hoon
+road work ki wajah se late ho raha hai
+bas 5 min mein pahunch jaunga
+signal block ki wajah se 25 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+customer bol raha hai location galat hai
+main map check kar raha hoon
+accident ki wajah se 10 min late ho jayega
+bas 30 min mein pahunch jaunga
+jam ki wajah se late ho raha hai
+bas 12 min mein pahunch jaunga
+entry par security rok rahi hai
+main security se baat karta hoon
+signal block ki wajah se 25 min late ho jayega
+bas 8 min mein pahunch jaunga
+signal block ki wajah se 8 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+society ka rasta nahi mil raha
+main landmark dekh kar aa raha hoon
+lane ka rasta nahi mil raha
+main map check kar raha hoon
+rain ki wajah se 35 min late ho jayega
+delay ke liye sorry
+customer se confirmation chahiye
+main update dunga
+jam ki wajah se 20 min late ho jayega
+main update de raha hoon
+customer bol raha hai society band hai
+main security se baat karta hoon
+diversion ki wajah se 15 min late ho jayega
+bas 12 min mein pahunch jaunga
+pin sahi nahi aa raha
+main landmark dekh kar aa raha hoon
+diversion ki wajah se 12 min late ho jayega
+bas 35 min mein pahunch jaunga
+diversion ki wajah se 5 min late ho jayega
+main update dunga
+road closed ki wajah se late ho raha hai
+maaf kijiye thoda late ho raha hoon
+15 min ka delay hai
+on the way hoon
+jam ki wajah se 35 min late ho jayega
+bas 20 min mein pahunch jaunga
+road closed ki wajah se 10 min late ho jayega
+bas 30 min mein pahunch jaunga
+road work ki wajah se 15 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+route unclear hai
+main turn lekar aa raha hoon
+order deliver karne ja raha hoon
+main deliver kar raha hoon
+tower par entry issue hai
+main map check kar raha hoon
+signal block ki wajah se 35 min late ho jayega
+bas thoda wait kar lijiye
+20 min ka delay hai
+on the way hoon
+traffic ki wajah se late ho raha hai
+maaf kijiye thoda late ho raha hoon
+diversion ki wajah se 25 min late ho jayega
+bas 35 min mein pahunch jaunga
+diversion ki wajah se 18 min late ho jayega
+main update de raha hoon
+restaurant ne bola 10 min aur lagega
+main restaurant se confirm kar raha hoon
+signal block ki wajah se 8 min late ho jayega
+bas 15 min mein pahunch jaunga
+food ready nahi hua
+restaurant se pickup ke baad nikalunga
+accident ki wajah se 18 min late ho jayega
+bas thoda wait kar lijiye
+accident ki wajah se 8 min late ho jayega
+bas 10 min mein pahunch jaunga
+diversion ki wajah se 10 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+system me route mismatch dikh raha hai
+main gate pe aa raha hoon
+accident ki wajah se 10 min late ho jayega
+main update dunga
+jam ki wajah se 35 min late ho jayega
+bas 15 min mein pahunch jaunga
+traffic ki wajah se 18 min late ho jayega
+bas 15 min mein pahunch jaunga
+rain ki wajah se late ho raha hai
+maaf kijiye thoda late ho raha hoon
+map sahi nahi aa raha
+main security se baat karta hoon
+customer ke paas pahunch gaya hoon
+main handle kar raha hoon
+customer ne bola thoda wait karo
+main thodi der wait karta hoon
+restaurant ne bola 20 min aur lagega
+main update dunga
+security par security rok rahi hai
+main update dunga
+restaurant ne bola 35 min aur lagega
+main check karke batata hoon
+road work ki wajah se late ho raha hai
+bas 15 min mein pahunch jaunga
+customer bol raha hai society band hai
+main location confirm karta hoon
+order late ho raha hai
+bas 35 min mein pahunch jaunga
+route kaafi confusing hai
+main handle kar raha hoon
+signal block ki wajah se 15 min late ho jayega
+main handle kar raha hoon
+entry ka rasta nahi mil raha
+main location confirm karta hoon
+building band hai
+main check karke batata hoon
+18 min ka delay hai
+main jaldi aa raha hoon
+accident ki wajah se 15 min late ho jayega
+delay ke liye sorry
+customer bol raha hai refund chahiye
+main restaurant se confirm karta hoon
+customer bol raha hai refund chahiye
+main issue resolve kar raha hoon
+lift par entry issue hai
+main map check kar raha hoon
+traffic ki wajah se 18 min late ho jayega
+main jaldi aa raha hoon
+pin sahi nahi aa raha
+main address verify kar raha hoon
+signal block ki wajah se 30 min late ho jayega
+bas 30 min mein pahunch jaunga
+security band hai
+main address verify kar raha hoon
+rain ki wajah se late ho raha hai
+bas 5 min mein pahunch jaunga
+parking par entry issue hai
+theek hai main dekh raha hoon
+diversion ki wajah se 5 min late ho jayega
+main update de raha hoon
+delivery late ho rahi hai
+main update de raha hoon
+rain ki wajah se 15 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+road work ki wajah se 25 min late ho jayega
+bas thoda wait kar lijiye
+5 min ka delay hai
+thodi der aur
+traffic ki wajah se 5 min late ho jayega
+bas thoda wait kar lijiye
+customer bol raha hai block band hai
+main landmark dekh kar aa raha hoon
+navigation help chahiye
+main check karke batata hoon
+customer bol raha hai item missing hai
+main issue resolve kar raha hoon
+road closed ki wajah se 10 min late ho jayega
+main handle kar raha hoon
+road work ki wajah se 8 min late ho jayega
+theek hai main dekh raha hoon
+road work ki wajah se 5 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+15 min ka delay hai
+main check karke batata hoon
+landmark clear nahi hai
+main security se baat karta hoon
+address sahi nahi aa raha
+main map check kar raha hoon
+order ready hone me time lag raha hai
+main handle kar raha hoon
+customer bol raha hai lane band hai
+main landmark dekh kar aa raha hoon
+gate ka rasta nahi mil raha
+main landmark dekh kar aa raha hoon
+customer ke paas pahunch gaya hoon
+main check karke batata hoon
+rain ki wajah se late ho raha hai
+bas 18 min mein pahunch jaunga
+block par entry issue hai
+main handle kar raha hoon
+gate par security rok rahi hai
+main handle kar raha hoon
+delivery instructions unclear hai
+main location confirm karta hoon
+customer call nahi utha raha
+main customer se baat karta hoon
+traffic ki wajah se 10 min late ho jayega
+bas 12 min mein pahunch jaunga
+pickup ke liye nikal gaya hoon
+main check karke batata hoon
+15 min late ho jayega
+main update dunga
+accident ki wajah se 25 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+restaurant par wait chal raha hai
+main yahin hoon thodi der
+lift par security rok rahi hai
+main address verify kar raha hoon
+18 min ka delay hai
+bas 20 min mein pahunch jaunga
+rain ki wajah se 8 min late ho jayega
+thodi der aur
+order confirm karna hai
+main instructions check karta hoon
+pin match nahi ho raha
+main landmark dekh kar aa raha hoon
+rain ki wajah se 20 min late ho jayega
+bas 25 min mein pahunch jaunga
+signal block ki wajah se 30 min late ho jayega
+main handle kar raha hoon
+society band hai
+theek hai main dekh raha hoon
+rain ki wajah se 30 min late ho jayega
+main check karke batata hoon
+delivery late ho rahi hai
+bas 20 min mein pahunch jaunga
+address samajh nahi aa raha
+main security se baat karta hoon
+order issue report karna hai
+main support se baat karta hoon
+35 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+35 min ka delay hai
+main update de raha hoon
+turn miss ho gaya
+navigation follow kar raha hoon
+customer bol raha hai order late hai
+bas 25 min mein pahunch jaunga
+society par entry issue hai
+theek hai main dekh raha hoon
+traffic ki wajah se 18 min late ho jayega
+bas 25 min mein pahunch jaunga
+customer bol raha hai entry band hai
+main update dunga
+traffic ki wajah se 10 min late ho jayega
+bas 20 min mein pahunch jaunga
+diversion ki wajah se 25 min late ho jayega
+bas 12 min mein pahunch jaunga
+order late ho raha hai
+bas 10 min mein pahunch jaunga
+block par entry issue hai
+main map check kar raha hoon
+main queue me hoon
+main wait karke update dunga
+customer call nahi utha raha
+main update dunga
+18 min late ho jayega
+main update dunga
+system status update mang raha hai
+main abhi update bhej raha hoon
+accident ki wajah se 12 min late ho jayega
+bas 35 min mein pahunch jaunga
+traffic ki wajah se 10 min late ho jayega
+bas 5 min mein pahunch jaunga
+road work ki wajah se 25 min late ho jayega
+main update de raha hoon
+jam ki wajah se 5 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+accident ki wajah se 35 min late ho jayega
+on the way hoon
+jam ki wajah se 15 min late ho jayega
+bas 15 min mein pahunch jaunga
+jam ki wajah se 8 min late ho jayega
+bas 8 min mein pahunch jaunga
+accident ki wajah se 25 min late ho jayega
+bas 30 min mein pahunch jaunga
+food ready nahi hua
+packing complete hote hi nikalta hoon
+system bol raha hai order late hai
+maaf kijiye thoda late ho raha hoon
+pickup ke liye nikal gaya hoon
+pickup ho gaya main nikal raha hoon
+accident ki wajah se 12 min late ho jayega
+main update dunga
+address sahi nahi aa raha
+main location confirm karta hoon
+road work ki wajah se 8 min late ho jayega
+thodi der aur
+address clear nahi hai
+main handle kar raha hoon
+diversion ki wajah se 10 min late ho jayega
+bas 25 min mein pahunch jaunga
+delivery ke liye near location hoon
+main check karke batata hoon
+customer ka call busy aa raha hai
+theek hai main dekh raha hoon
+direction samajh nahi aa raha
+theek hai main dekh raha hoon
+address sahi nahi aa raha
+main entry point dhoondh raha hoon
+customer bol raha hai tower band hai
+main map check kar raha hoon
+road work ki wajah se 18 min late ho jayega
+main handle kar raha hoon
+15 min late ho jayega
+bas 30 min mein pahunch jaunga
+jam ki wajah se 35 min late ho jayega
+bas 5 min mein pahunch jaunga
+traffic ki wajah se 15 min late ho jayega
+bas 8 min mein pahunch jaunga
+customer bol raha hai route galat hai
+main location confirm karta hoon
+system me route mismatch dikh raha hai
+main check karke batata hoon
+25 min ka delay hai
+bas thoda wait kar lijiye
+customer ka number busy aa raha hai
+theek hai main dekh raha hoon
+direction clear nahi hai
+main map check kar raha hoon
+customer ko item damaged lag raha hai
+main issue check karta hoon
+restaurant crowded hai
+main update dunga
+customer ka phone busy aa raha hai
+main abhi try karta hoon
+entry par entry issue hai
+main security se baat karta hoon
+direction clear nahi hai
+main handle kar raha hoon
+accident ki wajah se 25 min late ho jayega
+bas 8 min mein pahunch jaunga
+signal block ki wajah se 15 min late ho jayega
+bas 25 min mein pahunch jaunga
+18 min ka delay hai
+bas 30 min mein pahunch jaunga
+restaurant ne bola 25 min aur lagega
+theek hai main dekh raha hoon
+payment me issue aa raha hai
+main issue resolve kar raha hoon
+12 min late ho jayega
+main handle kar raha hoon
+rain ki wajah se late ho raha hai
+main jaldi aa raha hoon
+order thoda late ho raha hai
+bas 15 min mein pahunch jaunga
+gate par entry issue hai
+main address verify kar raha hoon
+order deliver karne ja raha hoon
+delivery complete kar diya
+restaurant ne bola 15 min aur lagega
+packing complete hote hi nikalta hoon
+lane par security rok rahi hai
+main location confirm karta hoon
+road work ki wajah se 10 min late ho jayega
+bas 20 min mein pahunch jaunga
+road closed ki wajah se 30 min late ho jayega
+thodi der aur
+traffic ki wajah se 30 min late ho jayega
+main check karke batata hoon
+order pickup kar raha hoon
+main handle kar raha hoon
+jam ki wajah se 30 min late ho jayega
+bas 8 min mein pahunch jaunga
+delivery ka status update do
+main abhi update bhej raha hoon
+customer bol raha hai lift band hai
+main entry point dhoondh raha hoon
+jam ki wajah se 25 min late ho jayega
+bas 20 min mein pahunch jaunga
+pin samajh nahi aa raha
+main map check kar raha hoon
+restaurant ne bola 12 min aur lagega
+packing complete hote hi nikalta hoon
+tower ka rasta nahi mil raha
+main gate pe aa raha hoon
+restaurant ne bola 12 min aur lagega
+ready hote hi update dunga
+customer se number par baat nahi ho rahi
+main update dunga
+20 min late ho jayega
+bas 8 min mein pahunch jaunga
+diversion ki wajah se 18 min late ho jayega
+bas 30 min mein pahunch jaunga
+road closed ki wajah se 35 min late ho jayega
+bas 5 min mein pahunch jaunga
+customer available nahi hai
+theek hai main dekh raha hoon
+road work ki wajah se 30 min late ho jayega
+bas 8 min mein pahunch jaunga
+35 min ka delay hai
+bas 25 min mein pahunch jaunga
+traffic ki wajah se 10 min late ho jayega
+delay ke liye sorry
+signal block ki wajah se 25 min late ho jayega
+theek hai main dekh raha hoon
+customer ka gate lock hai
+main update dunga
+35 min ka delay hai
+main time par pahunchne ki koshish kar raha hoon
+route clear nahi hai
+main check karke batata hoon
+rain ki wajah se 30 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+jam ki wajah se 35 min late ho jayega
+bas thoda wait kar lijiye
+rain ki wajah se 5 min late ho jayega
+bas 10 min mein pahunch jaunga
+rain ki wajah se late ho raha hai
+on the way hoon
+8 min late ho jayega
+bas thoda wait kar lijiye
+jam ki wajah se 25 min late ho jayega
+bas 15 min mein pahunch jaunga
+18 min ka delay hai
+bas 12 min mein pahunch jaunga
+rain ki wajah se 5 min late ho jayega
+bas 35 min mein pahunch jaunga
+building band hai
+main map check kar raha hoon
+signal block ki wajah se 5 min late ho jayega
+bas 20 min mein pahunch jaunga
+customer bol raha hai landmark galat hai
+main check karke batata hoon
+system me location mismatch dikh raha hai
+main update dunga
+jam ki wajah se 12 min late ho jayega
+bas 8 min mein pahunch jaunga
+lift par entry issue hai
+theek hai main dekh raha hoon
+rain ki wajah se 18 min late ho jayega
+bas 20 min mein pahunch jaunga
+order details verify karni hai
+main confirm karke batata hoon
+road work ki wajah se 5 min late ho jayega
+bas thoda wait kar lijiye
+chef abhi ban raha hai
+main pickup ke liye ready hoon
+tower ka rasta nahi mil raha
+main location confirm karta hoon
+accident ki wajah se 20 min late ho jayega
+bas 10 min mein pahunch jaunga
+gate band hai
+main security se baat karta hoon
+rain ki wajah se late ho raha hai
+bas 15 min mein pahunch jaunga
+18 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+road closed ki wajah se 12 min late ho jayega
+main handle kar raha hoon
+rain ki wajah se 35 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+thoda wait karna padega
+main wait kar raha hoon
+road work ki wajah se late ho raha hai
+delay ke liye sorry
+jam ki wajah se 35 min late ho jayega
+main update de raha hoon
+chef abhi ban raha hai
+packing complete hote hi nikalta hoon
+12 min ka delay hai
+bas 20 min mein pahunch jaunga
+gate par entry issue hai
+main gate pe aa raha hoon
+gate ka rasta nahi mil raha
+main entry point dhoondh raha hoon
+delivery ka status update do
+main check karke batata hoon
+signal block ki wajah se 35 min late ho jayega
+bas 30 min mein pahunch jaunga
+road work ki wajah se 35 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+rain ki wajah se 15 min late ho jayega
+main update de raha hoon
+system me direction mismatch dikh raha hai
+main gate pe aa raha hoon
+rain ki wajah se 5 min late ho jayega
+bas thoda wait kar lijiye
+road closed ki wajah se 15 min late ho jayega
+main update dunga
+address match nahi ho raha
+main address verify kar raha hoon
+accident ki wajah se 5 min late ho jayega
+bas 10 min mein pahunch jaunga
+customer bol raha hai building band hai
+main update dunga
+12 min late ho jayega
+main update de raha hoon
+rain ki wajah se 12 min late ho jayega
+bas 35 min mein pahunch jaunga
+route unclear hai
+main route check kar raha hoon
+25 min late ho jayega
+main handle kar raha hoon
+diversion ki wajah se 8 min late ho jayega
+bas 18 min mein pahunch jaunga
+accident ki wajah se 30 min late ho jayega
+main update de raha hoon
+restaurant abhi food ready kar raha hai
+main update dunga
+jam ki wajah se 25 min late ho jayega
+bas 35 min mein pahunch jaunga
+aaj thoda delay ho gaya
+bas 35 min mein pahunch jaunga
+landmark sahi nahi aa raha
+main update dunga
+30 min ka delay hai
+thodi der aur
+customer ka phone switch off hai
+main customer se baat karta hoon
+10 min late ho jayega
+bas 25 min mein pahunch jaunga
+signal block ki wajah se 25 min late ho jayega
+main check karke batata hoon
+customer ne bola abhi nahi mil sakta
+main handle kar raha hoon
+route samajh nahi aa raha
+main security se baat karta hoon
+8 min late ho jayega
+main update de raha hoon
+signal block ki wajah se 35 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+map clear nahi hai
+main check karke batata hoon
+diversion ki wajah se 20 min late ho jayega
+delay ke liye sorry
+block band hai
+main gate pe aa raha hoon
+10 min ka delay hai
+bas 12 min mein pahunch jaunga
+landmark samajh nahi aa raha
+main entry point dhoondh raha hoon
+order handover kar diya
+order de diya hai
+customer bol raha hai route galat hai
+main update dunga
+road work ki wajah se 18 min late ho jayega
+bas 8 min mein pahunch jaunga
+order tracking update chahiye
+main status confirm karke batata hoon
+order thoda late ho raha hai
+bas 20 min mein pahunch jaunga
+society par entry issue hai
+main address verify kar raha hoon
+rain ki wajah se 20 min late ho jayega
+main handle kar raha hoon
+traffic ki wajah se 35 min late ho jayega
+main update de raha hoon
+diversion ki wajah se late ho raha hai
+main check karke batata hoon
+customer ka call busy aa raha hai
+main dubara reach out karta hoon
+road work ki wajah se 12 min late ho jayega
+main handle kar raha hoon
+map clear nahi hai
+theek hai main dekh raha hoon
+lift ka rasta nahi mil raha
+main address verify kar raha hoon
+5 min late ho jayega
+bas 30 min mein pahunch jaunga
+road work ki wajah se 25 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+block par security rok rahi hai
+main handle kar raha hoon
+25 min ka delay hai
+thodi der aur
+accident ki wajah se 18 min late ho jayega
+bas 15 min mein pahunch jaunga
+society par entry issue hai
+main check karke batata hoon
+parking ka rasta nahi mil raha
+main update dunga
+lift ka rasta nahi mil raha
+main location confirm karta hoon
+rain ki wajah se 12 min late ho jayega
+main update dunga
+system bol raha hai order late hai
+delay ke liye sorry
+10 min late ho jayega
+main jaldi aa raha hoon
+traffic ki wajah se 5 min late ho jayega
+bas 5 min mein pahunch jaunga
+location match nahi ho raha
+main landmark dekh kar aa raha hoon
+customer bol raha hai order late hai
+bas 8 min mein pahunch jaunga
+12 min late ho jayega
+bas 35 min mein pahunch jaunga
+delivery complete ho gayi
+delivery complete kar diya
+rain ki wajah se 5 min late ho jayega
+bas 15 min mein pahunch jaunga
+order me mismatch hai
+main issue check karta hoon
+navigation help chahiye
+theek hai main dekh raha hoon
+system me direction mismatch dikh raha hai
+main address verify kar raha hoon
+delivery me delay ho gaya
+theek hai main dekh raha hoon
+30 min ka delay hai
+bas thoda wait kar lijiye
+block ka rasta nahi mil raha
+main security se baat karta hoon
+restaurant ne bola 5 min aur lagega
+main handle kar raha hoon
+delivery me delay ho gaya
+bas 12 min mein pahunch jaunga
+diversion ki wajah se 12 min late ho jayega
+main check karke batata hoon
+10 min late ho jayega
+main handle kar raha hoon
+route kaafi confusing hai
+main turn lekar aa raha hoon
+road work ki wajah se 25 min late ho jayega
+main jaldi aa raha hoon
+accident ki wajah se 35 min late ho jayega
+bas 20 min mein pahunch jaunga
+signal block ki wajah se 30 min late ho jayega
+bas 10 min mein pahunch jaunga
+accident ki wajah se 10 min late ho jayega
+bas 35 min mein pahunch jaunga
+delivery ke liye nikal gaya hoon
+main deliver kar raha hoon
+35 min ka delay hai
+bas thoda wait kar lijiye
+chef abhi ban raha hai
+restaurant se pickup ke baad nikalunga
+rain ki wajah se 15 min late ho jayega
+main jaldi aa raha hoon
+diversion ki wajah se 15 min late ho jayega
+delay ke liye sorry
+delivery ke liye nikal gaya hoon
+main customer ke gate par hoon
+call connect nahi ho raha
+main handle kar raha hoon
+restaurant ne bola 25 min aur lagega
+main handle kar raha hoon
+signal block ki wajah se 5 min late ho jayega
+bas thoda wait kar lijiye
+delivery complete ho gayi
+main check karke batata hoon
+traffic ki wajah se late ho raha hoon
+bas 20 min mein pahunch jaunga
+order late ho raha hai
+bas 18 min mein pahunch jaunga
+order ka status pooch rahe hain
+main abhi status share karta hoon
+block ka rasta nahi mil raha
+main entry point dhoondh raha hoon
+diversion ki wajah se 20 min late ho jayega
+main check karke batata hoon
+accident ki wajah se late ho raha hai
+bas 10 min mein pahunch jaunga
+road work ki wajah se 18 min late ho jayega
+bas 12 min mein pahunch jaunga
+food ready nahi hua
+jaise hi ready hoga main nikal jaunga
+restaurant ne bola 35 min aur lagega
+jaise hi ready hoga main nikal jaunga
+road closed ki wajah se 10 min late ho jayega
+main update dunga
+system me location mismatch dikh raha hai
+main location confirm karta hoon
+system bol raha hai order ready nahi hai
+jaise hi ready hoga main nikal jaunga
+customer bol raha hai item missing hai
+theek hai main dekh raha hoon
+signal block ki wajah se 35 min late ho jayega
+main jaldi aa raha hoon
+restaurant ne bola 25 min aur lagega
+main update dunga
+road work ki wajah se 10 min late ho jayega
+bas 25 min mein pahunch jaunga
+direction clear nahi hai
+main gate pe aa raha hoon
+customer bol raha hai gate band hai
+theek hai main dekh raha hoon
+diversion ki wajah se 8 min late ho jayega
+delay ke liye sorry
+traffic ki wajah se 12 min late ho jayega
+bas 20 min mein pahunch jaunga
+customer bol raha hai building band hai
+theek hai main dekh raha hoon
+road closed ki wajah se late ho raha hai
+main check karke batata hoon
+direction samajh nahi aa raha
+main handle kar raha hoon
+traffic ki wajah se 20 min late ho jayega
+on the way hoon
+road closed ki wajah se late ho raha hai
+main handle kar raha hoon
+customer bol raha hai order late hai
+theek hai main dekh raha hoon
+rain ki wajah se 8 min late ho jayega
+bas thoda wait kar lijiye
+lane band hai
+theek hai main dekh raha hoon
+road work ki wajah se 15 min late ho jayega
+bas 25 min mein pahunch jaunga
+25 min ka delay hai
+maaf kijiye thoda late ho raha hoon
+accident ki wajah se 8 min late ho jayega
+bas thoda wait kar lijiye
+customer bol raha hai pin galat hai
+theek hai main dekh raha hoon
+jam ki wajah se 18 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+payment me issue aa raha hai
+main check karke batata hoon
+road closed ki wajah se 5 min late ho jayega
+bas 12 min mein pahunch jaunga
+direction samajh nahi aa raha
+main entry point dhoondh raha hoon
+customer bol raha hai map galat hai
+main map check kar raha hoon
+road closed ki wajah se 20 min late ho jayega
+main jaldi aa raha hoon
+order handover kar diya
+delivery complete kar diya
+traffic ki wajah se 18 min late ho jayega
+bas 8 min mein pahunch jaunga
+road closed ki wajah se 8 min late ho jayega
+bas 20 min mein pahunch jaunga
+signal block ki wajah se 35 min late ho jayega
+thodi der aur
+location match nahi ho raha
+main map check kar raha hoon
+society band hai
+main gate pe aa raha hoon
+system bol raha hai order late hai
+bas thoda wait kar lijiye
+traffic ki wajah se late ho raha hoon
+main jaldi aa raha hoon
+accident ki wajah se late ho raha hai
+main jaldi aa raha hoon
+signal block ki wajah se late ho raha hai
+bas 10 min mein pahunch jaunga
+route unclear hai
+main handle kar raha hoon
+10 min ka delay hai
+main update dunga
+aaj thoda delay ho gaya
+theek hai main dekh raha hoon
+pin sahi nahi aa raha
+theek hai main dekh raha hoon
+signal block ki wajah se 8 min late ho jayega
+main handle kar raha hoon
+jam ki wajah se 35 min late ho jayega
+bas 8 min mein pahunch jaunga
+rain ki wajah se 15 min late ho jayega
+thodi der aur
+accident ki wajah se 18 min late ho jayega
+main handle kar raha hoon
+system me pin mismatch dikh raha hai
+main security se baat karta hoon
+diversion ki wajah se 15 min late ho jayega
+bas 5 min mein pahunch jaunga
+diversion ki wajah se 12 min late ho jayega
+bas 25 min mein pahunch jaunga
+road closed ki wajah se 12 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+pickup ke liye wait karna hai
+bas thoda wait kijiye
+gate band hai
+main update dunga
+accident ki wajah se 12 min late ho jayega
+delay ke liye sorry
+18 min late ho jayega
+bas 25 min mein pahunch jaunga
+customer bol raha hai block band hai
+main gate pe aa raha hoon
+delivery instructions check karni hai
+main handle kar raha hoon
+accident ki wajah se 18 min late ho jayega
+bas 25 min mein pahunch jaunga
+12 min late ho jayega
+main jaldi aa raha hoon
+order late ho raha hai
+main check karke batata hoon
+accident ki wajah se 5 min late ho jayega
+main update dunga
+jam ki wajah se late ho raha hai
+main update dunga
+jam ki wajah se 10 min late ho jayega
+main update de raha hoon
+road work ki wajah se late ho raha hai
+maaf kijiye thoda late ho raha hoon
+8 min late ho jayega
+bas 8 min mein pahunch jaunga
+road work ki wajah se 25 min late ho jayega
+on the way hoon
+road closed ki wajah se 18 min late ho jayega
+main handle kar raha hoon
+signal block ki wajah se 30 min late ho jayega
+on the way hoon
+customer bol raha hai landmark galat hai
+main entry point dhoondh raha hoon
+road closed ki wajah se late ho raha hai
+bas 25 min mein pahunch jaunga
+accident ki wajah se 25 min late ho jayega
+delay ke liye sorry
+thoda delay ho gaya
+bas 30 min mein pahunch jaunga
+diversion ki wajah se 30 min late ho jayega
+main check karke batata hoon
+restaurant ne bola 30 min aur lagega
+theek hai main dekh raha hoon
+route samajh nahi aa raha
+main entry point dhoondh raha hoon
+road closed ki wajah se 8 min late ho jayega
+on the way hoon
+customer bol raha hai route galat hai
+main address verify kar raha hoon
+diversion ki wajah se 10 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+accident ki wajah se 5 min late ho jayega
+bas 25 min mein pahunch jaunga
+30 min ka delay hai
+bas 18 min mein pahunch jaunga
+signal block ki wajah se 15 min late ho jayega
+main check karke batata hoon
+map match nahi ho raha
+main landmark dekh kar aa raha hoon
+20 min ka delay hai
+bas 18 min mein pahunch jaunga
+diversion ki wajah se 25 min late ho jayega
+theek hai main dekh raha hoon
+25 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+system me direction mismatch dikh raha hai
+main entry point dhoondh raha hoon
+diversion ki wajah se 8 min late ho jayega
+on the way hoon
+road closed ki wajah se late ho raha hai
+bas 35 min mein pahunch jaunga
+restaurant abhi food ready kar raha hai
+packing complete hote hi nikalta hoon
+12 min ka delay hai
+main check karke batata hoon
+20 min ka delay hai
+bas 5 min mein pahunch jaunga
+call connect nahi ho raha
+main dobara call karta hoon
+landmark samajh nahi aa raha
+main handle kar raha hoon
+pickup confirmed hai
+pickup complete ho gaya
+direction sahi nahi aa raha
+main security se baat karta hoon
+pin sahi nahi aa raha
+main map check kar raha hoon
+customer ka phone busy aa raha hai
+theek hai main dekh raha hoon
+customer bol raha hai entry band hai
+main entry point dhoondh raha hoon
+road work ki wajah se 20 min late ho jayega
+main check karke batata hoon
+road closed ki wajah se 5 min late ho jayega
+bas 8 min mein pahunch jaunga
+system me landmark mismatch dikh raha hai
+theek hai main dekh raha hoon
+5 min late ho jayega
+thodi der aur
+jam ki wajah se 20 min late ho jayega
+main jaldi aa raha hoon
+8 min late ho jayega
+main jaldi aa raha hoon
+rain ki wajah se 25 min late ho jayega
+bas 35 min mein pahunch jaunga
+order ready hone ka wait hai
+main wait karke update dunga
+road work ki wajah se late ho raha hai
+thodi der aur
+system me direction mismatch dikh raha hai
+main handle kar raha hoon
+restaurant ne bola 25 min aur lagega
+restaurant se pickup ke baad nikalunga
+customer status pooch raha hai
+main handle kar raha hoon
+customer busy hai baad me milega
+main handle kar raha hoon
+accident ki wajah se 15 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+signal block ki wajah se late ho raha hai
+main update dunga
+traffic ki wajah se 8 min late ho jayega
+bas 25 min mein pahunch jaunga
+rain ki wajah se 15 min late ho jayega
+delay ke liye sorry
+18 min late ho jayega
+on the way hoon
+12 min late ho jayega
+bas 8 min mein pahunch jaunga
+route match nahi ho raha
+main check karke batata hoon
+customer bol raha hai entry band hai
+main location confirm karta hoon
+road work ki wajah se 18 min late ho jayega
+bas 10 min mein pahunch jaunga
+rain ki wajah se 35 min late ho jayega
+bas thoda wait kar lijiye
+order pickup kar raha hoon
+main update dunga
+customer bol raha hai society band hai
+main map check kar raha hoon
+road closed ki wajah se 35 min late ho jayega
+theek hai main dekh raha hoon
+customer status pooch raha hai
+main update dunga
+road work ki wajah se 25 min late ho jayega
+thodi der aur
+jam ki wajah se late ho raha hai
+main time par pahunchne ki koshish kar raha hoon
+road work ki wajah se 8 min late ho jayega
+bas 8 min mein pahunch jaunga
+rain ki wajah se 10 min late ho jayega
+bas 18 min mein pahunch jaunga
+signal block ki wajah se 12 min late ho jayega
+theek hai main dekh raha hoon
+parking ka rasta nahi mil raha
+main entry point dhoondh raha hoon
+society par entry issue hai
+main gate pe aa raha hoon
+security par security rok rahi hai
+main map check kar raha hoon
+road closed ki wajah se 25 min late ho jayega
+bas 30 min mein pahunch jaunga
+location sahi nahi aa raha
+main gate pe aa raha hoon
+traffic ki wajah se 30 min late ho jayega
+theek hai main dekh raha hoon
+map samajh nahi aa raha
+main address verify kar raha hoon
+road work ki wajah se 35 min late ho jayega
+main jaldi aa raha hoon
+road work ki wajah se 35 min late ho jayega
+bas 30 min mein pahunch jaunga
+order ready hone me time lag raha hai
+packing complete hote hi nikalta hoon
+map clear nahi hai
+main landmark dekh kar aa raha hoon
+rain ki wajah se 20 min late ho jayega
+main jaldi aa raha hoon
+restaurant abhi food ready kar raha hai
+main pickup ke liye ready hoon
+accident ki wajah se 20 min late ho jayega
+bas 15 min mein pahunch jaunga
+galat lane me aa gaya
+main update dunga
+rain ki wajah se 18 min late ho jayega
+main update dunga
+customer call nahi utha raha
+main dobara call karta hoon
+road work ki wajah se 20 min late ho jayega
+bas 35 min mein pahunch jaunga
+restaurant ne bola 10 min aur lagega
+main pickup ke liye ready hoon
+lane ka rasta nahi mil raha
+theek hai main dekh raha hoon
+signal block ki wajah se 8 min late ho jayega
+bas 12 min mein pahunch jaunga
+customer location par nahi mila
+main dobara try karta hoon
+diversion ki wajah se 12 min late ho jayega
+bas 12 min mein pahunch jaunga
+tower par security rok rahi hai
+theek hai main dekh raha hoon
+accident ki wajah se 8 min late ho jayega
+bas 20 min mein pahunch jaunga
+route clear nahi hai
+main handle kar raha hoon
+road work ki wajah se 12 min late ho jayega
+main jaldi aa raha hoon
+diversion ki wajah se 15 min late ho jayega
+bas 18 min mein pahunch jaunga
+rain ki wajah se 15 min late ho jayega
+bas 8 min mein pahunch jaunga
+entry par entry issue hai
+main handle kar raha hoon
+rain ki wajah se 35 min late ho jayega
+main handle kar raha hoon
+customer bol raha hai item missing hai
+main help leta hoon
+call lagaya par response nahi mila
+theek hai main dekh raha hoon
+rain ki wajah se 8 min late ho jayega
+main check karke batata hoon
+road work ki wajah se 5 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+accident ki wajah se 20 min late ho jayega
+delay ke liye sorry
+8 min late ho jayega
+bas 25 min mein pahunch jaunga
+restaurant ne bola 35 min aur lagega
+restaurant se pickup ke baad nikalunga
+accident ki wajah se late ho raha hai
+theek hai main dekh raha hoon
+lift ka rasta nahi mil raha
+main entry point dhoondh raha hoon
+jam ki wajah se 20 min late ho jayega
+bas 20 min mein pahunch jaunga
+rain ki wajah se 15 min late ho jayega
+bas 18 min mein pahunch jaunga
+payment me issue aa raha hai
+theek hai main dekh raha hoon
+customer bol raha hai map galat hai
+main landmark dekh kar aa raha hoon
+accident ki wajah se 20 min late ho jayega
+bas 25 min mein pahunch jaunga
+rain ki wajah se 30 min late ho jayega
+main handle kar raha hoon
+customer bol raha hai pin galat hai
+main update dunga
+customer bol raha hai pin galat hai
+main location confirm karta hoon
+pickup ke liye wait karna hai
+theek hai main dekh raha hoon
+15 min ka delay hai
+bas 20 min mein pahunch jaunga
+address sahi nahi aa raha
+main address verify kar raha hoon
+traffic ki wajah se 8 min late ho jayega
+bas 18 min mein pahunch jaunga
+road closed ki wajah se 15 min late ho jayega
+bas 30 min mein pahunch jaunga
+diversion ki wajah se 25 min late ho jayega
+delay ke liye sorry
+diversion ki wajah se late ho raha hai
+main handle kar raha hoon
+location samajh nahi aa raha
+theek hai main dekh raha hoon
+road work ki wajah se 20 min late ho jayega
+bas 12 min mein pahunch jaunga
+system me address mismatch dikh raha hai
+main map check kar raha hoon
+road work ki wajah se 5 min late ho jayega
+theek hai main dekh raha hoon
+customer bol raha hai direction galat hai
+main entry point dhoondh raha hoon
+30 min ka delay hai
+bas 8 min mein pahunch jaunga
+lift band hai
+main landmark dekh kar aa raha hoon
+traffic ki wajah se 12 min late ho jayega
+bas 25 min mein pahunch jaunga
+road closed ki wajah se 15 min late ho jayega
+bas 20 min mein pahunch jaunga
+customer bol raha hai lift band hai
+main handle kar raha hoon
+diversion ki wajah se 15 min late ho jayega
+on the way hoon
+30 min ka delay hai
+bas 20 min mein pahunch jaunga
+location match nahi ho raha
+main address verify kar raha hoon
+road work ki wajah se 10 min late ho jayega
+bas 12 min mein pahunch jaunga
+rain ki wajah se 25 min late ho jayega
+bas 12 min mein pahunch jaunga
+traffic ki wajah se 20 min late ho jayega
+main handle kar raha hoon
+society par security rok rahi hai
+main security se baat karta hoon
+map match nahi ho raha
+main entry point dhoondh raha hoon
+rain ki wajah se 15 min late ho jayega
+bas 15 min mein pahunch jaunga
+customer se confirmation chahiye
+main check karke batata hoon
+road work ki wajah se 15 min late ho jayega
+main check karke batata hoon
+accident ki wajah se 18 min late ho jayega
+on the way hoon
+35 min late ho jayega
+bas 25 min mein pahunch jaunga
+diversion ki wajah se late ho raha hai
+bas 10 min mein pahunch jaunga
+wrong address mila
+main update dunga
+address sahi nahi aa raha
+main landmark dekh kar aa raha hoon
+customer bol raha hai entry band hai
+main address verify kar raha hoon
+5 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+5 min late ho jayega
+main update dunga
+customer ko item damaged lag raha hai
+main restaurant se confirm karta hoon
+aaj thoda delay ho gaya
+maaf kijiye thoda late ho raha hoon
+15 min ka delay hai
+theek hai main dekh raha hoon
+traffic ki wajah se 30 min late ho jayega
+bas 5 min mein pahunch jaunga
+order handover kar diya
+main deliver kar raha hoon
+system bol raha hai customer unreachable hai
+theek hai main dekh raha hoon
+tower band hai
+main update dunga
+signal block ki wajah se 5 min late ho jayega
+bas 8 min mein pahunch jaunga
+customer bol raha hai route galat hai
+main gate pe aa raha hoon
+accident ki wajah se 8 min late ho jayega
+bas 18 min mein pahunch jaunga
+landmark sahi nahi aa raha
+theek hai main dekh raha hoon
+call lagaya par response nahi mila
+main abhi try karta hoon
+customer bol raha hai building band hai
+main map check kar raha hoon
+road work ki wajah se 15 min late ho jayega
+delay ke liye sorry
+pin match nahi ho raha
+main security se baat karta hoon
+building par security rok rahi hai
+main map check kar raha hoon
+pickup ke liye nikal gaya hoon
+pickup complete ho gaya
+main customer ke gate par hoon
+main update dunga
+customer bol raha hai order late hai
+thodi der aur
+traffic ki wajah se late ho raha hai
+bas 20 min mein pahunch jaunga
+building ka rasta nahi mil raha
+main map check kar raha hoon
+order thoda late ho raha hai
+theek hai main dekh raha hoon
+traffic ki wajah se late ho raha hai
+main time par pahunchne ki koshish kar raha hoon
+status update chahiye
+main tracking update kar raha hoon
+block band hai
+main entry point dhoondh raha hoon
+5 min late ho jayega
+main check karke batata hoon
+restaurant me packing delay hai
+packing complete hote hi nikalta hoon
+road closed ki wajah se 30 min late ho jayega
+bas 20 min mein pahunch jaunga
+delivery instructions check karni hai
+main update dunga
+delivery instructions check karni hai
+main details verify kar raha hoon
+block ka rasta nahi mil raha
+main location confirm karta hoon
+accident ki wajah se 12 min late ho jayega
+bas 8 min mein pahunch jaunga
+jam ki wajah se 12 min late ho jayega
+on the way hoon
+15 min ka delay hai
+main time par pahunchne ki koshish kar raha hoon
+accident ki wajah se 8 min late ho jayega
+main handle kar raha hoon
+road work ki wajah se 35 min late ho jayega
+main update de raha hoon
+system bol raha hai order ready nahi hai
+main handle kar raha hoon
+jam ki wajah se 5 min late ho jayega
+bas 5 min mein pahunch jaunga
+jam ki wajah se late ho raha hai
+bas 8 min mein pahunch jaunga
+society par entry issue hai
+main map check kar raha hoon
+traffic ki wajah se late ho raha hai
+bas 12 min mein pahunch jaunga
+block band hai
+main check karke batata hoon
+customer ka call busy aa raha hai
+main update dunga
+landmark match nahi ho raha
+main location confirm karta hoon
+customer se call par baat nahi ho rahi
+main customer se baat karta hoon
+customer bol raha hai landmark galat hai
+main security se baat karta hoon
+diversion ki wajah se 18 min late ho jayega
+thodi der aur
+route samajh nahi aa raha
+main map check kar raha hoon
+jam ki wajah se 15 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+map sahi nahi aa raha
+main address verify kar raha hoon
+jam ki wajah se 30 min late ho jayega
+main update dunga
+customer ke paas pahunch gaya hoon
+main deliver kar raha hoon
+traffic ki wajah se 20 min late ho jayega
+theek hai main dekh raha hoon
+lane par security rok rahi hai
+main update dunga
+accident ki wajah se 5 min late ho jayega
+theek hai main dekh raha hoon
+road closed ki wajah se 35 min late ho jayega
+main handle kar raha hoon
+lane ka rasta nahi mil raha
+main update dunga
+road closed ki wajah se 12 min late ho jayega
+bas 12 min mein pahunch jaunga
+traffic ki wajah se 15 min late ho jayega
+bas 12 min mein pahunch jaunga
+restaurant ne bola 10 min aur lagega
+ready hote hi update dunga
+accident ki wajah se 12 min late ho jayega
+thodi der aur
+building ka rasta nahi mil raha
+main update dunga
+lane par security rok rahi hai
+main gate pe aa raha hoon
+address clear nahi hai
+main location confirm karta hoon
+rain ki wajah se 35 min late ho jayega
+main jaldi aa raha hoon
+building par entry issue hai
+main update dunga
+customer bol raha hai route galat hai
+main security se baat karta hoon
+jam ki wajah se 5 min late ho jayega
+theek hai main dekh raha hoon
+address match nahi ho raha
+main map check kar raha hoon
+8 min late ho jayega
+bas 20 min mein pahunch jaunga
+parking par security rok rahi hai
+main address verify kar raha hoon
+road work ki wajah se 5 min late ho jayega
+bas 5 min mein pahunch jaunga
+location clear nahi hai
+main entry point dhoondh raha hoon
+rain ki wajah se 25 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+road closed ki wajah se 18 min late ho jayega
+delay ke liye sorry
+signal block ki wajah se 30 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+diversion ki wajah se 25 min late ho jayega
+bas 25 min mein pahunch jaunga
+road closed ki wajah se 35 min late ho jayega
+bas thoda wait kar lijiye
+security ka rasta nahi mil raha
+main location confirm karta hoon
+galat lane me aa gaya
+main turn lekar aa raha hoon
+map clear nahi hai
+main update dunga
+20 min ka delay hai
+bas 30 min mein pahunch jaunga
+pickup ke liye wait karna hai
+main yahin hoon thodi der
+society ka rasta nahi mil raha
+main address verify kar raha hoon
+customer ka phone switch off hai
+main phir se contact karta hoon
+accident ki wajah se 5 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+main customer ke gate par hoon
+order de diya hai
+map match nahi ho raha
+main handle kar raha hoon
+customer bol raha hai parking band hai
+main update dunga
+rain ki wajah se 10 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+road work ki wajah se 35 min late ho jayega
+bas 10 min mein pahunch jaunga
+delivery ke liye near location hoon
+main deliver kar raha hoon
+pickup location pahunch gaya hoon
+main pickup karke on the way hoon
+restaurant ne bola 30 min aur lagega
+main check karke batata hoon
+order deliver karne ja raha hoon
+main customer ke gate par hoon
+order ready hone ka wait hai
+main thodi der wait karta hoon
+signal block ki wajah se 15 min late ho jayega
+on the way hoon
+road closed ki wajah se 35 min late ho jayega
+delay ke liye sorry
+restaurant abhi food ready kar raha hai
+jaise hi ready hoga main nikal jaunga
+rain ki wajah se 15 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+location samajh nahi aa raha
+main address verify kar raha hoon
+traffic ki wajah se 15 min late ho jayega
+bas 20 min mein pahunch jaunga
+chef abhi ban raha hai
+main check karke batata hoon
+road work ki wajah se 30 min late ho jayega
+delay ke liye sorry
+building band hai
+main gate pe aa raha hoon
+lane band hai
+main entry point dhoondh raha hoon
+customer bol raha hai order late hai
+main time par pahunchne ki koshish kar raha hoon
+road closed ki wajah se 12 min late ho jayega
+main update de raha hoon
+pin sahi nahi aa raha
+main security se baat karta hoon
+map clear nahi hai
+main security se baat karta hoon
+diversion ki wajah se 20 min late ho jayega
+main jaldi aa raha hoon
+customer se wait ho raha hai
+theek hai main dekh raha hoon
+lift par security rok rahi hai
+main entry point dhoondh raha hoon
+accident ki wajah se 25 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+delivery late ho rahi hai
+bas 5 min mein pahunch jaunga
+customer bol raha hai order late hai
+main check karke batata hoon
+security par security rok rahi hai
+main entry point dhoondh raha hoon
+traffic ki wajah se late ho raha hoon
+bas 18 min mein pahunch jaunga
+restaurant ne bola 15 min aur lagega
+main update dunga
+customer ka phone switch off hai
+main abhi try karta hoon
+route sahi nahi aa raha
+main update dunga
+direction match nahi ho raha
+main check karke batata hoon
+restaurant me packing delay hai
+main update dunga
+call connect nahi ho raha
+main dubara reach out karta hoon
+delivery instructions unclear hai
+main landmark dekh kar aa raha hoon
+order deliver kar diya
+main check karke batata hoon
+payment pending dikh raha hai
+main check karke batata hoon
+35 min ka delay hai
+bas 12 min mein pahunch jaunga
+road closed ki wajah se 35 min late ho jayega
+bas 25 min mein pahunch jaunga
+jam ki wajah se 12 min late ho jayega
+bas 30 min mein pahunch jaunga
+rain ki wajah se 20 min late ho jayega
+main update dunga
+jam ki wajah se 35 min late ho jayega
+main check karke batata hoon
+customer location par nahi mila
+main support ko inform karta hoon
+10 min ka delay hai
+on the way hoon
+parking par security rok rahi hai
+main location confirm karta hoon
+society par entry issue hai
+main handle kar raha hoon
+restaurant se wait chal raha hai
+main check karke batata hoon
+building band hai
+main update dunga
+customer ka gate lock hai
+main check karke batata hoon
+traffic ki wajah se late ho raha hai
+bas 25 min mein pahunch jaunga
+accident ki wajah se 35 min late ho jayega
+bas 18 min mein pahunch jaunga
+system me location mismatch dikh raha hai
+main check karke batata hoon
+system me direction mismatch dikh raha hai
+main update dunga
+road closed ki wajah se 35 min late ho jayega
+bas 12 min mein pahunch jaunga
+signal block ki wajah se 20 min late ho jayega
+bas 20 min mein pahunch jaunga
+customer ka number busy aa raha hai
+main message bhej raha hoon
+30 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+traffic ki wajah se 5 min late ho jayega
+main check karke batata hoon
+traffic ki wajah se 20 min late ho jayega
+bas 20 min mein pahunch jaunga
+12 min late ho jayega
+bas 18 min mein pahunch jaunga
+rain ki wajah se 5 min late ho jayega
+bas 30 min mein pahunch jaunga
+18 min late ho jayega
+bas 35 min mein pahunch jaunga
+system me map mismatch dikh raha hai
+main gate pe aa raha hoon
+jam ki wajah se 8 min late ho jayega
+bas 30 min mein pahunch jaunga
+block par security rok rahi hai
+main security se baat karta hoon
+traffic ki wajah se 18 min late ho jayega
+main check karke batata hoon
+pin sahi nahi aa raha
+main location confirm karta hoon
+tower par security rok rahi hai
+main handle kar raha hoon
+road closed ki wajah se 20 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+road closed ki wajah se 18 min late ho jayega
+bas 25 min mein pahunch jaunga
+accident ki wajah se 12 min late ho jayega
+main check karke batata hoon
+rain ki wajah se 8 min late ho jayega
+bas 20 min mein pahunch jaunga
+diversion ki wajah se 8 min late ho jayega
+main update dunga
+rain ki wajah se 12 min late ho jayega
+bas 25 min mein pahunch jaunga
+traffic ki wajah se late ho raha hai
+main handle kar raha hoon
+rain ki wajah se 25 min late ho jayega
+main update de raha hoon
+jam ki wajah se 10 min late ho jayega
+bas 25 min mein pahunch jaunga
+rain ki wajah se 30 min late ho jayega
+main update dunga
+traffic ki wajah se 30 min late ho jayega
+bas 30 min mein pahunch jaunga
+traffic ki wajah se 5 min late ho jayega
+main handle kar raha hoon
+35 min ka delay hai
+bas 30 min mein pahunch jaunga
+diversion ki wajah se 5 min late ho jayega
+bas 18 min mein pahunch jaunga
+customer bol raha hai refund chahiye
+theek hai main dekh raha hoon
+road closed ki wajah se 20 min late ho jayega
+main check karke batata hoon
+order pickup kar raha hoon
+theek hai main dekh raha hoon
+parking band hai
+theek hai main dekh raha hoon
+wrong route le liya
+main turn lekar aa raha hoon
+diversion ki wajah se 5 min late ho jayega
+bas 15 min mein pahunch jaunga
+pickup ke liye nikal gaya hoon
+abhi nikal raha hoon
+customer bol raha hai wrong item mila
+main handle kar raha hoon
+road closed ki wajah se 30 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+traffic ki wajah se 35 min late ho jayega
+theek hai main dekh raha hoon
+address match nahi ho raha
+main landmark dekh kar aa raha hoon
+traffic ki wajah se 35 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+delivery complete ho gayi
+main customer ke gate par hoon
+direction match nahi ho raha
+main security se baat karta hoon
+diversion ki wajah se 10 min late ho jayega
+main handle kar raha hoon
+road closed ki wajah se 18 min late ho jayega
+bas 5 min mein pahunch jaunga
+customer se number par baat nahi ho rahi
+theek hai main dekh raha hoon
+road closed ki wajah se 8 min late ho jayega
+bas 5 min mein pahunch jaunga
+customer ka call busy aa raha hai
+main check karke batata hoon
+pickup ke liye nikal gaya hoon
+main handle kar raha hoon
+route kaafi confusing hai
+main update dunga
+rain ki wajah se 5 min late ho jayega
+bas 8 min mein pahunch jaunga
+pin match nahi ho raha
+main check karke batata hoon
+system me map mismatch dikh raha hai
+theek hai main dekh raha hoon
+navigation help chahiye
+navigation follow kar raha hoon
+jam ki wajah se 15 min late ho jayega
+bas thoda wait kar lijiye
+system me address mismatch dikh raha hai
+main landmark dekh kar aa raha hoon
+traffic ki wajah se 10 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+30 min late ho jayega
+bas 12 min mein pahunch jaunga
+accident ki wajah se late ho raha hai
+bas 25 min mein pahunch jaunga
+location match nahi ho raha
+main security se baat karta hoon
+signal block ki wajah se 12 min late ho jayega
+bas 5 min mein pahunch jaunga
+order pickup kar raha hoon
+pickup ho gaya main nikal raha hoon
+rain ki wajah se 12 min late ho jayega
+delay ke liye sorry
+diversion ki wajah se 30 min late ho jayega
+bas 12 min mein pahunch jaunga
+traffic ki wajah se 30 min late ho jayega
+on the way hoon
+accident ki wajah se 35 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+road work ki wajah se 8 min late ho jayega
+delay ke liye sorry
+jam ki wajah se 18 min late ho jayega
+bas 8 min mein pahunch jaunga
+route kaafi confusing hai
+main check karke batata hoon
+rain ki wajah se 18 min late ho jayega
+bas 8 min mein pahunch jaunga
+pin match nahi ho raha
+main entry point dhoondh raha hoon
+rain ki wajah se 25 min late ho jayega
+bas 25 min mein pahunch jaunga
+turn miss ho gaya
+main update dunga
+signal block ki wajah se 5 min late ho jayega
+main update de raha hoon
+10 min late ho jayega
+bas thoda wait kar lijiye
+jam ki wajah se 20 min late ho jayega
+main handle kar raha hoon
+road work ki wajah se 18 min late ho jayega
+bas 30 min mein pahunch jaunga
+restaurant ne bola 12 min aur lagega
+main handle kar raha hoon
+wrong address mila
+main help leta hoon
+road work ki wajah se 18 min late ho jayega
+bas 20 min mein pahunch jaunga
+traffic ki wajah se 35 min late ho jayega
+bas 25 min mein pahunch jaunga
+accident ki wajah se 10 min late ho jayega
+bas 20 min mein pahunch jaunga
+thoda delay ho gaya
+main update dunga
+road closed ki wajah se 8 min late ho jayega
+bas 30 min mein pahunch jaunga
+rain ki wajah se late ho raha hai
+main check karke batata hoon
+delivery ke liye nikal gaya hoon
+main update dunga
+rain ki wajah se 12 min late ho jayega
+bas thoda wait kar lijiye
+accident ki wajah se 8 min late ho jayega
+bas 12 min mein pahunch jaunga
+diversion ki wajah se 25 min late ho jayega
+bas 8 min mein pahunch jaunga
+5 min late ho jayega
+main update de raha hoon
+order ready hone me time lag raha hai
+restaurant se pickup ke baad nikalunga
+road closed ki wajah se 30 min late ho jayega
+main update de raha hoon
+traffic ki wajah se 12 min late ho jayega
+delay ke liye sorry
+traffic ki wajah se 20 min late ho jayega
+main check karke batata hoon
+signal block ki wajah se 18 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+rain ki wajah se 25 min late ho jayega
+bas 10 min mein pahunch jaunga
+system me direction mismatch dikh raha hai
+main location confirm karta hoon
+route kaafi confusing hai
+map dekh kar aa raha hoon
+diversion ki wajah se 15 min late ho jayega
+main update de raha hoon
+building par entry issue hai
+main handle kar raha hoon
+gate code confirm karna hai
+main details verify kar raha hoon
+signal block ki wajah se 12 min late ho jayega
+main check karke batata hoon
+10 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+landmark samajh nahi aa raha
+main landmark dekh kar aa raha hoon
+lane par entry issue hai
+main handle kar raha hoon
+pickup ke liye wait karna hai
+main wait karke update dunga
+5 min late ho jayega
+main jaldi aa raha hoon
+tower ka rasta nahi mil raha
+main handle kar raha hoon
+entry par entry issue hai
+main landmark dekh kar aa raha hoon
+accident ki wajah se 20 min late ho jayega
+bas 5 min mein pahunch jaunga
+delivery me delay ho gaya
+bas 18 min mein pahunch jaunga
+rain ki wajah se 30 min late ho jayega
+bas 20 min mein pahunch jaunga
+accident ki wajah se 25 min late ho jayega
+main update de raha hoon
+order le liya hai
+main handle kar raha hoon
+25 min late ho jayega
+main jaldi aa raha hoon
+road work ki wajah se 20 min late ho jayega
+theek hai main dekh raha hoon
+5 min late ho jayega
+theek hai main dekh raha hoon
+customer bol raha hai tower band hai
+main location confirm karta hoon
+pickup confirmed hai
+theek hai main dekh raha hoon
+landmark sahi nahi aa raha
+main check karke batata hoon
+10 min late ho jayega
+main update de raha hoon
+signal block ki wajah se late ho raha hai
+delay ke liye sorry
+pin clear nahi hai
+main address verify kar raha hoon
+35 min ka delay hai
+thodi der aur
+building par entry issue hai
+main entry point dhoondh raha hoon
+customer ka phone busy aa raha hai
+main update dunga
+road closed ki wajah se 25 min late ho jayega
+bas 15 min mein pahunch jaunga
+rain ki wajah se late ho raha hai
+theek hai main dekh raha hoon
+rain ki wajah se 35 min late ho jayega
+bas 8 min mein pahunch jaunga
+building band hai
+theek hai main dekh raha hoon
+35 min late ho jayega
+bas 20 min mein pahunch jaunga
+building ka rasta nahi mil raha
+main landmark dekh kar aa raha hoon
+signal block ki wajah se 10 min late ho jayega
+bas 8 min mein pahunch jaunga
+customer se number par baat nahi ho rahi
+main customer se baat karta hoon
+rain ki wajah se 18 min late ho jayega
+on the way hoon
+food ready nahi hua
+main check karke batata hoon
+order deliver kar diya
+theek hai main dekh raha hoon
+traffic ki wajah se 20 min late ho jayega
+thodi der aur
+restaurant ne bola 18 min aur lagega
+main handle kar raha hoon
+signal block ki wajah se 8 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+road work ki wajah se 25 min late ho jayega
+main check karke batata hoon
+jam ki wajah se 30 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+traffic ki wajah se 5 min late ho jayega
+bas 30 min mein pahunch jaunga
+galat lane me aa gaya
+main check karke batata hoon
+accident ki wajah se 15 min late ho jayega
+bas 15 min mein pahunch jaunga
+customer status pooch raha hai
+main status confirm karke batata hoon
+jam ki wajah se 12 min late ho jayega
+main jaldi aa raha hoon
+turn miss ho gaya
+theek hai main dekh raha hoon
+road closed ki wajah se 15 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+parking par entry issue hai
+main security se baat karta hoon
+system me location mismatch dikh raha hai
+main map check kar raha hoon
+customer bol raha hai gate band hai
+main entry point dhoondh raha hoon
+5 min late ho jayega
+main handle kar raha hoon
+entry ka rasta nahi mil raha
+main landmark dekh kar aa raha hoon
+signal block ki wajah se 8 min late ho jayega
+bas 8 min mein pahunch jaunga
+diversion ki wajah se 10 min late ho jayega
+bas 18 min mein pahunch jaunga
+rasta samajh nahi aa raha
+main turn lekar aa raha hoon
+25 min ka delay hai
+theek hai main dekh raha hoon
+restaurant se pickup kar liya
+pickup ho gaya main nikal raha hoon
+jam ki wajah se 8 min late ho jayega
+bas 12 min mein pahunch jaunga
+35 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+pickup ke liye wait karna hai
+main handle kar raha hoon
+delivery instructions check karni hai
+main entry details confirm karta hoon
+restaurant par wait chal raha hai
+theek hai main dekh raha hoon
+tower par entry issue hai
+main security se baat karta hoon
+order le liya hai
+pickup ho gaya main nikal raha hoon
+jam ki wajah se 18 min late ho jayega
+main check karke batata hoon
+customer bol raha hai society band hai
+main check karke batata hoon
+customer available nahi hai
+main check karke batata hoon
+customer bol raha hai direction galat hai
+main gate pe aa raha hoon
+traffic ki wajah se 18 min late ho jayega
+main handle kar raha hoon
+address samajh nahi aa raha
+main handle kar raha hoon
+accident ki wajah se 12 min late ho jayega
+bas 30 min mein pahunch jaunga
+traffic ki wajah se 12 min late ho jayega
+theek hai main dekh raha hoon
+road closed ki wajah se 20 min late ho jayega
+main update dunga
+order handover kar diya
+deliver karte hi update dunga
+system status update mang raha hai
+main tracking update kar raha hoon
+road work ki wajah se 20 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+block par entry issue hai
+main security se baat karta hoon
+customer ne bola thoda wait karo
+main update dunga
+restaurant ne bola 30 min aur lagega
+ready hote hi update dunga
+customer ne bola thoda wait karo
+theek hai main dekh raha hoon
+restaurant ne bola 30 min aur lagega
+jaise hi ready hoga main nikal jaunga
+25 min ka delay hai
+bas 15 min mein pahunch jaunga
+landmark sahi nahi aa raha
+main address verify kar raha hoon
+15 min late ho jayega
+on the way hoon
+customer bol raha hai wrong item mila
+main check karke batata hoon
+traffic ki wajah se 12 min late ho jayega
+on the way hoon
+signal block ki wajah se 12 min late ho jayega
+bas 35 min mein pahunch jaunga
+signal block ki wajah se 12 min late ho jayega
+bas 8 min mein pahunch jaunga
+12 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+traffic ki wajah se 25 min late ho jayega
+delay ke liye sorry
+8 min ka delay hai
+delay ke liye sorry
+accident ki wajah se 20 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+map clear nahi hai
+main handle kar raha hoon
+diversion ki wajah se 18 min late ho jayega
+main check karke batata hoon
+security par entry issue hai
+main update dunga
+delivery me delay ho gaya
+main handle kar raha hoon
+traffic ki wajah se 20 min late ho jayega
+bas 8 min mein pahunch jaunga
+payment me issue aa raha hai
+main support se baat karta hoon
+rain ki wajah se 10 min late ho jayega
+bas thoda wait kar lijiye
+block par security rok rahi hai
+main check karke batata hoon
+accident ki wajah se 12 min late ho jayega
+main jaldi aa raha hoon
+signal block ki wajah se 10 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+road work ki wajah se 15 min late ho jayega
+theek hai main dekh raha hoon
+diversion ki wajah se 8 min late ho jayega
+main check karke batata hoon
+signal block ki wajah se 12 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+signal block ki wajah se 12 min late ho jayega
+bas 30 min mein pahunch jaunga
+traffic ki wajah se 5 min late ho jayega
+main update dunga
+customer ka gate lock hai
+theek hai main dekh raha hoon
+road work ki wajah se late ho raha hai
+main update dunga
+road work ki wajah se 30 min late ho jayega
+bas 5 min mein pahunch jaunga
+address match nahi ho raha
+main entry point dhoondh raha hoon
+traffic ki wajah se 30 min late ho jayega
+bas 10 min mein pahunch jaunga
+road closed ki wajah se 8 min late ho jayega
+main check karke batata hoon
+rain ki wajah se late ho raha hai
+main time par pahunchne ki koshish kar raha hoon
+accident ki wajah se 25 min late ho jayega
+bas 5 min mein pahunch jaunga
+rain ki wajah se 25 min late ho jayega
+main handle kar raha hoon
+road closed ki wajah se 30 min late ho jayega
+bas 30 min mein pahunch jaunga
+accident ki wajah se 18 min late ho jayega
+bas 30 min mein pahunch jaunga
+customer bol raha hai landmark galat hai
+theek hai main dekh raha hoon
+restaurant abhi food ready kar raha hai
+theek hai main dekh raha hoon
+jam ki wajah se 10 min late ho jayega
+thodi der aur
+route samajh nahi aa raha
+theek hai main dekh raha hoon
+customer se call par baat nahi ho rahi
+theek hai main dekh raha hoon
+road closed ki wajah se 30 min late ho jayega
+main update dunga
+main thodi der wait kar raha hoon
+theek hai main dekh raha hoon
+accident ki wajah se 15 min late ho jayega
+bas thoda wait kar lijiye
+system me map mismatch dikh raha hai
+main address verify kar raha hoon
+signal block ki wajah se 12 min late ho jayega
+bas 10 min mein pahunch jaunga
+lane band hai
+main address verify kar raha hoon
+road work ki wajah se late ho raha hai
+bas 12 min mein pahunch jaunga
+customer bol raha hai security band hai
+main map check kar raha hoon
+diversion ki wajah se 8 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+direction sahi nahi aa raha
+main gate pe aa raha hoon
+location samajh nahi aa raha
+main entry point dhoondh raha hoon
+route unclear hai
+navigation follow kar raha hoon
+jam ki wajah se 8 min late ho jayega
+on the way hoon
+pin match nahi ho raha
+main handle kar raha hoon
+address clear nahi hai
+main check karke batata hoon
+diversion ki wajah se 30 min late ho jayega
+bas 20 min mein pahunch jaunga
+accident ki wajah se 8 min late ho jayega
+main update dunga
+delivery ka status update do
+main status confirm karke batata hoon
+block band hai
+main location confirm karta hoon
+rain ki wajah se 30 min late ho jayega
+main jaldi aa raha hoon
+accident ki wajah se 20 min late ho jayega
+theek hai main dekh raha hoon
+rain ki wajah se 30 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+building ka rasta nahi mil raha
+main location confirm karta hoon
+35 min ka delay hai
+main check karke batata hoon
+diversion ki wajah se 8 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+system me map mismatch dikh raha hai
+main entry point dhoondh raha hoon
+rain ki wajah se 18 min late ho jayega
+main update de raha hoon
+30 min ka delay hai
+on the way hoon
+delivery me delay ho gaya
+on the way hoon
+rain ki wajah se 10 min late ho jayega
+main update de raha hoon
+rasta samajh nahi aa raha
+map dekh kar aa raha hoon
+route kaafi confusing hai
+main route check kar raha hoon
+25 min ka delay hai
+bas 12 min mein pahunch jaunga
+accident ki wajah se 25 min late ho jayega
+main jaldi aa raha hoon
+thoda delay ho gaya
+theek hai main dekh raha hoon
+tower par security rok rahi hai
+main entry point dhoondh raha hoon
+accident ki wajah se 25 min late ho jayega
+bas 12 min mein pahunch jaunga
+road closed ki wajah se 25 min late ho jayega
+main check karke batata hoon
+restaurant ne bola 30 min aur lagega
+main handle kar raha hoon
+road work ki wajah se 12 min late ho jayega
+bas 20 min mein pahunch jaunga
+road work ki wajah se 25 min late ho jayega
+main handle kar raha hoon
+customer se call par baat nahi ho rahi
+main dubara reach out karta hoon
+road work ki wajah se 12 min late ho jayega
+thodi der aur
+signal block ki wajah se late ho raha hai
+bas 5 min mein pahunch jaunga
+traffic ki wajah se 10 min late ho jayega
+main update de raha hoon
+signal block ki wajah se 8 min late ho jayega
+on the way hoon
+traffic ki wajah se 20 min late ho jayega
+bas 5 min mein pahunch jaunga
+diversion ki wajah se 5 min late ho jayega
+bas 10 min mein pahunch jaunga
+order ready hai pickup kar raha hoon
+main check karke batata hoon
+customer bol raha hai parking band hai
+main entry point dhoondh raha hoon
+accident ki wajah se 18 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+restaurant ne bola 25 min aur lagega
+main pickup ke liye ready hoon
+accident ki wajah se 20 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+diversion ki wajah se 12 min late ho jayega
+main handle kar raha hoon
+road closed ki wajah se late ho raha hai
+bas 12 min mein pahunch jaunga
+rain ki wajah se 12 min late ho jayega
+main update de raha hoon
+security band hai
+main entry point dhoondh raha hoon
+order pickup kar raha hoon
+main pickup karke on the way hoon
+accident ki wajah se 12 min late ho jayega
+bas 15 min mein pahunch jaunga
+aaj thoda delay ho gaya
+bas 20 min mein pahunch jaunga
+restaurant se pickup kar liya
+main pickup karke on the way hoon
+order thoda late ho raha hai
+on the way hoon
+rain ki wajah se 5 min late ho jayega
+main check karke batata hoon
+order handover kar diya
+theek hai main dekh raha hoon
+route samajh nahi aa raha
+main check karke batata hoon
+security ka rasta nahi mil raha
+main update dunga
+signal block ki wajah se 10 min late ho jayega
+thodi der aur
+road closed ki wajah se 20 min late ho jayega
+bas 12 min mein pahunch jaunga
+pin samajh nahi aa raha
+main location confirm karta hoon
+block par security rok rahi hai
+main gate pe aa raha hoon
+rain ki wajah se 15 min late ho jayega
+theek hai main dekh raha hoon
+customer se call par baat nahi ho rahi
+main message bhej raha hoon
+security par entry issue hai
+main gate pe aa raha hoon
+jam ki wajah se 18 min late ho jayega
+main handle kar raha hoon
+diversion ki wajah se 12 min late ho jayega
+main jaldi aa raha hoon
+30 min ka delay hai
+bas 5 min mein pahunch jaunga
+jam ki wajah se 35 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+rain ki wajah se 8 min late ho jayega
+bas 25 min mein pahunch jaunga
+delivery me delay ho gaya
+bas 30 min mein pahunch jaunga
+call connect nahi ho raha
+main update dunga
+address clear nahi hai
+main address verify kar raha hoon
+rain ki wajah se 30 min late ho jayega
+main update de raha hoon
+traffic ki wajah se late ho raha hoon
+bas 5 min mein pahunch jaunga
+parking par security rok rahi hai
+theek hai main dekh raha hoon
+jam ki wajah se 10 min late ho jayega
+bas 18 min mein pahunch jaunga
+road closed ki wajah se 25 min late ho jayega
+main update de raha hoon
+order ka status pooch rahe hain
+main status update de raha hoon
+landmark sahi nahi aa raha
+main handle kar raha hoon
+road closed ki wajah se 25 min late ho jayega
+bas 12 min mein pahunch jaunga
+15 min ka delay hai
+bas 5 min mein pahunch jaunga
+rain ki wajah se 10 min late ho jayega
+on the way hoon
+accident ki wajah se 35 min late ho jayega
+bas 30 min mein pahunch jaunga
+pickup location pahunch gaya hoon
+pickup karke aa raha hoon
+signal block ki wajah se 20 min late ho jayega
+bas 15 min mein pahunch jaunga
+accident ki wajah se 8 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+system bol raha hai order late hai
+main handle kar raha hoon
+signal block ki wajah se 10 min late ho jayega
+delay ke liye sorry
+diversion ki wajah se 30 min late ho jayega
+theek hai main dekh raha hoon
+25 min ka delay hai
+bas 18 min mein pahunch jaunga
+signal block ki wajah se 10 min late ho jayega
+bas 18 min mein pahunch jaunga
+8 min ka delay hai
+main handle kar raha hoon
+system bol raha hai order late hai
+main update dunga
+accident ki wajah se 18 min late ho jayega
+main jaldi aa raha hoon
+traffic ki wajah se 8 min late ho jayega
+main jaldi aa raha hoon
+10 min late ho jayega
+main check karke batata hoon
+jam ki wajah se 18 min late ho jayega
+bas 12 min mein pahunch jaunga
+traffic ki wajah se 12 min late ho jayega
+main check karke batata hoon
+restaurant ne bola 8 min aur lagega
+main wait kar raha hoon
+customer reachable nahi hai
+main phir se contact karta hoon
+rain ki wajah se 25 min late ho jayega
+bas thoda wait kar lijiye
+parking ka rasta nahi mil raha
+main address verify kar raha hoon
+diversion ki wajah se 20 min late ho jayega
+bas 25 min mein pahunch jaunga
+society band hai
+main check karke batata hoon
+rain ki wajah se 20 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+traffic ki wajah se 10 min late ho jayega
+bas 8 min mein pahunch jaunga
+customer bol raha hai building band hai
+main location confirm karta hoon
+10 min ka delay hai
+bas 18 min mein pahunch jaunga
+rain ki wajah se 10 min late ho jayega
+bas 5 min mein pahunch jaunga
+10 min ka delay hai
+theek hai main dekh raha hoon
+landmark samajh nahi aa raha
+main location confirm karta hoon
+order thoda late ho raha hai
+bas thoda wait kar lijiye
+accident ki wajah se 18 min late ho jayega
+bas 8 min mein pahunch jaunga
+accident ki wajah se 25 min late ho jayega
+on the way hoon
+signal block ki wajah se 5 min late ho jayega
+bas 12 min mein pahunch jaunga
+signal block ki wajah se 18 min late ho jayega
+main update dunga
+system me landmark mismatch dikh raha hai
+main entry point dhoondh raha hoon
+call connect nahi ho raha
+main customer se baat karta hoon
+customer bol raha hai order late hai
+maaf kijiye thoda late ho raha hoon
+location sahi nahi aa raha
+theek hai main dekh raha hoon
+accident ki wajah se 30 min late ho jayega
+bas 25 min mein pahunch jaunga
+gate code confirm karna hai
+theek hai main dekh raha hoon
+diversion ki wajah se 12 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+lane par security rok rahi hai
+main map check kar raha hoon
+jam ki wajah se 30 min late ho jayega
+main handle kar raha hoon
+accident ki wajah se 20 min late ho jayega
+main jaldi aa raha hoon
+customer ka gate lock hai
+main support ko inform karta hoon
+20 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+12 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+map match nahi ho raha
+main gate pe aa raha hoon
+customer ka number busy aa raha hai
+main update dunga
+pickup ke liye wait karna hai
+main wait kar raha hoon
+signal block ki wajah se 12 min late ho jayega
+bas 20 min mein pahunch jaunga
+order confirm karna hai
+main customer se confirm karta hoon
+15 min ka delay hai
+thodi der aur
+rain ki wajah se 5 min late ho jayega
+on the way hoon
+10 min ka delay hai
+delay ke liye sorry
+25 min ka delay hai
+bas 5 min mein pahunch jaunga
+order ka status pooch rahe hain
+main handle kar raha hoon
+delivery instructions unclear hai
+main gate pe aa raha hoon
+payment me issue aa raha hai
+main issue check karta hoon
+navigation help chahiye
+main sahi route pakad raha hoon
+accident ki wajah se 10 min late ho jayega
+bas 12 min mein pahunch jaunga
+traffic ki wajah se 15 min late ho jayega
+thodi der aur
+main queue me hoon
+main yahin hoon thodi der
+restaurant ne bola 18 min aur lagega
+main check karke batata hoon
+gate par security rok rahi hai
+main entry point dhoondh raha hoon
+road closed ki wajah se late ho raha hai
+main update dunga
+jam ki wajah se 5 min late ho jayega
+main jaldi aa raha hoon
+order ready hone me time lag raha hai
+ready hote hi update dunga
+jam ki wajah se 20 min late ho jayega
+bas 12 min mein pahunch jaunga
+signal block ki wajah se 35 min late ho jayega
+bas 25 min mein pahunch jaunga
+road work ki wajah se 18 min late ho jayega
+thodi der aur
+security ka rasta nahi mil raha
+main map check kar raha hoon
+restaurant ne bola 35 min aur lagega
+main restaurant se confirm kar raha hoon
+map clear nahi hai
+main gate pe aa raha hoon
+customer se call par baat nahi ho rahi
+main check karke batata hoon
+signal block ki wajah se 25 min late ho jayega
+bas thoda wait kar lijiye
+customer bol raha hai location galat hai
+main gate pe aa raha hoon
+rain ki wajah se 10 min late ho jayega
+main handle kar raha hoon
+delivery ke liye near location hoon
+main customer ke gate par hoon
+10 min ka delay hai
+bas 30 min mein pahunch jaunga
+lift ka rasta nahi mil raha
+main handle kar raha hoon
+12 min late ho jayega
+bas 12 min mein pahunch jaunga
+traffic ki wajah se 25 min late ho jayega
+bas 5 min mein pahunch jaunga
+road work ki wajah se 30 min late ho jayega
+theek hai main dekh raha hoon
+phone lagaya par response nahi mila
+main update dunga
+customer se phone par baat nahi ho rahi
+theek hai main dekh raha hoon
+road closed ki wajah se 20 min late ho jayega
+delay ke liye sorry
+restaurant ne bola 12 min aur lagega
+jaise hi ready hoga main nikal jaunga
+road work ki wajah se late ho raha hai
+theek hai main dekh raha hoon
+road closed ki wajah se 35 min late ho jayega
+bas 18 min mein pahunch jaunga
+18 min ka delay hai
+thodi der aur
+system me location mismatch dikh raha hai
+main address verify kar raha hoon
+road work ki wajah se 12 min late ho jayega
+bas 10 min mein pahunch jaunga
+order me mismatch hai
+theek hai main dekh raha hoon
+restaurant ne bola 12 min aur lagega
+main wait kar raha hoon
+security band hai
+main security se baat karta hoon
+payment me issue aa raha hai
+main help leta hoon
+restaurant ne bola 35 min aur lagega
+packing complete hote hi nikalta hoon
+jam ki wajah se 8 min late ho jayega
+main update dunga
+road closed ki wajah se 12 min late ho jayega
+main update dunga
+jam ki wajah se late ho raha hai
+bas 20 min mein pahunch jaunga
+customer location par nahi mila
+main phir se aata hoon
+30 min ka delay hai
+bas 12 min mein pahunch jaunga
+20 min late ho jayega
+main update dunga
+delivery ke liye nikal gaya hoon
+theek hai main dekh raha hoon
+traffic ki wajah se late ho raha hoon
+thodi der aur
+pin clear nahi hai
+main check karke batata hoon
+entry par security rok rahi hai
+main map check kar raha hoon
+35 min late ho jayega
+main check karke batata hoon
+traffic ki wajah se late ho raha hoon
+on the way hoon
+phone lagaya par response nahi mila
+main customer se baat karta hoon
+location match nahi ho raha
+main entry point dhoondh raha hoon
+payment pending dikh raha hai
+theek hai main dekh raha hoon
+gate band hai
+theek hai main dekh raha hoon
+15 min ka delay hai
+bas 8 min mein pahunch jaunga
+accident ki wajah se 5 min late ho jayega
+bas 35 min mein pahunch jaunga
+delivery me delay ho gaya
+bas 15 min mein pahunch jaunga
+road closed ki wajah se 18 min late ho jayega
+on the way hoon
+system bol raha hai order late hai
+on the way hoon
+order late ho raha hai
+main time par pahunchne ki koshish kar raha hoon
+pickup confirmed hai
+main handle kar raha hoon
+restaurant se wait chal raha hai
+packing complete hote hi nikalta hoon
+landmark samajh nahi aa raha
+main update dunga
+road closed ki wajah se late ho raha hai
+theek hai main dekh raha hoon
+8 min late ho jayega
+thodi der aur
+5 min ka delay hai
+theek hai main dekh raha hoon
+rain ki wajah se 12 min late ho jayega
+bas 20 min mein pahunch jaunga
+direction sahi nahi aa raha
+main handle kar raha hoon
+delivery instructions unclear hai
+main handle kar raha hoon
+diversion ki wajah se 35 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+restaurant se wait chal raha hai
+main restaurant se confirm kar raha hoon
+building par security rok rahi hai
+main entry point dhoondh raha hoon
+signal block ki wajah se 20 min late ho jayega
+main check karke batata hoon
+system bol raha hai order ready nahi hai
+main pickup ke liye ready hoon
+restaurant ne bola 5 min aur lagega
+main restaurant se confirm kar raha hoon
+order le liya hai
+abhi nikal raha hoon
+restaurant ne bola 25 min aur lagega
+jaise hi ready hoga main nikal jaunga
+restaurant ne bola 5 min aur lagega
+ready hote hi update dunga
+traffic ki wajah se 30 min late ho jayega
+delay ke liye sorry
+tower band hai
+main location confirm karta hoon
+30 min late ho jayega
+main handle kar raha hoon
+customer bol raha hai location galat hai
+main security se baat karta hoon
+rain ki wajah se 35 min late ho jayega
+bas 10 min mein pahunch jaunga
+society par security rok rahi hai
+main entry point dhoondh raha hoon
+customer bol raha hai block band hai
+main handle kar raha hoon
+diversion ki wajah se 5 min late ho jayega
+bas thoda wait kar lijiye
+signal block ki wajah se 18 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+25 min ka delay hai
+bas 25 min mein pahunch jaunga
+security par entry issue hai
+main entry point dhoondh raha hoon
+lift par entry issue hai
+main gate pe aa raha hoon
+road work ki wajah se 5 min late ho jayega
+bas 25 min mein pahunch jaunga
+pickup ke liye nikal gaya hoon
+pickup karke aa raha hoon
+system me map mismatch dikh raha hai
+main check karke batata hoon
+customer ke paas pahunch gaya hoon
+main update dunga
+jam ki wajah se 5 min late ho jayega
+bas 15 min mein pahunch jaunga
+delivery late ho rahi hai
+bas 35 min mein pahunch jaunga
+signal block ki wajah se 10 min late ho jayega
+bas 25 min mein pahunch jaunga
+traffic ki wajah se 18 min late ho jayega
+thodi der aur
+payment me issue aa raha hai
+main update dunga
+customer bol raha hai tower band hai
+main entry point dhoondh raha hoon
+12 min ka delay hai
+main jaldi aa raha hoon
+road work ki wajah se 5 min late ho jayega
+main jaldi aa raha hoon
+restaurant me packing delay hai
+main handle kar raha hoon
+diversion ki wajah se 8 min late ho jayega
+bas thoda wait kar lijiye
+accident ki wajah se 12 min late ho jayega
+on the way hoon
+order ready hai pickup kar raha hoon
+pickup complete ho gaya
+lift band hai
+main update dunga
+18 min late ho jayega
+thodi der aur
+system me landmark mismatch dikh raha hai
+main location confirm karta hoon
+customer ne bola abhi nahi mil sakta
+main thodi der wait karta hoon
+signal block ki wajah se 25 min late ho jayega
+main handle kar raha hoon
+accident ki wajah se 18 min late ho jayega
+bas 35 min mein pahunch jaunga
+jam ki wajah se 8 min late ho jayega
+main handle kar raha hoon
+18 min late ho jayega
+bas 30 min mein pahunch jaunga
+signal block ki wajah se 15 min late ho jayega
+bas 12 min mein pahunch jaunga
+road closed ki wajah se 8 min late ho jayega
+bas 10 min mein pahunch jaunga
+jam ki wajah se 20 min late ho jayega
+bas 25 min mein pahunch jaunga
+signal block ki wajah se 30 min late ho jayega
+main check karke batata hoon
+delivery ke liye near location hoon
+order de diya hai
+route match nahi ho raha
+main update dunga
+30 min ka delay hai
+bas 10 min mein pahunch jaunga
+traffic ki wajah se 30 min late ho jayega
+bas 35 min mein pahunch jaunga
+12 min late ho jayega
+main update dunga
+customer bol raha hai lift band hai
+theek hai main dekh raha hoon
+18 min ka delay hai
+bas 18 min mein pahunch jaunga
+customer bol raha hai security band hai
+main update dunga
+20 min ka delay hai
+main handle kar raha hoon
+diversion ki wajah se 5 min late ho jayega
+thodi der aur
+pickup confirmed hai
+abhi nikal raha hoon
+rain ki wajah se 15 min late ho jayega
+main check karke batata hoon
+accident ki wajah se 30 min late ho jayega
+theek hai main dekh raha hoon
+traffic ki wajah se 8 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+rain ki wajah se 5 min late ho jayega
+bas 25 min mein pahunch jaunga
+accident ki wajah se 8 min late ho jayega
+thodi der aur
+customer bol raha hai location galat hai
+main location confirm karta hoon
+road work ki wajah se 5 min late ho jayega
+bas 35 min mein pahunch jaunga
+customer se phone par baat nahi ho rahi
+main handle kar raha hoon
+restaurant ne bola 30 min aur lagega
+main update dunga
+accident ki wajah se 12 min late ho jayega
+theek hai main dekh raha hoon
+aaj thoda delay ho gaya
+bas 5 min mein pahunch jaunga
+route clear nahi hai
+main address verify kar raha hoon
+system bol raha hai customer unreachable hai
+main abhi try karta hoon
+entry par entry issue hai
+main gate pe aa raha hoon
+landmark samajh nahi aa raha
+theek hai main dekh raha hoon
+gate ka rasta nahi mil raha
+theek hai main dekh raha hoon
+restaurant se wait chal raha hai
+main handle kar raha hoon
+accident ki wajah se 10 min late ho jayega
+main handle kar raha hoon
+location clear nahi hai
+theek hai main dekh raha hoon
+25 min ka delay hai
+bas 20 min mein pahunch jaunga
+road closed ki wajah se 8 min late ho jayega
+bas 25 min mein pahunch jaunga
+jam ki wajah se 18 min late ho jayega
+bas thoda wait kar lijiye
+rain ki wajah se 5 min late ho jayega
+thodi der aur
+customer bol raha hai parking band hai
+main handle kar raha hoon
+diversion ki wajah se 25 min late ho jayega
+on the way hoon
+order late ho raha hai
+bas 12 min mein pahunch jaunga
+restaurant par wait chal raha hai
+main thodi der wait karta hoon
+lift par entry issue hai
+main address verify kar raha hoon
+landmark samajh nahi aa raha
+main gate pe aa raha hoon
+order me mismatch hai
+main restaurant se confirm karta hoon
+navigation help chahiye
+main route check kar raha hoon
+jam ki wajah se 35 min late ho jayega
+main update dunga
+traffic ki wajah se 10 min late ho jayega
+main handle kar raha hoon
+system me direction mismatch dikh raha hai
+main map check kar raha hoon
+system bol raha hai order late hai
+bas 25 min mein pahunch jaunga
+security ka rasta nahi mil raha
+main entry point dhoondh raha hoon
+entry band hai
+main address verify kar raha hoon
+traffic ki wajah se 10 min late ho jayega
+bas 30 min mein pahunch jaunga
+order deliver kar diya
+main deliver kar raha hoon
+rain ki wajah se 8 min late ho jayega
+bas 35 min mein pahunch jaunga
+road work ki wajah se 35 min late ho jayega
+bas 8 min mein pahunch jaunga
+location sahi nahi aa raha
+main entry point dhoondh raha hoon
+customer bol raha hai refund chahiye
+main support se baat karta hoon
+jam ki wajah se 10 min late ho jayega
+bas 20 min mein pahunch jaunga
+jam ki wajah se 25 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+delivery late ho rahi hai
+bas 15 min mein pahunch jaunga
+restaurant ne bola 35 min aur lagega
+main pickup ke liye ready hoon
+signal block ki wajah se 18 min late ho jayega
+bas 10 min mein pahunch jaunga
+main customer ke gate par hoon
+main delivery complete kar raha hoon
+customer available nahi hai
+main phir se aata hoon
+customer call nahi utha raha
+main phir se contact karta hoon
+accident ki wajah se 20 min late ho jayega
+bas 30 min mein pahunch jaunga
+25 min late ho jayega
+bas 5 min mein pahunch jaunga
+signal block ki wajah se 15 min late ho jayega
+bas 8 min mein pahunch jaunga
+traffic ki wajah se 12 min late ho jayega
+bas 8 min mein pahunch jaunga
+entry ka rasta nahi mil raha
+main check karke batata hoon
+system bol raha hai order ready nahi hai
+main check karke batata hoon
+order confirm karna hai
+main confirm karke batata hoon
+lane par security rok rahi hai
+main entry point dhoondh raha hoon
+map me route change aa raha hai
+main check karke batata hoon
+restaurant me packing delay hai
+restaurant se pickup ke baad nikalunga
+20 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+customer bol raha hai location galat hai
+main entry point dhoondh raha hoon
+rain ki wajah se 30 min late ho jayega
+bas 25 min mein pahunch jaunga
+accident ki wajah se 10 min late ho jayega
+delay ke liye sorry
+customer available nahi hai
+main handle kar raha hoon
+delivery me delay ho gaya
+main time par pahunchne ki koshish kar raha hoon
+address clear nahi hai
+main landmark dekh kar aa raha hoon
+restaurant se pickup kar liya
+order le liya hai
+rain ki wajah se 10 min late ho jayega
+bas 10 min mein pahunch jaunga
+delivery ka status update do
+main status update de raha hoon
+pickup location pahunch gaya hoon
+theek hai main dekh raha hoon
+road closed ki wajah se 25 min late ho jayega
+on the way hoon
+signal block ki wajah se 25 min late ho jayega
+bas 30 min mein pahunch jaunga
+order deliver karne ja raha hoon
+main update dunga
+traffic ki wajah se 5 min late ho jayega
+bas 10 min mein pahunch jaunga
+traffic ki wajah se late ho raha hoon
+bas 10 min mein pahunch jaunga
+8 min late ho jayega
+bas 10 min mein pahunch jaunga
+customer se confirmation chahiye
+main instructions check karta hoon
+status update chahiye
+main handle kar raha hoon
+pin sahi nahi aa raha
+main check karke batata hoon
+security par security rok rahi hai
+main check karke batata hoon
+order deliver kar diya
+main update dunga
+rasta samajh nahi aa raha
+main sahi route pakad raha hoon
+wrong address mila
+main issue resolve kar raha hoon
+restaurant ne bola 15 min aur lagega
+jaise hi ready hoga main nikal jaunga
+rain ki wajah se 10 min late ho jayega
+theek hai main dekh raha hoon
+traffic ki wajah se 5 min late ho jayega
+theek hai main dekh raha hoon
+road closed ki wajah se 25 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+accident ki wajah se 5 min late ho jayega
+bas 15 min mein pahunch jaunga
+order late ho raha hai
+maaf kijiye thoda late ho raha hoon
+delivery late ho rahi hai
+main update dunga
+signal block ki wajah se 18 min late ho jayega
+bas 35 min mein pahunch jaunga
+road work ki wajah se 12 min late ho jayega
+bas 8 min mein pahunch jaunga
+jam ki wajah se 5 min late ho jayega
+main check karke batata hoon
+map sahi nahi aa raha
+theek hai main dekh raha hoon
+restaurant ne bola 8 min aur lagega
+main handle kar raha hoon
+accident ki wajah se 10 min late ho jayega
+main check karke batata hoon
+signal block ki wajah se 10 min late ho jayega
+bas 35 min mein pahunch jaunga
+system me pin mismatch dikh raha hai
+main update dunga
+road closed ki wajah se 20 min late ho jayega
+on the way hoon
+diversion ki wajah se 18 min late ho jayega
+main handle kar raha hoon
+signal block ki wajah se 20 min late ho jayega
+bas 30 min mein pahunch jaunga
+delivery instructions unclear hai
+main security se baat karta hoon
+order thoda late ho raha hai
+main update de raha hoon
+accident ki wajah se late ho raha hai
+bas 8 min mein pahunch jaunga
+system me route mismatch dikh raha hai
+main handle kar raha hoon
+road closed ki wajah se 25 min late ho jayega
+bas thoda wait kar lijiye
+tower par security rok rahi hai
+main gate pe aa raha hoon
+signal block ki wajah se 12 min late ho jayega
+bas 18 min mein pahunch jaunga
+5 min late ho jayega
+bas 15 min mein pahunch jaunga
+aaj thoda delay ho gaya
+bas 25 min mein pahunch jaunga
+pickup location pahunch gaya hoon
+pickup ho gaya main nikal raha hoon
+order pickup kar raha hoon
+abhi nikal raha hoon
+tower ka rasta nahi mil raha
+main update dunga
+jam ki wajah se 8 min late ho jayega
+bas 5 min mein pahunch jaunga
+customer bol raha hai direction galat hai
+theek hai main dekh raha hoon
+jam ki wajah se 8 min late ho jayega
+main check karke batata hoon
+5 min ka delay hai
+on the way hoon
+rain ki wajah se 8 min late ho jayega
+main handle kar raha hoon
+accident ki wajah se late ho raha hai
+bas 5 min mein pahunch jaunga
+8 min ka delay hai
+main jaldi aa raha hoon
+customer bol raha hai address galat hai
+main handle kar raha hoon
+signal block ki wajah se 10 min late ho jayega
+bas 12 min mein pahunch jaunga
+address clear nahi hai
+theek hai main dekh raha hoon
+10 min ka delay hai
+main check karke batata hoon
+accident ki wajah se 10 min late ho jayega
+main jaldi aa raha hoon
+road work ki wajah se 15 min late ho jayega
+bas 12 min mein pahunch jaunga
+delivery complete ho gayi
+order de diya hai
+diversion ki wajah se 25 min late ho jayega
+bas 30 min mein pahunch jaunga
+road closed ki wajah se 25 min late ho jayega
+bas 8 min mein pahunch jaunga
+system me address mismatch dikh raha hai
+main gate pe aa raha hoon
+rain ki wajah se 5 min late ho jayega
+bas 5 min mein pahunch jaunga
+road closed ki wajah se 20 min late ho jayega
+bas 8 min mein pahunch jaunga
+road closed ki wajah se 10 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+accident ki wajah se 35 min late ho jayega
+bas 12 min mein pahunch jaunga
+road closed ki wajah se 18 min late ho jayega
+thodi der aur
+route samajh nahi aa raha
+main handle kar raha hoon
+delivery me delay ho gaya
+bas 5 min mein pahunch jaunga
+road closed ki wajah se 12 min late ho jayega
+bas 20 min mein pahunch jaunga
+thoda delay ho gaya
+bas 15 min mein pahunch jaunga
+road work ki wajah se 8 min late ho jayega
+main jaldi aa raha hoon
+road closed ki wajah se 10 min late ho jayega
+bas 8 min mein pahunch jaunga
+road work ki wajah se 12 min late ho jayega
+bas 35 min mein pahunch jaunga
+order ka status pooch rahe hain
+main update dunga
+accident ki wajah se 15 min late ho jayega
+main check karke batata hoon
+accident ki wajah se 15 min late ho jayega
+bas 8 min mein pahunch jaunga
+restaurant ne bola 8 min aur lagega
+jaise hi ready hoga main nikal jaunga
+customer bol raha hai entry band hai
+main check karke batata hoon
+18 min ka delay hai
+delay ke liye sorry
+road work ki wajah se 5 min late ho jayega
+main update de raha hoon
+order me mismatch hai
+main issue resolve kar raha hoon
+35 min late ho jayega
+delay ke liye sorry
+location sahi nahi aa raha
+main update dunga
+signal block ki wajah se 5 min late ho jayega
+bas 30 min mein pahunch jaunga
+tower band hai
+main address verify kar raha hoon
+customer available nahi hai
+main dobara try karta hoon
+5 min late ho jayega
+bas 25 min mein pahunch jaunga
+road closed ki wajah se 10 min late ho jayega
+on the way hoon
+customer bol raha hai lane band hai
+main map check kar raha hoon
+customer ne bola abhi nahi mil sakta
+theek hai main dekh raha hoon
+location confirm karni hai
+main check karke batata hoon
+block band hai
+main landmark dekh kar aa raha hoon
+direction match nahi ho raha
+main handle kar raha hoon
+15 min late ho jayega
+main jaldi aa raha hoon
+jam ki wajah se late ho raha hai
+bas 30 min mein pahunch jaunga
+accident ki wajah se 15 min late ho jayega
+bas 35 min mein pahunch jaunga
+customer bol raha hai building band hai
+main address verify kar raha hoon
+parking par entry issue hai
+main gate pe aa raha hoon
+thoda delay ho gaya
+bas thoda wait kar lijiye
+35 min late ho jayega
+theek hai main dekh raha hoon
+road closed ki wajah se 15 min late ho jayega
+bas 10 min mein pahunch jaunga
+restaurant ne bola 5 min aur lagega
+main pickup ke liye ready hoon
+rain ki wajah se 25 min late ho jayega
+main check karke batata hoon
+accident ki wajah se 30 min late ho jayega
+main handle kar raha hoon
+traffic ki wajah se 20 min late ho jayega
+main jaldi aa raha hoon
+address samajh nahi aa raha
+main map check kar raha hoon
+diversion ki wajah se 35 min late ho jayega
+main update dunga
+15 min late ho jayega
+main check karke batata hoon
+customer bol raha hai refund chahiye
+main verify karke batata hoon
+direction clear nahi hai
+main entry point dhoondh raha hoon
+customer bol raha hai parking band hai
+main location confirm karta hoon
+10 min late ho jayega
+bas 10 min mein pahunch jaunga
+road closed ki wajah se 5 min late ho jayega
+main update de raha hoon
+signal block ki wajah se late ho raha hai
+bas 12 min mein pahunch jaunga
+customer bol raha hai lane band hai
+main check karke batata hoon
+location sahi nahi aa raha
+main landmark dekh kar aa raha hoon
+customer se wait ho raha hai
+main yahin hoon thodi der
+accident ki wajah se 20 min late ho jayega
+bas thoda wait kar lijiye
+security band hai
+main handle kar raha hoon
+restaurant par wait chal raha hai
+bas thoda wait kijiye
+traffic ki wajah se 18 min late ho jayega
+theek hai main dekh raha hoon
+diversion ki wajah se 30 min late ho jayega
+main update de raha hoon
+delivery me delay ho gaya
+maaf kijiye thoda late ho raha hoon
+landmark clear nahi hai
+main map check kar raha hoon
+accident ki wajah se 8 min late ho jayega
+theek hai main dekh raha hoon
+restaurant se pickup kar liya
+abhi nikal raha hoon
+direction match nahi ho raha
+main landmark dekh kar aa raha hoon
+jam ki wajah se 18 min late ho jayega
+delay ke liye sorry
+12 min late ho jayega
+bas 5 min mein pahunch jaunga
+rain ki wajah se 25 min late ho jayega
+main update dunga
+signal block ki wajah se late ho raha hai
+bas thoda wait kar lijiye
+jam ki wajah se 12 min late ho jayega
+main handle kar raha hoon
+map samajh nahi aa raha
+main landmark dekh kar aa raha hoon
+delivery instructions check karni hai
+main customer se confirm karta hoon
+lane ka rasta nahi mil raha
+main gate pe aa raha hoon
+customer bol raha hai pin galat hai
+main handle kar raha hoon
+18 min ka delay hai
+on the way hoon
+jam ki wajah se 10 min late ho jayega
+bas 30 min mein pahunch jaunga
+thoda wait karna padega
+main update dunga
+customer bol raha hai address galat hai
+main entry point dhoondh raha hoon
+parking ka rasta nahi mil raha
+theek hai main dekh raha hoon
+jam ki wajah se 18 min late ho jayega
+main update dunga
+road work ki wajah se 25 min late ho jayega
+theek hai main dekh raha hoon
+8 min late ho jayega
+main update dunga
+jam ki wajah se 18 min late ho jayega
+bas 30 min mein pahunch jaunga
+25 min late ho jayega
+bas 20 min mein pahunch jaunga
+pin samajh nahi aa raha
+main entry point dhoondh raha hoon
+restaurant ne bola 20 min aur lagega
+main wait kar raha hoon
+traffic ki wajah se 8 min late ho jayega
+main handle kar raha hoon
+25 min late ho jayega
+bas 30 min mein pahunch jaunga
+location samajh nahi aa raha
+main landmark dekh kar aa raha hoon
+rain ki wajah se 8 min late ho jayega
+main update dunga
+rain ki wajah se 12 min late ho jayega
+bas 12 min mein pahunch jaunga
+traffic ki wajah se 15 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+route sahi nahi aa raha
+main landmark dekh kar aa raha hoon
+diversion ki wajah se 15 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+diversion ki wajah se 20 min late ho jayega
+main update de raha hoon
+35 min ka delay hai
+delay ke liye sorry
+diversion ki wajah se 35 min late ho jayega
+bas 25 min mein pahunch jaunga
+restaurant ne bola 10 min aur lagega
+restaurant se pickup ke baad nikalunga
+traffic ki wajah se 20 min late ho jayega
+bas 35 min mein pahunch jaunga
+road work ki wajah se 25 min late ho jayega
+main update dunga
+customer bol raha hai order late hai
+on the way hoon
+traffic ki wajah se late ho raha hoon
+main time par pahunchne ki koshish kar raha hoon
+signal block ki wajah se 8 min late ho jayega
+bas 30 min mein pahunch jaunga
+8 min late ho jayega
+main check karke batata hoon
+customer bol raha hai location galat hai
+main landmark dekh kar aa raha hoon
+traffic ki wajah se 18 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+direction samajh nahi aa raha
+main address verify kar raha hoon
+traffic ki wajah se 5 min late ho jayega
+thodi der aur
+status update chahiye
+main status confirm karke batata hoon
+lane band hai
+main check karke batata hoon
+customer bol raha hai order late hai
+delay ke liye sorry
+signal block ki wajah se 20 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+18 min late ho jayega
+main handle kar raha hoon
+customer ke paas pahunch gaya hoon
+main delivery complete kar raha hoon
+lane par security rok rahi hai
+main handle kar raha hoon
+rain ki wajah se 8 min late ho jayega
+bas 5 min mein pahunch jaunga
+traffic ki wajah se 35 min late ho jayega
+main update dunga
+customer bol raha hai landmark galat hai
+main update dunga
+system status update mang raha hai
+main status update de raha hoon
+delivery ke liye near location hoon
+main update dunga
+delivery ka status update do
+main handle kar raha hoon
+road work ki wajah se 12 min late ho jayega
+bas 5 min mein pahunch jaunga
+rain ki wajah se 20 min late ho jayega
+bas 10 min mein pahunch jaunga
+accident ki wajah se 10 min late ho jayega
+bas 18 min mein pahunch jaunga
+road closed ki wajah se 25 min late ho jayega
+theek hai main dekh raha hoon
+customer bol raha hai direction galat hai
+main check karke batata hoon
+signal block ki wajah se 18 min late ho jayega
+theek hai main dekh raha hoon
+35 min late ho jayega
+bas 5 min mein pahunch jaunga
+jam ki wajah se 18 min late ho jayega
+bas 25 min mein pahunch jaunga
+10 min ka delay hai
+bas 20 min mein pahunch jaunga
+jam ki wajah se 12 min late ho jayega
+main update dunga
+accident ki wajah se 18 min late ho jayega
+main update de raha hoon
+road closed ki wajah se 20 min late ho jayega
+thodi der aur
+parking ka rasta nahi mil raha
+main check karke batata hoon
+customer bol raha hai map galat hai
+main update dunga
+10 min ka delay hai
+thodi der aur
+order details verify karni hai
+main instructions check karta hoon
+restaurant ne bola 20 min aur lagega
+theek hai main dekh raha hoon
+order confirm karna hai
+theek hai main dekh raha hoon
+phone lagaya par response nahi mila
+theek hai main dekh raha hoon
+diversion ki wajah se 25 min late ho jayega
+bas 5 min mein pahunch jaunga
+15 min late ho jayega
+bas 15 min mein pahunch jaunga
+customer bol raha hai location galat hai
+main address verify kar raha hoon
+customer bol raha hai route galat hai
+theek hai main dekh raha hoon
+gate par security rok rahi hai
+main address verify kar raha hoon
+accident ki wajah se 30 min late ho jayega
+thodi der aur
+society band hai
+main handle kar raha hoon
+system me pin mismatch dikh raha hai
+theek hai main dekh raha hoon
+road closed ki wajah se 5 min late ho jayega
+bas 15 min mein pahunch jaunga
+parking par security rok rahi hai
+main check karke batata hoon
+system me landmark mismatch dikh raha hai
+main landmark dekh kar aa raha hoon
+restaurant ne bola 12 min aur lagega
+main update dunga
+customer ko item damaged lag raha hai
+main update dunga
+traffic ki wajah se 5 min late ho jayega
+bas 8 min mein pahunch jaunga
+jam ki wajah se 5 min late ho jayega
+main handle kar raha hoon
+traffic ki wajah se 8 min late ho jayega
+bas thoda wait kar lijiye
+customer ka number busy aa raha hai
+main thodi der mein call karta hoon
+road work ki wajah se 5 min late ho jayega
+bas 20 min mein pahunch jaunga
+block par security rok rahi hai
+main landmark dekh kar aa raha hoon
+location clear nahi hai
+main handle kar raha hoon
+5 min late ho jayega
+bas 10 min mein pahunch jaunga
+accident ki wajah se 30 min late ho jayega
+main jaldi aa raha hoon
+order issue report karna hai
+main restaurant se confirm karta hoon
+customer busy hai baad me milega
+main check karke batata hoon
+diversion ki wajah se 30 min late ho jayega
+bas 15 min mein pahunch jaunga
+system me pin mismatch dikh raha hai
+main location confirm karta hoon
+rain ki wajah se 35 min late ho jayega
+main check karke batata hoon
+tower par entry issue hai
+main location confirm karta hoon
+accident ki wajah se 30 min late ho jayega
+main check karke batata hoon
+traffic ki wajah se 5 min late ho jayega
+delay ke liye sorry
+5 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+pickup location pahunch gaya hoon
+pickup complete ho gaya
+order ready hai pickup kar raha hoon
+pickup ho gaya main nikal raha hoon
+delivery late ho rahi hai
+main time par pahunchne ki koshish kar raha hoon
+road closed ki wajah se 8 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+accident ki wajah se 30 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+customer bol raha hai landmark galat hai
+main landmark dekh kar aa raha hoon
+jam ki wajah se 8 min late ho jayega
+main update de raha hoon
+phone lagaya par response nahi mila
+main thodi der mein call karta hoon
+20 min ka delay hai
+main check karke batata hoon
+road work ki wajah se 35 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+gate code confirm karna hai
+main update dunga
+customer bol raha hai wrong item mila
+main update dunga
+map sahi nahi aa raha
+main landmark dekh kar aa raha hoon
+jam ki wajah se 10 min late ho jayega
+bas thoda wait kar lijiye
+traffic ki wajah se 18 min late ho jayega
+delay ke liye sorry
+road work ki wajah se 20 min late ho jayega
+bas 25 min mein pahunch jaunga
+restaurant ne bola 30 min aur lagega
+restaurant se pickup ke baad nikalunga
+entry par entry issue hai
+main check karke batata hoon
+customer bol raha hai society band hai
+main landmark dekh kar aa raha hoon
+customer bol raha hai society band hai
+main handle kar raha hoon
+map match nahi ho raha
+main check karke batata hoon
+route clear nahi hai
+theek hai main dekh raha hoon
+diversion ki wajah se 10 min late ho jayega
+bas thoda wait kar lijiye
+lane ka rasta nahi mil raha
+main landmark dekh kar aa raha hoon
+18 min late ho jayega
+bas 8 min mein pahunch jaunga
+landmark match nahi ho raha
+main update dunga
+order deliver kar diya
+deliver karte hi update dunga
+accident ki wajah se 15 min late ho jayega
+bas 25 min mein pahunch jaunga
+10 min late ho jayega
+thodi der aur
+main thodi der wait kar raha hoon
+main yahin hoon thodi der
+order confirm karna hai
+main handle kar raha hoon
+road work ki wajah se 12 min late ho jayega
+main update dunga
+traffic ki wajah se 15 min late ho jayega
+bas thoda wait kar lijiye
+rain ki wajah se 30 min late ho jayega
+theek hai main dekh raha hoon
+road work ki wajah se 20 min late ho jayega
+bas 5 min mein pahunch jaunga
+15 min ka delay hai
+bas thoda wait kar lijiye
+traffic ki wajah se 5 min late ho jayega
+bas 25 min mein pahunch jaunga
+pickup complete ho gaya
+main handle kar raha hoon
+jam ki wajah se 10 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+8 min ka delay hai
+main check karke batata hoon
+order thoda late ho raha hai
+delay ke liye sorry
+order me mismatch hai
+main handle kar raha hoon
+lane band hai
+main update dunga
+customer bol raha hai tower band hai
+theek hai main dekh raha hoon
+traffic ki wajah se 20 min late ho jayega
+main update dunga
+customer busy hai baad me milega
+main support ko inform karta hoon
+order late ho raha hai
+bas 8 min mein pahunch jaunga
+signal block ki wajah se 18 min late ho jayega
+delay ke liye sorry
+accident ki wajah se 18 min late ho jayega
+theek hai main dekh raha hoon
+diversion ki wajah se 35 min late ho jayega
+bas thoda wait kar lijiye
+road work ki wajah se late ho raha hai
+bas 10 min mein pahunch jaunga
+customer available nahi hai
+main thodi der wait karta hoon
+order details verify karni hai
+main update dunga
+route match nahi ho raha
+main location confirm karta hoon
+rain ki wajah se 18 min late ho jayega
+bas thoda wait kar lijiye
+5 min late ho jayega
+bas 5 min mein pahunch jaunga
+wrong address mila
+main issue check karta hoon
+system bol raha hai order late hai
+bas 20 min mein pahunch jaunga
+accident ki wajah se 25 min late ho jayega
+main update dunga
+customer bol raha hai lift band hai
+main check karke batata hoon
+customer status pooch raha hai
+main tracking update kar raha hoon
+route samajh nahi aa raha
+main update dunga
+accident ki wajah se late ho raha hai
+bas 12 min mein pahunch jaunga
+pin samajh nahi aa raha
+main update dunga
+navigation help chahiye
+main update dunga
+road work ki wajah se 30 min late ho jayega
+bas 15 min mein pahunch jaunga
+signal block ki wajah se 15 min late ho jayega
+bas 35 min mein pahunch jaunga
+order deliver karne ja raha hoon
+deliver karte hi update dunga
+customer reachable nahi hai
+main handle kar raha hoon
+customer bol raha hai item missing hai
+main update dunga
+road closed ki wajah se 15 min late ho jayega
+main update de raha hoon
+customer se wait ho raha hai
+main wait karke update dunga
+customer bol raha hai map galat hai
+main check karke batata hoon
+5 min ka delay hai
+bas 15 min mein pahunch jaunga
+traffic ki wajah se 10 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+accident ki wajah se 5 min late ho jayega
+bas 18 min mein pahunch jaunga
+gate par entry issue hai
+main handle kar raha hoon
+restaurant ne bola 10 min aur lagega
+main update dunga
+thoda delay ho gaya
+on the way hoon
+20 min late ho jayega
+theek hai main dekh raha hoon
+15 min ka delay hai
+bas 12 min mein pahunch jaunga
+lift band hai
+main gate pe aa raha hoon
+traffic ki wajah se 10 min late ho jayega
+bas 10 min mein pahunch jaunga
+restaurant ne bola 30 min aur lagega
+main wait kar raha hoon
+customer se wait ho raha hai
+main handle kar raha hoon
+customer bol raha hai pin galat hai
+main security se baat karta hoon
+25 min late ho jayega
+bas 35 min mein pahunch jaunga
+8 min late ho jayega
+bas 12 min mein pahunch jaunga
+10 min late ho jayega
+bas 20 min mein pahunch jaunga
+accident ki wajah se 20 min late ho jayega
+bas 18 min mein pahunch jaunga
+order confirm karna hai
+main entry details confirm karta hoon
+road closed ki wajah se late ho raha hai
+bas 20 min mein pahunch jaunga
+landmark clear nahi hai
+main address verify kar raha hoon
+diversion ki wajah se 30 min late ho jayega
+main handle kar raha hoon
+diversion ki wajah se 18 min late ho jayega
+bas 20 min mein pahunch jaunga
+customer bol raha hai security band hai
+main address verify kar raha hoon
+diversion ki wajah se 35 min late ho jayega
+main update de raha hoon
+diversion ki wajah se 18 min late ho jayega
+bas 8 min mein pahunch jaunga
+8 min ka delay hai
+bas 20 min mein pahunch jaunga
+diversion ki wajah se 25 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+jam ki wajah se 20 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+order ready hai pickup kar raha hoon
+main update dunga
+building par security rok rahi hai
+main landmark dekh kar aa raha hoon
+road work ki wajah se 12 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+security par entry issue hai
+main check karke batata hoon
+jam ki wajah se 15 min late ho jayega
+main check karke batata hoon
+lift par entry issue hai
+main security se baat karta hoon
+restaurant ne bola 35 min aur lagega
+main wait kar raha hoon
+traffic ki wajah se 15 min late ho jayega
+bas 25 min mein pahunch jaunga
+rain ki wajah se 25 min late ho jayega
+bas 15 min mein pahunch jaunga
+rain ki wajah se 35 min late ho jayega
+bas 18 min mein pahunch jaunga
+customer bol raha hai gate band hai
+main gate pe aa raha hoon
+landmark match nahi ho raha
+main gate pe aa raha hoon
+jam ki wajah se 20 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+road work ki wajah se 18 min late ho jayega
+bas 5 min mein pahunch jaunga
+road closed ki wajah se 20 min late ho jayega
+bas 20 min mein pahunch jaunga
+5 min late ho jayega
+bas 20 min mein pahunch jaunga
+entry band hai
+main map check kar raha hoon
+block par security rok rahi hai
+main update dunga
+order me mismatch hai
+main check karke batata hoon
+gate code confirm karna hai
+main customer se confirm karta hoon
+direction samajh nahi aa raha
+main security se baat karta hoon
+system bol raha hai customer unreachable hai
+main message bhej raha hoon
+gate par security rok rahi hai
+main update dunga
+jam ki wajah se late ho raha hai
+bas 10 min mein pahunch jaunga
+traffic ki wajah se 35 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+thoda delay ho gaya
+bas 12 min mein pahunch jaunga
+block par security rok rahi hai
+theek hai main dekh raha hoon
+map match nahi ho raha
+main map check kar raha hoon
+lift band hai
+main location confirm karta hoon
+customer bol raha hai order late hai
+bas 30 min mein pahunch jaunga
+road work ki wajah se 35 min late ho jayega
+main handle kar raha hoon
+signal block ki wajah se 18 min late ho jayega
+main update de raha hoon
+parking band hai
+main map check kar raha hoon
+traffic ki wajah se 10 min late ho jayega
+bas 35 min mein pahunch jaunga
+signal block ki wajah se 25 min late ho jayega
+delay ke liye sorry
+restaurant me packing delay hai
+main check karke batata hoon
+rain ki wajah se 25 min late ho jayega
+main jaldi aa raha hoon
+order handover kar diya
+main update dunga
+8 min late ho jayega
+main handle kar raha hoon
+location confirm karni hai
+main handle kar raha hoon
+building par security rok rahi hai
+main location confirm karta hoon
+road closed ki wajah se 35 min late ho jayega
+bas 35 min mein pahunch jaunga
+delivery instructions unclear hai
+main address verify kar raha hoon
+traffic ki wajah se late ho raha hai
+delay ke liye sorry
+18 min late ho jayega
+bas 12 min mein pahunch jaunga
+lift ka rasta nahi mil raha
+theek hai main dekh raha hoon
+lift band hai
+main security se baat karta hoon
+traffic ki wajah se 25 min late ho jayega
+on the way hoon
+customer bol raha hai address galat hai
+main security se baat karta hoon
+order details verify karni hai
+main details verify kar raha hoon
+rain ki wajah se 35 min late ho jayega
+theek hai main dekh raha hoon
+gate ka rasta nahi mil raha
+main check karke batata hoon
+restaurant ne bola 8 min aur lagega
+main restaurant se confirm kar raha hoon
+order issue report karna hai
+main issue resolve kar raha hoon
+system me map mismatch dikh raha hai
+main landmark dekh kar aa raha hoon
+restaurant se wait chal raha hai
+jaise hi ready hoga main nikal jaunga
+lane ka rasta nahi mil raha
+main handle kar raha hoon
+traffic ki wajah se late ho raha hai
+main update de raha hoon
+delivery ke liye nikal gaya hoon
+main check karke batata hoon
+customer bol raha hai parking band hai
+main address verify kar raha hoon
+traffic ki wajah se 12 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+direction sahi nahi aa raha
+theek hai main dekh raha hoon
+diversion ki wajah se 10 min late ho jayega
+main check karke batata hoon
+traffic ki wajah se 5 min late ho jayega
+on the way hoon
+15 min ka delay hai
+bas 15 min mein pahunch jaunga
+order issue report karna hai
+main issue check karta hoon
+road work ki wajah se 8 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+signal block ki wajah se 25 min late ho jayega
+on the way hoon
+road closed ki wajah se 15 min late ho jayega
+bas 12 min mein pahunch jaunga
+rain ki wajah se 18 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+phone lagaya par response nahi mila
+main message bhej raha hoon
+gate band hai
+main entry point dhoondh raha hoon
+rain ki wajah se 18 min late ho jayega
+bas 25 min mein pahunch jaunga
+turn miss ho gaya
+main route check kar raha hoon
+jam ki wajah se 30 min late ho jayega
+delay ke liye sorry
+customer se call par baat nahi ho rahi
+main update dunga
+wrong address mila
+main verify karke batata hoon
+rain ki wajah se 25 min late ho jayega
+thodi der aur
+customer se confirmation chahiye
+main handle kar raha hoon
+15 min ka delay hai
+bas 18 min mein pahunch jaunga
+10 min late ho jayega
+delay ke liye sorry
+20 min ka delay hai
+bas 10 min mein pahunch jaunga
+parking band hai
+main location confirm karta hoon
+order tracking update chahiye
+main update dunga
+rain ki wajah se 8 min late ho jayega
+bas 15 min mein pahunch jaunga
+25 min ka delay hai
+main update de raha hoon
+diversion ki wajah se 10 min late ho jayega
+bas 35 min mein pahunch jaunga
+diversion ki wajah se 18 min late ho jayega
+bas 25 min mein pahunch jaunga
+jam ki wajah se 35 min late ho jayega
+thodi der aur
+system me direction mismatch dikh raha hai
+main landmark dekh kar aa raha hoon
+traffic ki wajah se 15 min late ho jayega
+main update de raha hoon
+diversion ki wajah se 20 min late ho jayega
+bas 30 min mein pahunch jaunga
+accident ki wajah se 10 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+delivery late ho rahi hai
+bas thoda wait kar lijiye
+8 min late ho jayega
+theek hai main dekh raha hoon
+road work ki wajah se 8 min late ho jayega
+bas thoda wait kar lijiye
+accident ki wajah se 8 min late ho jayega
+bas 35 min mein pahunch jaunga
+landmark sahi nahi aa raha
+main landmark dekh kar aa raha hoon
+15 min late ho jayega
+bas thoda wait kar lijiye
+security par security rok rahi hai
+main landmark dekh kar aa raha hoon
+order details verify karni hai
+main customer se confirm karta hoon
+traffic ki wajah se 25 min late ho jayega
+main jaldi aa raha hoon
+map samajh nahi aa raha
+main security se baat karta hoon
+diversion ki wajah se 10 min late ho jayega
+bas 5 min mein pahunch jaunga
+traffic ki wajah se late ho raha hai
+main check karke batata hoon
+rasta samajh nahi aa raha
+main route check kar raha hoon
+signal block ki wajah se 30 min late ho jayega
+bas thoda wait kar lijiye
+diversion ki wajah se 10 min late ho jayega
+main update de raha hoon
+delivery ke liye near location hoon
+theek hai main dekh raha hoon
+delivery me delay ho gaya
+bas 25 min mein pahunch jaunga
+road work ki wajah se 10 min late ho jayega
+bas 35 min mein pahunch jaunga
+road work ki wajah se 30 min late ho jayega
+main update de raha hoon
+status update chahiye
+theek hai main dekh raha hoon
+road work ki wajah se 20 min late ho jayega
+delay ke liye sorry
+road work ki wajah se 15 min late ho jayega
+main update dunga
+diversion ki wajah se late ho raha hai
+delay ke liye sorry
+system status update mang raha hai
+main update dunga
+road work ki wajah se 8 min late ho jayega
+bas 12 min mein pahunch jaunga
+jam ki wajah se 15 min late ho jayega
+bas 30 min mein pahunch jaunga
+jam ki wajah se 35 min late ho jayega
+main handle kar raha hoon
+customer bol raha hai order late hai
+bas 15 min mein pahunch jaunga
+diversion ki wajah se 35 min late ho jayega
+bas 12 min mein pahunch jaunga
+call lagaya par response nahi mila
+main thodi der mein call karta hoon
+delivery note confirm karna hai
+main check karke batata hoon
+12 min ka delay hai
+main handle kar raha hoon
+customer se phone par baat nahi ho rahi
+main dobara call karta hoon
+road closed ki wajah se 35 min late ho jayega
+main jaldi aa raha hoon
+customer ka call busy aa raha hai
+main abhi try karta hoon
+road work ki wajah se 15 min late ho jayega
+on the way hoon
+traffic ki wajah se 30 min late ho jayega
+bas 8 min mein pahunch jaunga
+address samajh nahi aa raha
+main entry point dhoondh raha hoon
+road closed ki wajah se 8 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+10 min ka delay hai
+main update de raha hoon
+jam ki wajah se 5 min late ho jayega
+bas 35 min mein pahunch jaunga
+route unclear hai
+theek hai main dekh raha hoon
+customer ghar par nahi hai
+main update dunga
+lift band hai
+main handle kar raha hoon
+20 min late ho jayega
+main check karke batata hoon
+road closed ki wajah se 15 min late ho jayega
+bas 18 min mein pahunch jaunga
+15 min late ho jayega
+bas 10 min mein pahunch jaunga
+18 min ka delay hai
+bas 35 min mein pahunch jaunga
+signal block ki wajah se late ho raha hai
+theek hai main dekh raha hoon
+block band hai
+main handle kar raha hoon
+accident ki wajah se 25 min late ho jayega
+main handle kar raha hoon
+route samajh nahi aa raha
+main location confirm karta hoon
+diversion ki wajah se 35 min late ho jayega
+main handle kar raha hoon
+jam ki wajah se 5 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+lane par entry issue hai
+main address verify kar raha hoon
+order tracking update chahiye
+main abhi status share karta hoon
+road work ki wajah se 15 min late ho jayega
+bas 8 min mein pahunch jaunga
+system me landmark mismatch dikh raha hai
+main update dunga
+order handover kar diya
+main check karke batata hoon
+system bol raha hai order ready nahi hai
+ready hote hi update dunga
+map me route change aa raha hai
+main route check kar raha hoon
+restaurant ne bola 5 min aur lagega
+packing complete hote hi nikalta hoon
+call lagaya par response nahi mila
+main check karke batata hoon
+accident ki wajah se 30 min late ho jayega
+on the way hoon
+5 min late ho jayega
+bas thoda wait kar lijiye
+lane par entry issue hai
+main gate pe aa raha hoon
+jam ki wajah se 30 min late ho jayega
+main update de raha hoon
+road closed ki wajah se 15 min late ho jayega
+main jaldi aa raha hoon
+road closed ki wajah se 25 min late ho jayega
+bas 10 min mein pahunch jaunga
+restaurant crowded hai
+ready hote hi update dunga
+lift par security rok rahi hai
+theek hai main dekh raha hoon
+pickup complete ho gaya
+main pickup karke on the way hoon
+road work ki wajah se 35 min late ho jayega
+bas 15 min mein pahunch jaunga
+18 min late ho jayega
+delay ke liye sorry
+road work ki wajah se 5 min late ho jayega
+delay ke liye sorry
+rain ki wajah se 8 min late ho jayega
+theek hai main dekh raha hoon
+road work ki wajah se 30 min late ho jayega
+on the way hoon
+thoda wait karna padega
+main check karke batata hoon
+rain ki wajah se 12 min late ho jayega
+main jaldi aa raha hoon
+12 min late ho jayega
+bas 10 min mein pahunch jaunga
+customer se phone par baat nahi ho rahi
+main dubara reach out karta hoon
+gate ka rasta nahi mil raha
+main update dunga
+rasta samajh nahi aa raha
+main handle kar raha hoon
+thoda delay ho gaya
+bas 10 min mein pahunch jaunga
+building par entry issue hai
+main security se baat karta hoon
+12 min ka delay hai
+main time par pahunchne ki koshish kar raha hoon
+road closed ki wajah se 18 min late ho jayega
+bas 18 min mein pahunch jaunga
+restaurant se pickup kar liya
+theek hai main dekh raha hoon
+customer bol raha hai society band hai
+main entry point dhoondh raha hoon
+20 min late ho jayega
+bas 15 min mein pahunch jaunga
+pin match nahi ho raha
+main update dunga
+signal block ki wajah se 18 min late ho jayega
+bas thoda wait kar lijiye
+customer bol raha hai refund chahiye
+main update dunga
+8 min ka delay hai
+bas 25 min mein pahunch jaunga
+diversion ki wajah se 10 min late ho jayega
+on the way hoon
+10 min late ho jayega
+main update dunga
+system me address mismatch dikh raha hai
+main update dunga
+gate par entry issue hai
+main landmark dekh kar aa raha hoon
+traffic ki wajah se 35 min late ho jayega
+bas 10 min mein pahunch jaunga
+road work ki wajah se 5 min late ho jayega
+main update dunga
+route clear nahi hai
+main map check kar raha hoon
+rain ki wajah se 35 min late ho jayega
+bas 20 min mein pahunch jaunga
+road work ki wajah se 5 min late ho jayega
+on the way hoon
+5 min ka delay hai
+bas 25 min mein pahunch jaunga
+30 min ka delay hai
+delay ke liye sorry
+tower par security rok rahi hai
+main map check kar raha hoon
+customer bol raha hai item missing hai
+main issue check karta hoon
+system me location mismatch dikh raha hai
+main landmark dekh kar aa raha hoon
+traffic ki wajah se 30 min late ho jayega
+bas 25 min mein pahunch jaunga
+customer se phone par baat nahi ho rahi
+main message bhej raha hoon
+number lagaya par response nahi mila
+main phir se contact karta hoon
+rain ki wajah se 30 min late ho jayega
+bas 10 min mein pahunch jaunga
+society par entry issue hai
+main security se baat karta hoon
+route kaafi confusing hai
+theek hai main dekh raha hoon
+landmark clear nahi hai
+main check karke batata hoon
+jam ki wajah se 15 min late ho jayega
+bas 5 min mein pahunch jaunga
+5 min ka delay hai
+main update dunga
+customer ghar par nahi hai
+main customer se dobara confirm karta hoon
+rain ki wajah se 5 min late ho jayega
+delay ke liye sorry
+signal block ki wajah se 10 min late ho jayega
+bas 30 min mein pahunch jaunga
+signal block ki wajah se 35 min late ho jayega
+bas 12 min mein pahunch jaunga
+signal block ki wajah se 20 min late ho jayega
+bas 18 min mein pahunch jaunga
+accident ki wajah se 18 min late ho jayega
+main check karke batata hoon
+security par entry issue hai
+main map check kar raha hoon
+pin clear nahi hai
+main handle kar raha hoon
+entry band hai
+main security se baat karta hoon
+road work ki wajah se 8 min late ho jayega
+bas 5 min mein pahunch jaunga
+status update chahiye
+main status update de raha hoon
+accident ki wajah se 15 min late ho jayega
+bas 20 min mein pahunch jaunga
+road work ki wajah se 10 min late ho jayega
+main update dunga
+accident ki wajah se 12 min late ho jayega
+bas 5 min mein pahunch jaunga
+road work ki wajah se 30 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+accident ki wajah se 30 min late ho jayega
+bas 35 min mein pahunch jaunga
+map clear nahi hai
+main entry point dhoondh raha hoon
+society ka rasta nahi mil raha
+main entry point dhoondh raha hoon
+30 min ka delay hai
+main jaldi aa raha hoon
+pickup ke liye wait karna hai
+main thodi der wait karta hoon
+rasta samajh nahi aa raha
+main update dunga
+block par security rok rahi hai
+main entry point dhoondh raha hoon
+customer bol raha hai parking band hai
+main security se baat karta hoon
+traffic ki wajah se 18 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+rain ki wajah se 18 min late ho jayega
+main handle kar raha hoon
+restaurant abhi food ready kar raha hai
+main wait kar raha hoon
+diversion ki wajah se 18 min late ho jayega
+main jaldi aa raha hoon
+diversion ki wajah se 20 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+traffic ki wajah se 12 min late ho jayega
+bas 10 min mein pahunch jaunga
+road work ki wajah se 18 min late ho jayega
+delay ke liye sorry
+gate band hai
+main address verify kar raha hoon
+road work ki wajah se 15 min late ho jayega
+main handle kar raha hoon
+road work ki wajah se 35 min late ho jayega
+on the way hoon
+35 min ka delay hai
+theek hai main dekh raha hoon
+12 min late ho jayega
+main check karke batata hoon
+rain ki wajah se 12 min late ho jayega
+main handle kar raha hoon
+location samajh nahi aa raha
+main security se baat karta hoon
+accident ki wajah se 12 min late ho jayega
+bas 18 min mein pahunch jaunga
+system me address mismatch dikh raha hai
+main handle kar raha hoon
+direction clear nahi hai
+main location confirm karta hoon
+traffic ki wajah se 30 min late ho jayega
+thodi der aur
+customer se number par baat nahi ho rahi
+main dobara call karta hoon
+main queue me hoon
+main wait kar raha hoon
+society band hai
+main entry point dhoondh raha hoon
+signal block ki wajah se 5 min late ho jayega
+thodi der aur
+traffic ki wajah se 30 min late ho jayega
+main handle kar raha hoon
+jam ki wajah se 8 min late ho jayega
+main jaldi aa raha hoon
+rain ki wajah se 18 min late ho jayega
+main jaldi aa raha hoon
+society par entry issue hai
+main location confirm karta hoon
+road closed ki wajah se 15 min late ho jayega
+bas 8 min mein pahunch jaunga
+10 min late ho jayega
+bas 30 min mein pahunch jaunga
+25 min late ho jayega
+bas 15 min mein pahunch jaunga
+entry par security rok rahi hai
+main entry point dhoondh raha hoon
+20 min ka delay hai
+main time par pahunchne ki koshish kar raha hoon
+restaurant abhi food ready kar raha hai
+main handle kar raha hoon
+customer se wait ho raha hai
+main thodi der wait karta hoon
+society ka rasta nahi mil raha
+main handle kar raha hoon
+35 min ka delay hai
+main jaldi aa raha hoon
+road closed ki wajah se 35 min late ho jayega
+thodi der aur
+order thoda late ho raha hai
+main jaldi aa raha hoon
+number lagaya par response nahi mila
+main customer se baat karta hoon
+15 min late ho jayega
+theek hai main dekh raha hoon
+road work ki wajah se 18 min late ho jayega
+bas 25 min mein pahunch jaunga
+signal block ki wajah se 20 min late ho jayega
+theek hai main dekh raha hoon
+signal block ki wajah se 8 min late ho jayega
+main update de raha hoon
+security par entry issue hai
+theek hai main dekh raha hoon
+jam ki wajah se 25 min late ho jayega
+bas 12 min mein pahunch jaunga
+pickup complete ho gaya
+pickup karke aa raha hoon
+15 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+road closed ki wajah se 10 min late ho jayega
+bas 15 min mein pahunch jaunga
+customer location par nahi mila
+theek hai main dekh raha hoon
+road closed ki wajah se 8 min late ho jayega
+main update dunga
+signal block ki wajah se 10 min late ho jayega
+bas thoda wait kar lijiye
+kitchen busy hai
+theek hai main dekh raha hoon
+25 min ka delay hai
+bas 8 min mein pahunch jaunga
+diversion ki wajah se 35 min late ho jayega
+bas 30 min mein pahunch jaunga
+restaurant abhi food ready kar raha hai
+restaurant se pickup ke baad nikalunga
+tower ka rasta nahi mil raha
+main map check kar raha hoon
+traffic ki wajah se 12 min late ho jayega
+bas thoda wait kar lijiye
+road work ki wajah se 25 min late ho jayega
+delay ke liye sorry
+rain ki wajah se 12 min late ho jayega
+bas 15 min mein pahunch jaunga
+accident ki wajah se 15 min late ho jayega
+bas 5 min mein pahunch jaunga
+35 min late ho jayega
+bas 18 min mein pahunch jaunga
+system me landmark mismatch dikh raha hai
+main map check kar raha hoon
+payment pending dikh raha hai
+main support se baat karta hoon
+number lagaya par response nahi mila
+main dobara call karta hoon
+jam ki wajah se 15 min late ho jayega
+thodi der aur
+signal block ki wajah se 18 min late ho jayega
+bas 8 min mein pahunch jaunga
+chef abhi ban raha hai
+main handle kar raha hoon
+road closed ki wajah se late ho raha hai
+bas 18 min mein pahunch jaunga
+road closed ki wajah se 35 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+system me landmark mismatch dikh raha hai
+main security se baat karta hoon
+order ready hone me time lag raha hai
+main update dunga
+road closed ki wajah se 18 min late ho jayega
+bas 35 min mein pahunch jaunga
+lift par entry issue hai
+main landmark dekh kar aa raha hoon
+restaurant se pickup kar liya
+pickup karke aa raha hoon
+order le liya hai
+main pickup karke on the way hoon
+road closed ki wajah se late ho raha hai
+bas 10 min mein pahunch jaunga
+customer bol raha hai item missing hai
+main restaurant se confirm karta hoon
+road closed ki wajah se 30 min late ho jayega
+delay ke liye sorry
+signal block ki wajah se 30 min late ho jayega
+bas 5 min mein pahunch jaunga
+customer ka number busy aa raha hai
+main abhi try karta hoon
+direction match nahi ho raha
+main gate pe aa raha hoon
+12 min ka delay hai
+thodi der aur
+15 min ka delay hai
+bas 25 min mein pahunch jaunga
+restaurant se pickup kar liya
+main update dunga
+5 min ka delay hai
+main jaldi aa raha hoon
+accident ki wajah se late ho raha hai
+main update dunga
+restaurant ne bola 18 min aur lagega
+main restaurant se confirm kar raha hoon
+customer ko item damaged lag raha hai
+theek hai main dekh raha hoon
+accident ki wajah se 35 min late ho jayega
+thodi der aur
+customer bol raha hai address galat hai
+main gate pe aa raha hoon
+customer ka call busy aa raha hai
+main phir se contact karta hoon
+route sahi nahi aa raha
+main address verify kar raha hoon
+diversion ki wajah se 35 min late ho jayega
+bas 15 min mein pahunch jaunga
+block par entry issue hai
+main location confirm karta hoon
+traffic ki wajah se late ho raha hoon
+main handle kar raha hoon
+road work ki wajah se 25 min late ho jayega
+bas 5 min mein pahunch jaunga
+order late ho raha hai
+main handle kar raha hoon
+accident ki wajah se 35 min late ho jayega
+theek hai main dekh raha hoon
+order thoda late ho raha hai
+main handle kar raha hoon
+customer bol raha hai location galat hai
+main check karke batata hoon
+customer ka phone switch off hai
+main dobara call karta hoon
+restaurant ne bola 10 min aur lagega
+packing complete hote hi nikalta hoon
+road work ki wajah se 35 min late ho jayega
+delay ke liye sorry
+order thoda late ho raha hai
+thodi der aur
+road closed ki wajah se 5 min late ho jayega
+bas 30 min mein pahunch jaunga
+signal block ki wajah se 25 min late ho jayega
+bas 20 min mein pahunch jaunga
+road work ki wajah se 15 min late ho jayega
+main update de raha hoon
+signal block ki wajah se 8 min late ho jayega
+delay ke liye sorry
+entry band hai
+main entry point dhoondh raha hoon
+building ka rasta nahi mil raha
+main security se baat karta hoon
+number lagaya par response nahi mila
+main message bhej raha hoon
+diversion ki wajah se 18 min late ho jayega
+bas 5 min mein pahunch jaunga
+diversion ki wajah se 18 min late ho jayega
+bas thoda wait kar lijiye
+wrong route le liya
+main update dunga
+accident ki wajah se 15 min late ho jayega
+theek hai main dekh raha hoon
+tower par security rok rahi hai
+main location confirm karta hoon
+gate ka rasta nahi mil raha
+main location confirm karta hoon
+map samajh nahi aa raha
+main handle kar raha hoon
+8 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+jam ki wajah se 15 min late ho jayega
+on the way hoon
+diversion ki wajah se 25 min late ho jayega
+thodi der aur
+traffic ki wajah se 30 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+system me landmark mismatch dikh raha hai
+main address verify kar raha hoon
+main customer ke gate par hoon
+main customer ke gate par hoon
+road closed ki wajah se 18 min late ho jayega
+bas 30 min mein pahunch jaunga
+society par entry issue hai
+main entry point dhoondh raha hoon
+jam ki wajah se 15 min late ho jayega
+bas 20 min mein pahunch jaunga
+20 min ka delay hai
+bas 15 min mein pahunch jaunga
+security ka rasta nahi mil raha
+main address verify kar raha hoon
+rain ki wajah se 20 min late ho jayega
+bas 20 min mein pahunch jaunga
+restaurant ne bola 35 min aur lagega
+theek hai main dekh raha hoon
+restaurant ne bola 15 min aur lagega
+main wait kar raha hoon
+signal block ki wajah se 8 min late ho jayega
+bas 25 min mein pahunch jaunga
+traffic ki wajah se 35 min late ho jayega
+thodi der aur
+customer bol raha hai block band hai
+main update dunga
+system me landmark mismatch dikh raha hai
+main check karke batata hoon
+traffic ki wajah se 25 min late ho jayega
+bas 20 min mein pahunch jaunga
+signal block ki wajah se 15 min late ho jayega
+bas thoda wait kar lijiye
+diversion ki wajah se 25 min late ho jayega
+main handle kar raha hoon
+traffic ki wajah se 8 min late ho jayega
+bas 10 min mein pahunch jaunga
+road work ki wajah se 8 min late ho jayega
+main check karke batata hoon
+accident ki wajah se 20 min late ho jayega
+bas 8 min mein pahunch jaunga
+customer bol raha hai location galat hai
+main handle kar raha hoon
+customer bol raha hai gate band hai
+main check karke batata hoon
+rain ki wajah se 8 min late ho jayega
+bas 30 min mein pahunch jaunga
+customer se call par baat nahi ho rahi
+main phir se contact karta hoon
+customer bol raha hai entry band hai
+main gate pe aa raha hoon
+25 min ka delay hai
+bas 30 min mein pahunch jaunga
+jam ki wajah se 20 min late ho jayega
+theek hai main dekh raha hoon
+restaurant ne bola 15 min aur lagega
+main restaurant se confirm kar raha hoon
+accident ki wajah se late ho raha hai
+thodi der aur
+jam ki wajah se 15 min late ho jayega
+bas 10 min mein pahunch jaunga
+restaurant ne bola 10 min aur lagega
+main wait kar raha hoon
+customer busy hai baad me milega
+main customer se dobara confirm karta hoon
+traffic ki wajah se 35 min late ho jayega
+on the way hoon
+road closed ki wajah se 35 min late ho jayega
+main check karke batata hoon
+18 min ka delay hai
+theek hai main dekh raha hoon
+customer ko item damaged lag raha hai
+main support se baat karta hoon
+customer bol raha hai wrong item mila
+main restaurant se confirm karta hoon
+restaurant ne bola 8 min aur lagega
+restaurant se pickup ke baad nikalunga
+traffic ki wajah se late ho raha hoon
+maaf kijiye thoda late ho raha hoon
+payment me issue aa raha hai
+main restaurant se confirm karta hoon
+map clear nahi hai
+main map check kar raha hoon
+accident ki wajah se 8 min late ho jayega
+delay ke liye sorry
+customer ka gate lock hai
+main dobara try karta hoon
+traffic ki wajah se 18 min late ho jayega
+bas thoda wait kar lijiye
+society par security rok rahi hai
+main address verify kar raha hoon
+system status update mang raha hai
+main check karke batata hoon
+jam ki wajah se 18 min late ho jayega
+bas 18 min mein pahunch jaunga
+parking ka rasta nahi mil raha
+main gate pe aa raha hoon
+traffic ki wajah se 20 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+customer bol raha hai lift band hai
+main security se baat karta hoon
+signal block ki wajah se 18 min late ho jayega
+main check karke batata hoon
+signal block ki wajah se 25 min late ho jayega
+bas 15 min mein pahunch jaunga
+aaj thoda delay ho gaya
+bas 15 min mein pahunch jaunga
+accident ki wajah se 18 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+signal block ki wajah se 30 min late ho jayega
+main jaldi aa raha hoon
+system status update mang raha hai
+main abhi status share karta hoon
+diversion ki wajah se 5 min late ho jayega
+bas 8 min mein pahunch jaunga
+road closed ki wajah se late ho raha hai
+on the way hoon
+signal block ki wajah se 5 min late ho jayega
+bas 15 min mein pahunch jaunga
+18 min ka delay hai
+bas 15 min mein pahunch jaunga
+system bol raha hai order ready nahi hai
+main update dunga
+customer bol raha hai society band hai
+main address verify kar raha hoon
+road closed ki wajah se 18 min late ho jayega
+bas 8 min mein pahunch jaunga
+delivery note confirm karna hai
+main instructions check karta hoon
+road work ki wajah se 30 min late ho jayega
+main jaldi aa raha hoon
+signal block ki wajah se 35 min late ho jayega
+bas 18 min mein pahunch jaunga
+35 min late ho jayega
+bas 8 min mein pahunch jaunga
+delivery instructions check karni hai
+theek hai main dekh raha hoon
+customer bol raha hai lane band hai
+main entry point dhoondh raha hoon
+12 min late ho jayega
+bas 30 min mein pahunch jaunga
+delivery me delay ho gaya
+bas 20 min mein pahunch jaunga
+diversion ki wajah se 30 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+customer bol raha hai wrong item mila
+main verify karke batata hoon
+30 min late ho jayega
+on the way hoon
+8 min late ho jayega
+bas 5 min mein pahunch jaunga
+diversion ki wajah se late ho raha hai
+main jaldi aa raha hoon
+rain ki wajah se 10 min late ho jayega
+main update dunga
+rain ki wajah se 8 min late ho jayega
+main jaldi aa raha hoon
+block band hai
+main update dunga
+map clear nahi hai
+main location confirm karta hoon
+system bol raha hai order ready nahi hai
+restaurant se pickup ke baad nikalunga
+road work ki wajah se 10 min late ho jayega
+theek hai main dekh raha hoon
+customer reachable nahi hai
+main dubara reach out karta hoon
+8 min ka delay hai
+bas 10 min mein pahunch jaunga
+rain ki wajah se 10 min late ho jayega
+bas 20 min mein pahunch jaunga
+road work ki wajah se 18 min late ho jayega
+on the way hoon
+pin sahi nahi aa raha
+main handle kar raha hoon
+customer bol raha hai wrong item mila
+main support se baat karta hoon
+signal block ki wajah se 15 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+parking band hai
+main update dunga
+5 min ka delay hai
+main handle kar raha hoon
+signal block ki wajah se late ho raha hai
+bas 35 min mein pahunch jaunga
+road work ki wajah se 18 min late ho jayega
+bas 35 min mein pahunch jaunga
+signal block ki wajah se 5 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+main customer ke gate par hoon
+delivery complete kar diya
+entry ka rasta nahi mil raha
+main map check kar raha hoon
+accident ki wajah se late ho raha hai
+maaf kijiye thoda late ho raha hoon
+thoda delay ho gaya
+main check karke batata hoon
+25 min late ho jayega
+thodi der aur
+signal block ki wajah se 20 min late ho jayega
+bas 10 min mein pahunch jaunga
+tower par entry issue hai
+theek hai main dekh raha hoon
+road work ki wajah se 10 min late ho jayega
+delay ke liye sorry
+30 min ka delay hai
+maaf kijiye thoda late ho raha hoon
+diversion ki wajah se late ho raha hai
+bas thoda wait kar lijiye
+customer ghar par nahi hai
+theek hai main dekh raha hoon
+pin samajh nahi aa raha
+main address verify kar raha hoon
+10 min ka delay hai
+bas 25 min mein pahunch jaunga
+order ka status pooch rahe hain
+main abhi update bhej raha hoon
+order details verify karni hai
+main check karke batata hoon
+address match nahi ho raha
+main location confirm karta hoon
+lift par entry issue hai
+main check karke batata hoon
+customer ka phone switch off hai
+main check karke batata hoon
+accident ki wajah se 5 min late ho jayega
+bas 8 min mein pahunch jaunga
+delivery instructions unclear hai
+theek hai main dekh raha hoon
+direction match nahi ho raha
+main map check kar raha hoon
+diversion ki wajah se 5 min late ho jayega
+delay ke liye sorry
+diversion ki wajah se 18 min late ho jayega
+main time par pahunchne ki koshish kar raha hoon
+signal block ki wajah se 20 min late ho jayega
+main update de raha hoon
+block par entry issue hai
+main gate pe aa raha hoon
+building par security rok rahi hai
+theek hai main dekh raha hoon
+pin match nahi ho raha
+main gate pe aa raha hoon
+rain ki wajah se 35 min late ho jayega
+bas 15 min mein pahunch jaunga
+tower band hai
+theek hai main dekh raha hoon
+road closed ki wajah se 20 min late ho jayega
+bas 35 min mein pahunch jaunga
+security par security rok rahi hai
+main address verify kar raha hoon
+customer ka phone switch off hai
+main handle kar raha hoon
+jam ki wajah se 12 min late ho jayega
+bas 5 min mein pahunch jaunga
+accident ki wajah se 25 min late ho jayega
+main check karke batata hoon
+jam ki wajah se 30 min late ho jayega
+bas 20 min mein pahunch jaunga
+restaurant ne bola 5 min aur lagega
+jaise hi ready hoga main nikal jaunga
+location clear nahi hai
+main gate pe aa raha hoon
+customer bol raha hai order late hai
+main update de raha hoon
+signal block ki wajah se 15 min late ho jayega
+bas 30 min mein pahunch jaunga
+traffic ki wajah se late ho raha hoon
+bas 8 min mein pahunch jaunga
+jam ki wajah se 20 min late ho jayega
+main check karke batata hoon
+rain ki wajah se 5 min late ho jayega
+main jaldi aa raha hoon
+restaurant se wait chal raha hai
+main update dunga
+road closed ki wajah se 30 min late ho jayega
+main check karke batata hoon
+payment pending dikh raha hai
+main update dunga
+thoda delay ho gaya
+bas 8 min mein pahunch jaunga
+route match nahi ho raha
+main security se baat karta hoon
+diversion ki wajah se 18 min late ho jayega
+on the way hoon
+location clear nahi hai
+main security se baat karta hoon
+restaurant crowded hai
+restaurant se pickup ke baad nikalunga
+road closed ki wajah se 25 min late ho jayega
+bas 35 min mein pahunch jaunga
+map me route change aa raha hai
+map dekh kar aa raha hoon
+5 min ka delay hai
+bas 35 min mein pahunch jaunga
+thoda wait karna padega
+main yahin hoon thodi der
+accident ki wajah se 15 min late ho jayega
+bas 10 min mein pahunch jaunga
+delivery late ho rahi hai
+bas 18 min mein pahunch jaunga
+signal block ki wajah se 8 min late ho jayega
+thodi der aur
+pickup ke liye nikal gaya hoon
+order le liya hai
+accident ki wajah se late ho raha hai
+delay ke liye sorry
+wrong route le liya
+main route check kar raha hoon
+customer bol raha hai landmark galat hai
+main handle kar raha hoon
+gate ka rasta nahi mil raha
+main security se baat karta hoon
+road work ki wajah se 10 min late ho jayega
+bas 30 min mein pahunch jaunga
+customer se phone par baat nahi ho rahi
+main check karke batata hoon
+diversion ki wajah se 18 min late ho jayega
+main update dunga
+gate par entry issue hai
+main update dunga
+restaurant ne bola 8 min aur lagega
+main pickup ke liye ready hoon
+gate band hai
+main location confirm karta hoon
+security ka rasta nahi mil raha
+main check karke batata hoon
+route match nahi ho raha
+main map check kar raha hoon
+traffic ki wajah se late ho raha hoon
+bas 15 min mein pahunch jaunga
+rain ki wajah se 20 min late ho jayega
+on the way hoon
+jam ki wajah se 25 min late ho jayega
+delay ke liye sorry
+status update chahiye
+main abhi status share karta hoon
+order ready hai pickup kar raha hoon
+abhi nikal raha hoon
+road closed ki wajah se 15 min late ho jayega
+bas 5 min mein pahunch jaunga
+accident ki wajah se 12 min late ho jayega
+main handle kar raha hoon
+diversion ki wajah se 30 min late ho jayega
+bas 5 min mein pahunch jaunga
+system me pin mismatch dikh raha hai
+main entry point dhoondh raha hoon
+road work ki wajah se 18 min late ho jayega
+main check karke batata hoon
+gate band hai
+main landmark dekh kar aa raha hoon
+15 min ka delay hai
+bas 10 min mein pahunch jaunga
+road closed ki wajah se 10 min late ho jayega
+thodi der aur
+customer bol raha hai security band hai
+main check karke batata hoon
+pickup complete ho gaya
+pickup ho gaya main nikal raha hoon
+road closed ki wajah se 15 min late ho jayega
+bas 25 min mein pahunch jaunga
+wrong address mila
+main check karke batata hoon
+customer se phone par baat nahi ho rahi
+main update dunga
+lane band hai
+main handle kar raha hoon
+jam ki wajah se 20 min late ho jayega
+bas 10 min mein pahunch jaunga
+accident ki wajah se late ho raha hai
+on the way hoon
+accident ki wajah se 12 min late ho jayega
+bas 25 min mein pahunch jaunga
+order confirm karna hai
+main check karke batata hoon
+jam ki wajah se late ho raha hai
+main update de raha hoon
+rain ki wajah se late ho raha hai
+bas 8 min mein pahunch jaunga
+signal block ki wajah se 20 min late ho jayega
+main jaldi aa raha hoon
+rain ki wajah se 8 min late ho jayega
+maaf kijiye thoda late ho raha hoon
+rain ki wajah se 5 min late ho jayega
+bas 12 min mein pahunch jaunga
+rain ki wajah se late ho raha hai
+bas thoda wait kar lijiye
+diversion ki wajah se 30 min late ho jayega
+bas thoda wait kar lijiye
+diversion ki wajah se late ho raha hai
+maaf kijiye thoda late ho raha hoon
+lane ka rasta nahi mil raha
+main address verify kar raha hoon
+road work ki wajah se 20 min late ho jayega
+bas 20 min mein pahunch jaunga
+system bol raha hai customer unreachable hai
+main phir se contact karta hoon
+wrong route le liya
+main handle kar raha hoon
+restaurant me packing delay hai
+main pickup ke liye ready hoon
+map samajh nahi aa raha
+main gate pe aa raha hoon
+pickup complete ho gaya
+theek hai main dekh raha hoon
+diversion ki wajah se 30 min late ho jayega
+main jaldi aa raha hoon
+road work ki wajah se 35 min late ho jayega
+bas 25 min mein pahunch jaunga
+accident ki wajah se 15 min late ho jayega
+main jaldi aa raha hoon
+customer bol raha hai tower band hai
+main update dunga
+order handover kar diya
+main delivery complete kar raha hoon
+road work ki wajah se 30 min late ho jayega
+bas 35 min mein pahunch jaunga
+signal block ki wajah se 5 min late ho jayega
+on the way hoon
+location clear nahi hai
+main update dunga
+order ready hone ka wait hai
+main wait kar raha hoon
+direction sahi nahi aa raha
+main map check kar raha hoon
+road work ki wajah se 20 min late ho jayega
+main jaldi aa raha hoon
+direction match nahi ho raha
+main location confirm karta hoon
+customer ka number busy aa raha hai
+main check karke batata hoon
+accident ki wajah se 35 min late ho jayega
+main update de raha hoon
+road closed ki wajah se 30 min late ho jayega
+on the way hoon
+accident ki wajah se 30 min late ho jayega
+bas 10 min mein pahunch jaunga
+15 min ka delay hai
+main update de raha hoon
+road work ki wajah se 15 min late ho jayega
+bas 18 min mein pahunch jaunga
+jam ki wajah se 12 min late ho jayega
+main update de raha hoon
+road closed ki wajah se 8 min late ho jayega
+main handle kar raha hoon
+pickup complete ho gaya
+main update dunga
+diversion ki wajah se 8 min late ho jayega
+bas 25 min mein pahunch jaunga
+entry band hai
+main update dunga
+direction sahi nahi aa raha
+main address verify kar raha hoon
