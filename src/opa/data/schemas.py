@@ -99,3 +99,36 @@ class TaskARecord(BaseModel):
                 raise ValueError(f"Intent {intent} should have empty slots, got: {slots}")
 
         return slots
+
+
+class TaskBRecord(BaseModel):
+    """
+    Raw Task B record schema (JSONL):
+    {"context": "...", "reply": "..."}
+    """
+
+    context: str
+    reply: str
+
+    @validator("context")
+    def context_not_empty(cls, v: str) -> str:
+        v = v.strip()
+        if not v:
+            raise ValueError("context is empty")
+        if any("\u0900" <= ch <= "\u097F" for ch in v):
+            raise ValueError("context contains Devanagari characters (not allowed)")
+        return v
+
+    @validator("reply")
+    def reply_valid(cls, v: str) -> str:
+        v = v.strip()
+        if not v:
+            raise ValueError("reply is empty")
+        if any("\u0900" <= ch <= "\u097F" for ch in v):
+            raise ValueError("reply contains Devanagari characters (not allowed)")
+        # Hard constraint from prompt: <= 12 words (keep a small buffer)
+        words = v.split()
+        if len(words) > 14:
+            raise ValueError(f"reply too long: {len(words)} words")
+        return v
+
