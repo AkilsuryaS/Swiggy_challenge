@@ -34,23 +34,6 @@ env/
 *~
 .DS_Store
 
-# Project specific
-models/*/
-!models/tokenizer/
-!models/tokenizer/**
-!models/.gitkeep
-outputs/*/
-!outputs/.gitkeep
-data/raw/*
-data/synthetic/*
-!data/synthetic/
-!data/synthetic/task_a/
-!data/synthetic/task_a/prompt.md
-!data/synthetic/task_a/synthetic_v1.jsonl
-data/interim/*
-data/processed/*
-!data/.gitkeep
-
 # Logs
 *.log
 logs/

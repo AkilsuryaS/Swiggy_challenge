@@ -1,0 +1,304 @@
+{"text": "aaj traffic heavy 5 minute late hoga", "intent": "report_delay", "slots": {"delay_min": "5"}}
+{"text": "pls cust ko call laga do", "intent": "call_customer", "slots": {}}
+{"text": "pls agla order ka cstmr addr display karo bhai", "intent": "get_address", "slots": {"order": "next"}}
+{"text": "order delivered ho gaya abhi jldi pls mark kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "delay 15 min show kar do plz", "intent": "report_delay", "slots": {"delay_min": "15"}}
+{"text": "sir customer se ko turant connect kar do pls", "intent": "call_customer", "slots": {}}
+{"text": "bhai pls ek baar customer ko connect kar do pls", "intent": "call_customer", "slots": {}}
+{"text": "bhai agli order ka cust address nikaal do", "intent": "get_address", "slots": {"order": "next"}}
+{"text": "bro cust respond nahi kar raha pls", "intent": "customer_unavailable", "slots": {}}
+{"text": "bro delay 30 mins show kar do plz", "intent": "report_delay", "slots": {"delay_min": "30"}}
+{"text": "items missing hai issue create kar do", "intent": "order_issue", "slots": {"issue": "item_missing"}}
+{"text": "bhai plss cstomer phone nahi utha raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "pickup complete abhi mark picked up", "intent": "mark_picked_up", "slots": {}}
+{"text": "bro signal pe atak gaya 20 mins ka delay bhai", "intent": "report_delay", "slots": {"delay_min": "20"}}
+{"text": "yaar cust respond nahi kr raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "sir signal pe atak gaya 15 mins late hoga", "intent": "report_delay", "slots": {"delay_min": "15"}}
+{"text": "pls address chahiye", "intent": "get_address", "slots": {}}
+{"text": "bhai map pe route dikha do please yaar", "intent": "navigation_help", "slots": {}}
+{"text": "yaar drop address confusing hai jaldi complaint create karo pls", "intent": "order_issue", "slots": {"issue": "wrong_address"}}
+{"text": "restaurant se pickup done abhi pdate kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "yaar delivered hai isko abhi cmplete kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "pls location bata do", "intent": "get_address", "slots": {}}
+{"text": "bro call kiya par customer pick nahi kr raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "pls maps open karo aur guide karo", "intent": "navigation_help", "slots": {}}
+{"text": "sir order drop ho chuka jaldi delivered set kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "yaar 10 mins late ho jaunga traffic zyada hai", "intent": "report_delay", "slots": {"delay_min": "10"}}
+{"text": "addr abhi dikha de bhai", "intent": "get_address", "slots": {}}
+{"text": "yaar pichla order ka addr turant dikha do", "intent": "get_address", "slots": {"order": "previous"}}
+{"text": "sir abhi jaldi address open karo", "intent": "get_address", "slots": {}}
+{"text": "yaar item missing lag raha abhi jldi pls issue daal do", "intent": "order_issue", "slots": {"issue": "item_missing"}}
+{"text": "pls nvigation start kar do", "intent": "navigation_help", "slots": {}}
+{"text": "bhai please 5 mins late ho jaunga traffic zyada hai", "intent": "report_delay", "slots": {"delay_min": "5"}}
+{"text": "pls agla ordr ka addr nikaal do", "intent": "get_address", "slots": {"order": "next"}}
+{"text": "yaar customer unreachable lag raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "bhai please cstmr phone nahi utha raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "pls picked up hai jldi pls status set kr do", "intent": "mark_picked_up", "slots": {}}
+{"text": "pls signal pe atak gaya 20 mins late hoga", "intent": "report_delay", "slots": {"delay_min": "20"}}
+{"text": "bro cust ko turant ring kar do pls", "intent": "call_customer", "slots": {}}
+{"text": "picked up hai jldi status set kr do", "intent": "mark_picked_up", "slots": {}}
+{"text": "yaar 5 minute late ho jaunga traffic zyada hai", "intent": "report_delay", "slots": {"delay_min": "5"}}
+{"text": "yaar picked up hai jldi pls status set kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "bhai 20 mins late ho jaunga jam hai", "intent": "report_delay", "slots": {"delay_min": "20"}}
+{"text": "rstaurant slow hai abhi issue daal do", "intent": "order_issue", "slots": {"issue": "restaurant_delay"}}
+{"text": "pls abhi jldi pls maps open karo aur guide karo", "intent": "navigation_help", "slots": {}}
+{"text": "bro jaldi maps open karo aur guide kro plz", "intent": "navigation_help", "slots": {}}
+{"text": "bhai please address galat lag raha trant issue daal do", "intent": "order_issue", "slots": {"issue": "wrong_address"}}
+{"text": "yaar odr utha liya jaldi picked up kar do please yaar", "intent": "mark_picked_up", "slots": {}}
+{"text": "aaj traffic heavy 5 mins late hoga", "intent": "report_delay", "slots": {"delay_min": "5"}}
+{"text": "bhai pls cust rspond nahi kr raha pls", "intent": "customer_unavailable", "slots": {}}
+{"text": "cust ko dial karo please", "intent": "call_customer", "slots": {}}
+{"text": "sir aaj traffic heavy 5 mins ka delay", "intent": "report_delay", "slots": {"delay_min": "5"}}
+{"text": "pls turn by turn navigation on kro", "intent": "navigation_help", "slots": {}}
+{"text": "bro customer se connect nahi ho pa raha pls", "intent": "customer_unavailable", "slots": {}}
+{"text": "sir ordr rlated issue hai trant support issue create kro", "intent": "order_issue", "slots": {"issue": "other"}}
+{"text": "pehle wala order ka addr dikha de", "intent": "get_address", "slots": {"order": "previous"}}
+{"text": "bro order utha liya picked up kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "sir cstomer unreachable lag raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "bhai pls delivery address dikha do", "intent": "get_address", "slots": {}}
+{"text": "sir order utha liya turant picked up kar do pls", "intent": "mark_picked_up", "slots": {}}
+{"text": "sir cust respond nahi kar raha plase", "intent": "customer_unavailable", "slots": {}}
+{"text": "sir abhi wala order ka addr open kro", "intent": "get_address", "slots": {"order": "current"}}
+{"text": "customer nreachable lag raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "bhai please dlivery complete hai jaldi delivered mark kro pls", "intent": "mark_delivered", "slots": {}}
+{"text": "pls delay ho gaya jam hai please", "intent": "report_delay", "slots": {}}
+{"text": "yaar route slow hai 10 minute ka delay", "intent": "report_delay", "slots": {"delay_min": "10"}}
+{"text": "sir cstmr ko connect laga do plz", "intent": "call_customer", "slots": {}}
+{"text": "yaar pichla order ka addr show kro", "intent": "get_address", "slots": {"order": "previous"}}
+{"text": "bro order ready nahi ho raha restaurant delay issue", "intent": "order_issue", "slots": {"issue": "restaurant_delay"}}
+{"text": "delay 15 mins show kar do plz", "intent": "report_delay", "slots": {"delay_min": "15"}}
+{"text": "delivery ddress display karo plz", "intent": "get_address", "slots": {}}
+{"text": "pls cust ko dial kar do pls", "intent": "call_customer", "slots": {}}
+{"text": "sir maps open karo aur guide karo plz", "intent": "navigation_help", "slots": {}}
+{"text": "pls route slow hai 30 mins ka delay", "intent": "report_delay", "slots": {"delay_min": "30"}}
+{"text": "yaar traffic zyada hai 20 min late hoga", "intent": "report_delay", "slots": {"delay_min": "20"}}
+{"text": "customer se cnnect nahi ho pa raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "bhai please cust se connect nahi ho pa raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "sir abhi maps open karo aur guide krdo plz", "intent": "navigation_help", "slots": {}}
+{"text": "bro turn by turn navigation on karo", "intent": "navigation_help", "slots": {}}
+{"text": "bhai plz pickup pe delay hai restaurant ka report karo", "intent": "order_issue", "slots": {"issue": "restaurant_delay"}}
+{"text": "addr galat lag raha abhi jaldi issue daal do yaar", "intent": "order_issue", "slots": {"issue": "wrong_address"}}
+{"text": "pls location tak navigate karwa do please", "intent": "navigation_help", "slots": {}}
+{"text": "sir order delivered ho gaya trant mark kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "yaar yeh order ka addr dikha de", "intent": "get_address", "slots": {"order": "current"}}
+{"text": "bro restaurant se pickup done abhi jaldi update kr do", "intent": "mark_picked_up", "slots": {}}
+{"text": "yaar turant map open karo aur guide karo pls", "intent": "navigation_help", "slots": {}}
+{"text": "yaar agla order ka drop address chhiye please", "intent": "get_address", "slots": {"order": "next"}}
+{"text": "bhai pls restaurant se pickup done turant update kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "odr utha liya picked up kar do pls", "intent": "mark_picked_up", "slots": {}}
+{"text": "pichhle order ka location show karo", "intent": "get_address", "slots": {"order": "previous"}}
+{"text": "sir restaurant se pickup done turant update kar do plz", "intent": "mark_picked_up", "slots": {}}
+{"text": "bhai plz call kiya par customer pick nahi kr raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "yaar sorry jam hai 15 min late", "intent": "report_delay", "slots": {"delay_min": "15"}}
+{"text": "bhai please restaurant slow hai abhi jaldi issue daal do", "intent": "order_issue", "slots": {"issue": "restaurant_delay"}}
+{"text": "bhai cust ko abhi jaldi dial kar do pls", "intent": "call_customer", "slots": {}}
+{"text": "yaar cust respond nahi kar raha bhai", "intent": "customer_unavailable", "slots": {}}
+{"text": "yaar lcation tak navigate karwa do plz", "intent": "navigation_help", "slots": {}}
+{"text": "delivery complete hai delivered mark karo", "intent": "mark_delivered", "slots": {}}
+{"text": "yaar maps open krdo aur guide karo plz", "intent": "navigation_help", "slots": {}}
+{"text": "bhai pickup complete turant mark picked up", "intent": "mark_picked_up", "slots": {}}
+{"text": "bhai barish ki wajah se slow time lag raha hai late hoga", "intent": "report_delay", "slots": {}}
+{"text": "bhai previous ordr ka customer address dikha de", "intent": "get_address", "slots": {"order": "previous"}}
+{"text": "bro ordr utha liya abhi jaldi picked up kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "pls ddress galat lag raha abhi issue daal do", "intent": "order_issue", "slots": {"issue": "wrong_address"}}
+{"text": "current wala order ka drop adress chahiye plz", "intent": "get_address", "slots": {"order": "current"}}
+{"text": "bhai plz delivery complete hai abhi jaldi delivered mark karo please", "intent": "mark_delivered", "slots": {}}
+{"text": "sir abhi maps open karo aur guide karo pls", "intent": "navigation_help", "slots": {}}
+{"text": "yaar pyment msmatch lag raha jldi complaint raise karo pls", "intent": "order_issue", "slots": {"issue": "payment"}}
+{"text": "cust phone nahi utha raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "sir sorry barish ki wajah se slow 30 minute late", "intent": "report_delay", "slots": {"delay_min": "30"}}
+{"text": "bhai please abhi jaldi cust se se baat kara do plz", "intent": "call_customer", "slots": {}}
+{"text": "sir jaldi cust ko dial kr do", "intent": "call_customer", "slots": {}}
+{"text": "yaar abhi customer se se baat kara do pls", "intent": "call_customer", "slots": {}}
+{"text": "sir map pe route dikha do plz", "intent": "navigation_help", "slots": {}}
+{"text": "bhai plz gps chalu kro aur le chalo", "intent": "navigation_help", "slots": {}}
+{"text": "bhai pls delivered hai isko jldi pls cmplete kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "rstaurant se pickup done turant update kar do plz", "intent": "mark_picked_up", "slots": {}}
+{"text": "cust se se baat kara do please", "intent": "call_customer", "slots": {}}
+{"text": "pls pickup complete jaldi mark picked up", "intent": "mark_picked_up", "slots": {}}
+{"text": "yaar ordr drop ho chuka turant delivered set kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "pls order drop ho chuka delivered set kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "bhai please item missing lag raha turant issue daal do", "intent": "order_issue", "slots": {"issue": "item_missing"}}
+{"text": "bro drop addr confusing hai complaint create karo plz", "intent": "order_issue", "slots": {"issue": "wrong_address"}}
+{"text": "yaar ordr delivered ho gaya mark kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "bro nvigation start kar do please", "intent": "navigation_help", "slots": {}}
+{"text": "yaar aaj traffic heavy 15 mins ka delay", "intent": "report_delay", "slots": {"delay_min": "15"}}
+{"text": "bro aaj traffic heavy 20 min ka delay", "intent": "report_delay", "slots": {"delay_min": "20"}}
+{"text": "bhai please abhi jaldi next order ka addr dikha de", "intent": "get_address", "slots": {"order": "next"}}
+{"text": "sir pickup pe delay hai restaurant ka turant report karo", "intent": "order_issue", "slots": {"issue": "restaurant_delay"}}
+{"text": "customer ko connect kar do", "intent": "call_customer", "slots": {}}
+{"text": "sir sorry barish ki wajah se slow 10 min late", "intent": "report_delay", "slots": {"delay_min": "10"}}
+{"text": "cust se ko call kar do plz", "intent": "call_customer", "slots": {}}
+{"text": "yaar delivered hai isko complete kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "customer se ko dial laga do plz", "intent": "call_customer", "slots": {}}
+{"text": "yaar jaldi customer se ko call kar do please", "intent": "call_customer", "slots": {}}
+{"text": "pls picked up hai status set kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "sir upi/payment issue abhi spport ko ping karo yaar", "intent": "order_issue", "slots": {"issue": "payment"}}
+{"text": "yaar hogaya dlivered abhi jaldi update kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "bhai traffic zyada hai 5 mins late hoga", "intent": "report_delay", "slots": {"delay_min": "5"}}
+{"text": "yaar ordr rlated issue hai abhi jaldi support issue crate karo", "intent": "order_issue", "slots": {"issue": "other"}}
+{"text": "sir restaurant se pickup done abhi jldi update kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "sir agli ordr ka addr chahiye plz", "intent": "get_address", "slots": {"order": "next"}}
+{"text": "sir customer unreachable lag raha yaar", "intent": "customer_unavailable", "slots": {}}
+{"text": "pls cust se ko ring kar do", "intent": "call_customer", "slots": {}}
+{"text": "bhai please kuch item nahi mila jaldi support ko bata do", "intent": "order_issue", "slots": {"issue": "item_missing"}}
+{"text": "sir customer unreachable lag raha bhai", "intent": "customer_unavailable", "slots": {}}
+{"text": "pls picked up hai abhi jldi status set kr do", "intent": "mark_picked_up", "slots": {}}
+{"text": "bhai please location tak navigate karwa do yaar", "intent": "navigation_help", "slots": {}}
+{"text": "order delivered ho gaya abhi jaldi mark kar do pls", "intent": "mark_delivered", "slots": {}}
+{"text": "yaar upi/payment issue abhi support ko ping karo pls", "intent": "order_issue", "slots": {"issue": "payment"}}
+{"text": "yaar jldi pls customer se ko dial kar do pls", "intent": "call_customer", "slots": {}}
+{"text": "pls restaurant se pickup done abhi update kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "bhai pls order pickup ho gaya picked up mark kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "bro order delivered ho gaya mark kr do", "intent": "mark_delivered", "slots": {}}
+{"text": "cust se ko call laga do", "intent": "call_customer", "slots": {}}
+{"text": "bhai plase map pe route dikha do", "intent": "navigation_help", "slots": {}}
+{"text": "bhai brish ki wajah se slow 10 min late hoga", "intent": "report_delay", "slots": {"delay_min": "10"}}
+{"text": "bhai plase cust respond nahi kar raha plz", "intent": "customer_unavailable", "slots": {}}
+{"text": "yaar customer se baat kara do plz", "intent": "call_customer", "slots": {}}
+{"text": "restaurant se pickup done turant update kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "pls cust ko abhi ring kar do plz bhai", "intent": "call_customer", "slots": {}}
+{"text": "bhai order ready nahi ho raha restaurant delay issue", "intent": "order_issue", "slots": {"issue": "restaurant_delay"}}
+{"text": "pls cstmr available nahi hai abhi", "intent": "customer_unavailable", "slots": {}}
+{"text": "pls delivery complete hai delivered mark krdo plss", "intent": "mark_delivered", "slots": {}}
+{"text": "order related issue hai support issue create karo", "intent": "order_issue", "slots": {"issue": "other"}}
+{"text": "pls payment mismatch lag raha abhi jaldi complaint raise karo", "intent": "order_issue", "slots": {"issue": "payment"}}
+{"text": "bhai please order pickup ho gaya jaldi picked up mark kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "barish ki wajah se slow thoda delay ho gaya", "intent": "report_delay", "slots": {}}
+{"text": "bhai next wala order ka cstomer address abhi bata do", "intent": "get_address", "slots": {"order": "next"}}
+{"text": "bhai plz barish ki wajah se slow thoda delay ho gaya", "intent": "report_delay", "slots": {}}
+{"text": "pls delivered hai isko cmplete kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "route slow hai time lag raha hai late hoga", "intent": "report_delay", "slots": {}}
+{"text": "yaar location tak navigate karwa do pls", "intent": "navigation_help", "slots": {}}
+{"text": "delivered hai isko complete kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "bro delivery complete hai delivered mark karo please", "intent": "mark_delivered", "slots": {}}
+{"text": "items missing hai abhi issue create kar do", "intent": "order_issue", "slots": {"issue": "item_missing"}}
+{"text": "bhai please maps kholo route bata do", "intent": "navigation_help", "slots": {}}
+{"text": "order delivered ho gaya abhi mark kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "bhai order mein problem hai issue daal do", "intent": "order_issue", "slots": {"issue": "other"}}
+{"text": "pls cust phone nahi utha raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "pls addr nikaal do", "intent": "get_address", "slots": {}}
+{"text": "sir location tak nvigate karwa do plss", "intent": "navigation_help", "slots": {}}
+{"text": "location chahiye pls", "intent": "get_address", "slots": {}}
+{"text": "bhai please restaurant late kar raha turant complaint raise karo", "intent": "order_issue", "slots": {"issue": "restaurant_delay"}}
+{"text": "pls cust rspond nahi kar raha please", "intent": "customer_unavailable", "slots": {}}
+{"text": "bro barish ki wajah se slow 20 mnute ka delay", "intent": "report_delay", "slots": {"delay_min": "20"}}
+{"text": "yaar cust se ko turant connect kar do", "intent": "call_customer", "slots": {}}
+{"text": "pls order delivered ho gaya abhi jaldi mark kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "jaldi cust se ko dial krdo", "intent": "call_customer", "slots": {}}
+{"text": "cust se se baat kara do plz", "intent": "call_customer", "slots": {}}
+{"text": "bhai aaj traffic heavy 10 mins ka delay", "intent": "report_delay", "slots": {"delay_min": "10"}}
+{"text": "ek baar cust ko dial kar do pls", "intent": "call_customer", "slots": {}}
+{"text": "cash collect mein issue hai turant report karo", "intent": "order_issue", "slots": {"issue": "payment"}}
+{"text": "bhai pichhle order ka drop address open karo", "intent": "get_address", "slots": {"order": "previous"}}
+{"text": "picked up hai sttus set kr do", "intent": "mark_picked_up", "slots": {}}
+{"text": "location tak navigate karwa do plss", "intent": "navigation_help", "slots": {}}
+{"text": "pls agli ordr ka drop adress chahiye plz", "intent": "get_address", "slots": {"order": "next"}}
+{"text": "bhai please dlivered hai isko complete kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "bhai order pickup ho gaya turant picked up mark kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "yaar ordr delivered ho gaya jaldi mark kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "bro cust ko connect karo pls", "intent": "call_customer", "slots": {}}
+{"text": "bhai delivery complete hai delivered mark karo", "intent": "mark_delivered", "slots": {}}
+{"text": "yaar customer se connect nahi ho pa raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "sir cust se ko dial laga do", "intent": "call_customer", "slots": {}}
+{"text": "pls location tak navigate karwa do", "intent": "navigation_help", "slots": {}}
+{"text": "sir picked up hai abhi jaldi sttus set kr do", "intent": "mark_picked_up", "slots": {}}
+{"text": "sorry route slow hai 15 min late", "intent": "report_delay", "slots": {"delay_min": "15"}}
+{"text": "bhai customer vailable nahi hai abhi", "intent": "customer_unavailable", "slots": {}}
+{"text": "bhai customer se connect nahi ho pa raha bhai", "intent": "customer_unavailable", "slots": {}}
+{"text": "bhai plss location tak navigate karwa do", "intent": "navigation_help", "slots": {}}
+{"text": "order utha liya jldi pls picked up kar do pls", "intent": "mark_picked_up", "slots": {}}
+{"text": "bhai gps chalu karo aur le chalo", "intent": "navigation_help", "slots": {}}
+{"text": "delivery complete hai turant delivered mark kro please", "intent": "mark_delivered", "slots": {}}
+{"text": "bhai pls cust se ko call kar do please", "intent": "call_customer", "slots": {}}
+{"text": "yaar order delivered ho gaya mark kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "bro odr drop ho chuka abhi jaldi delivered set kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "bhai jaldi maps open karo aur guide karo pls", "intent": "navigation_help", "slots": {}}
+{"text": "pls picked up hai jldi status set kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "call kiya par cstmr pick nahi kar raha yaar", "intent": "customer_unavailable", "slots": {}}
+{"text": "yaar restaurant late kr raha abhi complaint raise karo pls", "intent": "order_issue", "slots": {"issue": "restaurant_delay"}}
+{"text": "bhai please cust respond nahi kar raha pls", "intent": "customer_unavailable", "slots": {}}
+{"text": "bro order drop ho chuka delivered set kr do", "intent": "mark_delivered", "slots": {}}
+{"text": "bro payment mismatch lag raha abhi complaint raise karo", "intent": "order_issue", "slots": {"issue": "payment"}}
+{"text": "bhai please order delivered ho gaya abhi mark kr do", "intent": "mark_delivered", "slots": {}}
+{"text": "bhai delay ho gaya barish ki wajah se slow", "intent": "report_delay", "slots": {}}
+{"text": "bhai please ddress galat lag raha jldi pls issue daal do", "intent": "order_issue", "slots": {"issue": "wrong_address"}}
+{"text": "yaar delivery complete hai abhi jldi delivered mark karo plase", "intent": "mark_delivered", "slots": {}}
+{"text": "bhai please customer se connect nahi ho pa raha bhai", "intent": "customer_unavailable", "slots": {}}
+{"text": "pls navigation start kar do pls", "intent": "navigation_help", "slots": {}}
+{"text": "yeh order ka address open krdo pls", "intent": "get_address", "slots": {"order": "current"}}
+{"text": "bro item missing lag raha issue daal do", "intent": "order_issue", "slots": {"issue": "item_missing"}}
+{"text": "yaar cust se connect nahi ho pa raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "bro next wala order ka location dikha do", "intent": "get_address", "slots": {"order": "next"}}
+{"text": "turn by turn navigation on kro", "intent": "navigation_help", "slots": {}}
+{"text": "cust ko jaldi ring kar do", "intent": "call_customer", "slots": {}}
+{"text": "bhai address incorrect dikh raha abhi jaldi support issue", "intent": "order_issue", "slots": {"issue": "wrong_address"}}
+{"text": "pls jaldi cust se ko ring kar do plz", "intent": "call_customer", "slots": {}}
+{"text": "bhai please picked up hai jldi pls status set kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "jldi maps open karo aur guide karo", "intent": "navigation_help", "slots": {}}
+{"text": "bhai plase agla wala order ka drop adress open karo", "intent": "get_address", "slots": {"order": "next"}}
+{"text": "bro 5 min late ho jaunga jam hai", "intent": "report_delay", "slots": {"delay_min": "5"}}
+{"text": "yaar customer se ko turant ring kar do", "intent": "call_customer", "slots": {}}
+{"text": "sir order pickup ho gaya abhi picked up mark kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "yaar delivered hai isko abhi jaldi cmplete kar do pls", "intent": "mark_delivered", "slots": {}}
+{"text": "bhai please restaurant se pickup done abhi jaldi pdate kar do pls", "intent": "mark_picked_up", "slots": {}}
+{"text": "bro customer available nahi hai abhi yaar", "intent": "customer_unavailable", "slots": {}}
+{"text": "pls delay 20 mins show kar do", "intent": "report_delay", "slots": {"delay_min": "20"}}
+{"text": "bro location tak navigate karwa do yaar", "intent": "navigation_help", "slots": {}}
+{"text": "pls delivery cmplete hai abhi jaldi delivered mark krdo please", "intent": "mark_delivered", "slots": {}}
+{"text": "bhai please turn by turn navigation on karo", "intent": "navigation_help", "slots": {}}
+{"text": "delivery address display karo plz", "intent": "get_address", "slots": {}}
+{"text": "yaar cust respond nahi kr raha please", "intent": "customer_unavailable", "slots": {}}
+{"text": "sir customer se ko connect kar do", "intent": "call_customer", "slots": {}}
+{"text": "yaar map pe route dikhha do please", "intent": "navigation_help", "slots": {}}
+{"text": "location tak navigate karwa do plz", "intent": "navigation_help", "slots": {}}
+{"text": "bro restaurant late kar raha abhi jldi pls complaint raise karo", "intent": "order_issue", "slots": {"issue": "restaurant_delay"}}
+{"text": "pls abhi jaldi customer ko dial karo pls", "intent": "call_customer", "slots": {}}
+{"text": "sir delivery complete hai turant delivered mark karo pls pls", "intent": "mark_delivered", "slots": {}}
+{"text": "map pe route dikha do", "intent": "navigation_help", "slots": {}}
+{"text": "sir previous order ka address abhi jaldi bata do", "intent": "get_address", "slots": {"order": "previous"}}
+{"text": "bro maps open karo aur guide karo plz", "intent": "navigation_help", "slots": {}}
+{"text": "bhai customer phone nahi utha raha pls", "intent": "customer_unavailable", "slots": {}}
+{"text": "previous order ka delivery address show karo", "intent": "get_address", "slots": {"order": "previous"}}
+{"text": "bhai pls odr drop ho chuka abhi jaldi delivered set kar do", "intent": "mark_delivered", "slots": {}}
+{"text": "cust respond nahi kar raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "bhai abhi jaldi cust se baat kara do plz", "intent": "call_customer", "slots": {}}
+{"text": "call kiya par customer pick nahi kr raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "barish ki wajah se slow late ho raha pls", "intent": "report_delay", "slots": {}}
+{"text": "yaar restaurant se pickup done pdate kar do plz", "intent": "mark_picked_up", "slots": {}}
+{"text": "bhai odr ready nahi ho raha abhi restaurant delay issue", "intent": "order_issue", "slots": {"issue": "restaurant_delay"}}
+{"text": "customer se ko abhi call kr do", "intent": "call_customer", "slots": {}}
+{"text": "bro cstomer phone nahi utha raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "yaar odr drop ho chuka abhi delivered set kar do plz", "intent": "mark_delivered", "slots": {}}
+{"text": "bro next waala order ka delivery address dikhha do", "intent": "get_address", "slots": {"order": "next"}}
+{"text": "sir order related issue hai trant support issue create karo", "intent": "order_issue", "slots": {"issue": "other"}}
+{"text": "items mssing hai abhi issue create kar do", "intent": "order_issue", "slots": {"issue": "item_missing"}}
+{"text": "bhai delay 30 mins show kar do plz", "intent": "report_delay", "slots": {"delay_min": "30"}}
+{"text": "sir picked up hai jaldi sttus set kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "cust respond nahi kar raha yaar", "intent": "customer_unavailable", "slots": {}}
+{"text": "bhai please payment problem aa raha jaldi issue daal do", "intent": "order_issue", "slots": {"issue": "payment"}}
+{"text": "call kiya par cust pick nahi kar raha bhai", "intent": "customer_unavailable", "slots": {}}
+{"text": "bhai plz customer se ko dial krdo yaar", "intent": "call_customer", "slots": {}}
+{"text": "current wala order ka location turant dikha do", "intent": "get_address", "slots": {"order": "current"}}
+{"text": "signal pe atak gaya 10 mins late hoga bhai", "intent": "report_delay", "slots": {"delay_min": "10"}}
+{"text": "yaar item mssing lag raha abhi jaldi issue daal do", "intent": "order_issue", "slots": {"issue": "item_missing"}}
+{"text": "bhai turant agla wala order ka addr show karo", "intent": "get_address", "slots": {"order": "next"}}
+{"text": "cstomer address turant nikaal do", "intent": "get_address", "slots": {}}
+{"text": "bhai prev order ka drop address nikaal do", "intent": "get_address", "slots": {"order": "previous"}}
+{"text": "turant maps open karo aur guide karo pls", "intent": "navigation_help", "slots": {}}
+{"text": "yaar restaurant se pickup done jaldi update kr do plz", "intent": "mark_picked_up", "slots": {}}
+{"text": "gps chalu kro aur le chalo", "intent": "navigation_help", "slots": {}}
+{"text": "bro customer se se baat kara do plz", "intent": "call_customer", "slots": {}}
+{"text": "late ho raha hu signal pe atak gaya", "intent": "report_delay", "slots": {}}
+{"text": "order ready nahi ho raha abhi restaurant delay issue", "intent": "order_issue", "slots": {"issue": "restaurant_delay"}}
+{"text": "bhai please pehle wala order ka customer address abhi nikaal do", "intent": "get_address", "slots": {"order": "previous"}}
+{"text": "yaar order drop ho chuka turant delivered set kar do pls", "intent": "mark_delivered", "slots": {}}
+{"text": "cstmr phone nahi utha raha", "intent": "customer_unavailable", "slots": {}}
+{"text": "order pickup ho gaya turant picked up mark kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "sir rstaurant se pickup done update kar do please", "intent": "mark_picked_up", "slots": {}}
+{"text": "sir addr chahiye plz", "intent": "get_address", "slots": {}}
+{"text": "yaar order drop ho chuka abhi dlivered set kar do plase", "intent": "mark_delivered", "slots": {}}
+{"text": "bro order pickup ho gaya abhi picked up mark kar do", "intent": "mark_picked_up", "slots": {}}
+{"text": "bhai please restaurant se pickup done abhi jaldi update kar do plz", "intent": "mark_picked_up", "slots": {}}
+{"text": "delivery complete hai jldi pls dlivered mark karo plz", "intent": "mark_delivered", "slots": {}}
+{"text": "yaar cust se ko call kar do please", "intent": "call_customer", "slots": {}}

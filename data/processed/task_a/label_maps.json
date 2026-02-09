@@ -1,0 +1,45 @@
+{
+  "intent2id": {
+    "get_address": 0,
+    "call_customer": 1,
+    "mark_delivered": 2,
+    "mark_picked_up": 3,
+    "report_delay": 4,
+    "navigation_help": 5,
+    "order_issue": 6,
+    "customer_unavailable": 7
+  },
+  "id2intent": {
+    "0": "get_address",
+    "1": "call_customer",
+    "2": "mark_delivered",
+    "3": "mark_picked_up",
+    "4": "report_delay",
+    "5": "navigation_help",
+    "6": "order_issue",
+    "7": "customer_unavailable"
+  },
+  "slot2id": {
+    "O": 0,
+    "B-order": 1,
+    "I-order": 2,
+    "B-delay_min": 3,
+    "I-delay_min": 4,
+    "B-issue": 5,
+    "I-issue": 6
+  },
+  "id2slot": {
+    "0": "O",
+    "1": "B-order",
+    "2": "I-order",
+    "3": "B-delay_min",
+    "4": "I-delay_min",
+    "5": "B-issue",
+    "6": "I-issue"
+  },
+  "slot_keys": [
+    "order",
+    "delay_min",
+    "issue"
+  ]
+}

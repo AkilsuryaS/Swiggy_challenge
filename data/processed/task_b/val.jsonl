@@ -1,0 +1,300 @@
+{"context": "customer bol raha hai item missing hai", "reply": "theek hai main dekh raha hoon"}
+{"context": "diversion ki wajah se 12 min late ho jayega", "reply": "maaf kijiye thoda late ho raha hoon"}
+{"context": "accident ki wajah se 25 min late ho jayega", "reply": "main update dunga"}
+{"context": "jam ki wajah se 25 min late ho jayega", "reply": "delay ke liye sorry"}
+{"context": "signal block ki wajah se 8 min late ho jayega", "reply": "bas 25 min mein pahunch jaunga"}
+{"context": "18 min late ho jayega", "reply": "main update dunga"}
+{"context": "location match nahi ho raha", "reply": "main location confirm karta hoon"}
+{"context": "20 min ka delay hai", "reply": "maaf kijiye thoda late ho raha hoon"}
+{"context": "customer bol raha hai route galat hai", "reply": "main security se baat karta hoon"}
+{"context": "traffic ki wajah se 5 min late ho jayega", "reply": "main jaldi aa raha hoon"}
+{"context": "signal block ki wajah se 12 min late ho jayega", "reply": "main check karke batata hoon"}
+{"context": "diversion ki wajah se 35 min late ho jayega", "reply": "main time par pahunchne ki koshish kar raha hoon"}
+{"context": "delivery late ho rahi hai", "reply": "bas thoda wait kar lijiye"}
+{"context": "address sahi nahi aa raha", "reply": "main map check kar raha hoon"}
+{"context": "20 min ka delay hai", "reply": "main check karke batata hoon"}
+{"context": "rain ki wajah se 8 min late ho jayega", "reply": "bas thoda wait kar lijiye"}
+{"context": "block par security rok rahi hai", "reply": "main map check kar raha hoon"}
+{"context": "restaurant se pickup kar liya", "reply": "main pickup karke on the way hoon"}
+{"context": "society par entry issue hai", "reply": "main gate pe aa raha hoon"}
+{"context": "aaj thoda delay ho gaya", "reply": "bas 35 min mein pahunch jaunga"}
+{"context": "15 min late ho jayega", "reply": "main check karke batata hoon"}
+{"context": "restaurant ne bola 10 min aur lagega", "reply": "jaise hi ready hoga main nikal jaunga"}
+{"context": "road work ki wajah se 18 min late ho jayega", "reply": "bas thoda wait kar lijiye"}
+{"context": "navigation help chahiye", "reply": "main handle kar raha hoon"}
+{"context": "rain ki wajah se 20 min late ho jayega", "reply": "maaf kijiye thoda late ho raha hoon"}
+{"context": "rain ki wajah se 35 min late ho jayega", "reply": "main time par pahunchne ki koshish kar raha hoon"}
+{"context": "road closed ki wajah se 30 min late ho jayega", "reply": "bas 20 min mein pahunch jaunga"}
+{"context": "order confirm karna hai", "reply": "main entry details confirm karta hoon"}
+{"context": "order tracking update chahiye", "reply": "main status confirm karke batata hoon"}
+{"context": "signal block ki wajah se 8 min late ho jayega", "reply": "maaf kijiye thoda late ho raha hoon"}
+{"context": "order le liya hai", "reply": "pickup complete ho gaya"}
+{"context": "accident ki wajah se late ho raha hai", "reply": "bas 8 min mein pahunch jaunga"}
+{"context": "traffic ki wajah se 5 min late ho jayega", "reply": "bas 12 min mein pahunch jaunga"}
+{"context": "jam ki wajah se 5 min late ho jayega", "reply": "maaf kijiye thoda late ho raha hoon"}
+{"context": "customer bol raha hai lift band hai", "reply": "main update dunga"}
+{"context": "signal block ki wajah se 10 min late ho jayega", "reply": "delay ke liye sorry"}
+{"context": "35 min ka delay hai", "reply": "main update de raha hoon"}
+{"context": "customer ka phone busy aa raha hai", "reply": "main update dunga"}
+{"context": "customer se call par baat nahi ho rahi", "reply": "theek hai main dekh raha hoon"}
+{"context": "rain ki wajah se 12 min late ho jayega", "reply": "main update de raha hoon"}
+{"context": "system me pin mismatch dikh raha hai", "reply": "main handle kar raha hoon"}
+{"context": "delivery me delay ho gaya", "reply": "bas 18 min mein pahunch jaunga"}
+{"context": "accident ki wajah se 15 min late ho jayega", "reply": "bas 35 min mein pahunch jaunga"}
+{"context": "diversion ki wajah se 15 min late ho jayega", "reply": "main check karke batata hoon"}
+{"context": "signal block ki wajah se 20 min late ho jayega", "reply": "delay ke liye sorry"}
+{"context": "traffic ki wajah se late ho raha hai", "reply": "bas 20 min mein pahunch jaunga"}
+{"context": "tower ka rasta nahi mil raha", "reply": "main handle kar raha hoon"}
+{"context": "restaurant ne bola 25 min aur lagega", "reply": "restaurant se pickup ke baad nikalunga"}
+{"context": "traffic ki wajah se 10 min late ho jayega", "reply": "bas 35 min mein pahunch jaunga"}
+{"context": "20 min ka delay hai", "reply": "bas 5 min mein pahunch jaunga"}
+{"context": "customer ko item damaged lag raha hai", "reply": "main support se baat karta hoon"}
+{"context": "road work ki wajah se 25 min late ho jayega", "reply": "on the way hoon"}
+{"context": "customer se number par baat nahi ho rahi", "reply": "main update dunga"}
+{"context": "society par entry issue hai", "reply": "main map check kar raha hoon"}
+{"context": "gate par security rok rahi hai", "reply": "main map check kar raha hoon"}
+{"context": "road work ki wajah se 20 min late ho jayega", "reply": "bas 35 min mein pahunch jaunga"}
+{"context": "landmark match nahi ho raha", "reply": "main update dunga"}
+{"context": "order ka status pooch rahe hain", "reply": "main status confirm karke batata hoon"}
+{"context": "customer location par nahi mila", "reply": "theek hai main dekh raha hoon"}
+{"context": "security par security rok rahi hai", "reply": "main landmark dekh kar aa raha hoon"}
+{"context": "signal block ki wajah se 8 min late ho jayega", "reply": "thodi der aur"}
+{"context": "15 min ka delay hai", "reply": "maaf kijiye thoda late ho raha hoon"}
+{"context": "road work ki wajah se 18 min late ho jayega", "reply": "bas 35 min mein pahunch jaunga"}
+{"context": "road work ki wajah se 20 min late ho jayega", "reply": "bas 20 min mein pahunch jaunga"}
+{"context": "block par entry issue hai", "reply": "main map check kar raha hoon"}
+{"context": "gate ka rasta nahi mil raha", "reply": "main map check kar raha hoon"}
+{"context": "accident ki wajah se 25 min late ho jayega", "reply": "bas 30 min mein pahunch jaunga"}
+{"context": "customer bol raha hai society band hai", "reply": "main landmark dekh kar aa raha hoon"}
+{"context": "road closed ki wajah se 25 min late ho jayega", "reply": "bas 20 min mein pahunch jaunga"}
+{"context": "order late ho raha hai", "reply": "main handle kar raha hoon"}
+{"context": "restaurant par wait chal raha hai", "reply": "main wait kar raha hoon"}
+{"context": "pickup ke liye wait karna hai", "reply": "main wait kar raha hoon"}
+{"context": "road closed ki wajah se 25 min late ho jayega", "reply": "main time par pahunchne ki koshish kar raha hoon"}
+{"context": "order tracking update chahiye", "reply": "main update dunga"}
+{"context": "jam ki wajah se 18 min late ho jayega", "reply": "bas 8 min mein pahunch jaunga"}
+{"context": "system bol raha hai order late hai", "reply": "thodi der aur"}
+{"context": "road closed ki wajah se late ho raha hai", "reply": "bas 35 min mein pahunch jaunga"}
+{"context": "system me location mismatch dikh raha hai", "reply": "main handle kar raha hoon"}
+{"context": "lane band hai", "reply": "main check karke batata hoon"}
+{"context": "road closed ki wajah se 18 min late ho jayega", "reply": "bas 8 min mein pahunch jaunga"}
+{"context": "accident ki wajah se 5 min late ho jayega", "reply": "theek hai main dekh raha hoon"}
+{"context": "road work ki wajah se 18 min late ho jayega", "reply": "bas 30 min mein pahunch jaunga"}
+{"context": "customer busy hai baad me milega", "reply": "main customer se dobara confirm karta hoon"}
+{"context": "address clear nahi hai", "reply": "main update dunga"}
+{"context": "rain ki wajah se 18 min late ho jayega", "reply": "bas 30 min mein pahunch jaunga"}
+{"context": "pin sahi nahi aa raha", "reply": "main check karke batata hoon"}
+{"context": "block par entry issue hai", "reply": "main update dunga"}
+{"context": "customer ne bola thoda wait karo", "reply": "theek hai main dekh raha hoon"}
+{"context": "map samajh nahi aa raha", "reply": "main gate pe aa raha hoon"}
+{"context": "kitchen busy hai", "reply": "main handle kar raha hoon"}
+{"context": "address clear nahi hai", "reply": "main security se baat karta hoon"}
+{"context": "jam ki wajah se 5 min late ho jayega", "reply": "bas 35 min mein pahunch jaunga"}
+{"context": "traffic ki wajah se 25 min late ho jayega", "reply": "bas 35 min mein pahunch jaunga"}
+{"context": "jam ki wajah se 35 min late ho jayega", "reply": "bas thoda wait kar lijiye"}
+{"context": "road closed ki wajah se 25 min late ho jayega", "reply": "bas 8 min mein pahunch jaunga"}
+{"context": "parking ka rasta nahi mil raha", "reply": "main update dunga"}
+{"context": "jam ki wajah se 8 min late ho jayega", "reply": "main update de raha hoon"}
+{"context": "18 min ka delay hai", "reply": "bas 12 min mein pahunch jaunga"}
+{"context": "customer ka gate lock hai", "reply": "main handle kar raha hoon"}
+{"context": "customer ka phone switch off hai", "reply": "main handle kar raha hoon"}
+{"context": "accident ki wajah se 30 min late ho jayega", "reply": "main update de raha hoon"}
+{"context": "direction samajh nahi aa raha", "reply": "main map check kar raha hoon"}
+{"context": "jam ki wajah se 5 min late ho jayega", "reply": "delay ke liye sorry"}
+{"context": "road work ki wajah se 18 min late ho jayega", "reply": "bas 20 min mein pahunch jaunga"}
+{"context": "accident ki wajah se 25 min late ho jayega", "reply": "main handle kar raha hoon"}
+{"context": "direction match nahi ho raha", "reply": "main location confirm karta hoon"}
+{"context": "payment pending dikh raha hai", "reply": "main issue resolve kar raha hoon"}
+{"context": "jam ki wajah se 15 min late ho jayega", "reply": "main check karke batata hoon"}
+{"context": "order thoda late ho raha hai", "reply": "bas thoda wait kar lijiye"}
+{"context": "customer ka number busy aa raha hai", "reply": "main thodi der mein call karta hoon"}
+{"context": "35 min late ho jayega", "reply": "main time par pahunchne ki koshish kar raha hoon"}
+{"context": "traffic ki wajah se 15 min late ho jayega", "reply": "main update de raha hoon"}
+{"context": "route match nahi ho raha", "reply": "main update dunga"}
+{"context": "diversion ki wajah se 35 min late ho jayega", "reply": "main handle kar raha hoon"}
+{"context": "15 min ka delay hai", "reply": "on the way hoon"}
+{"context": "customer bol raha hai entry band hai", "reply": "main location confirm karta hoon"}
+{"context": "accident ki wajah se 30 min late ho jayega", "reply": "bas 10 min mein pahunch jaunga"}
+{"context": "road work ki wajah se 8 min late ho jayega", "reply": "bas 12 min mein pahunch jaunga"}
+{"context": "diversion ki wajah se 30 min late ho jayega", "reply": "bas 5 min mein pahunch jaunga"}
+{"context": "traffic ki wajah se 10 min late ho jayega", "reply": "maaf kijiye thoda late ho raha hoon"}
+{"context": "rain ki wajah se 25 min late ho jayega", "reply": "on the way hoon"}
+{"context": "accident ki wajah se 18 min late ho jayega", "reply": "main time par pahunchne ki koshish kar raha hoon"}
+{"context": "customer ne bola abhi nahi mil sakta", "reply": "main check karke batata hoon"}
+{"context": "order thoda late ho raha hai", "reply": "main update de raha hoon"}
+{"context": "diversion ki wajah se 5 min late ho jayega", "reply": "bas 18 min mein pahunch jaunga"}
+{"context": "traffic ki wajah se late ho raha hai", "reply": "delay ke liye sorry"}
+{"context": "order issue report karna hai", "reply": "main check karke batata hoon"}
+{"context": "traffic ki wajah se late ho raha hai", "reply": "bas 12 min mein pahunch jaunga"}
+{"context": "road closed ki wajah se 8 min late ho jayega", "reply": "maaf kijiye thoda late ho raha hoon"}
+{"context": "lift par entry issue hai", "reply": "main address verify kar raha hoon"}
+{"context": "road closed ki wajah se 8 min late ho jayega", "reply": "bas 25 min mein pahunch jaunga"}
+{"context": "block band hai", "reply": "main location confirm karta hoon"}
+{"context": "10 min ka delay hai", "reply": "main handle kar raha hoon"}
+{"context": "parking band hai", "reply": "main address verify kar raha hoon"}
+{"context": "accident ki wajah se late ho raha hai", "reply": "theek hai main dekh raha hoon"}
+{"context": "pickup complete ho gaya", "reply": "abhi nikal raha hoon"}
+{"context": "jam ki wajah se 18 min late ho jayega", "reply": "bas 18 min mein pahunch jaunga"}
+{"context": "direction clear nahi hai", "reply": "main entry point dhoondh raha hoon"}
+{"context": "lift ka rasta nahi mil raha", "reply": "main address verify kar raha hoon"}
+{"context": "diversion ki wajah se 30 min late ho jayega", "reply": "main handle kar raha hoon"}
+{"context": "signal block ki wajah se late ho raha hai", "reply": "bas thoda wait kar lijiye"}
+{"context": "parking par security rok rahi hai", "reply": "main entry point dhoondh raha hoon"}
+{"context": "restaurant me packing delay hai", "reply": "packing complete hote hi nikalta hoon"}
+{"context": "rain ki wajah se 35 min late ho jayega", "reply": "main handle kar raha hoon"}
+{"context": "address match nahi ho raha", "reply": "main entry point dhoondh raha hoon"}
+{"context": "tower ka rasta nahi mil raha", "reply": "main location confirm karta hoon"}
+{"context": "security ka rasta nahi mil raha", "reply": "main address verify kar raha hoon"}
+{"context": "signal block ki wajah se late ho raha hai", "reply": "bas 10 min mein pahunch jaunga"}
+{"context": "accident ki wajah se 20 min late ho jayega", "reply": "bas 25 min mein pahunch jaunga"}
+{"context": "road work ki wajah se 15 min late ho jayega", "reply": "bas 25 min mein pahunch jaunga"}
+{"context": "rain ki wajah se 18 min late ho jayega", "reply": "main update dunga"}
+{"context": "10 min ka delay hai", "reply": "bas 20 min mein pahunch jaunga"}
+{"context": "order late ho raha hai", "reply": "main check karke batata hoon"}
+{"context": "accident ki wajah se 8 min late ho jayega", "reply": "main jaldi aa raha hoon"}
+{"context": "payment me issue aa raha hai", "reply": "main issue resolve kar raha hoon"}
+{"context": "accident ki wajah se 25 min late ho jayega", "reply": "bas 18 min mein pahunch jaunga"}
+{"context": "5 min late ho jayega", "reply": "bas 25 min mein pahunch jaunga"}
+{"context": "accident ki wajah se 15 min late ho jayega", "reply": "delay ke liye sorry"}
+{"context": "map clear nahi hai", "reply": "main security se baat karta hoon"}
+{"context": "route match nahi ho raha", "reply": "main security se baat karta hoon"}
+{"context": "25 min late ho jayega", "reply": "bas 12 min mein pahunch jaunga"}
+{"context": "system bol raha hai customer unreachable hai", "reply": "main dubara reach out karta hoon"}
+{"context": "restaurant me packing delay hai", "reply": "main pickup ke liye ready hoon"}
+{"context": "accident ki wajah se 15 min late ho jayega", "reply": "bas 5 min mein pahunch jaunga"}
+{"context": "wrong route le liya", "reply": "main route check kar raha hoon"}
+{"context": "accident ki wajah se 35 min late ho jayega", "reply": "bas 12 min mein pahunch jaunga"}
+{"context": "customer se phone par baat nahi ho rahi", "reply": "main dobara call karta hoon"}
+{"context": "accident ki wajah se 18 min late ho jayega", "reply": "bas 30 min mein pahunch jaunga"}
+{"context": "map sahi nahi aa raha", "reply": "theek hai main dekh raha hoon"}
+{"context": "lift par security rok rahi hai", "reply": "main location confirm karta hoon"}
+{"context": "gate band hai", "reply": "main handle kar raha hoon"}
+{"context": "12 min late ho jayega", "reply": "bas 8 min mein pahunch jaunga"}
+{"context": "road closed ki wajah se 30 min late ho jayega", "reply": "bas 15 min mein pahunch jaunga"}
+{"context": "rain ki wajah se 25 min late ho jayega", "reply": "main time par pahunchne ki koshish kar raha hoon"}
+{"context": "direction samajh nahi aa raha", "reply": "theek hai main dekh raha hoon"}
+{"context": "customer bol raha hai order late hai", "reply": "main jaldi aa raha hoon"}
+{"context": "restaurant ne bola 5 min aur lagega", "reply": "main check karke batata hoon"}
+{"context": "gate band hai", "reply": "main landmark dekh kar aa raha hoon"}
+{"context": "lane ka rasta nahi mil raha", "reply": "main check karke batata hoon"}
+{"context": "rain ki wajah se 18 min late ho jayega", "reply": "main check karke batata hoon"}
+{"context": "restaurant ne bola 15 min aur lagega", "reply": "main pickup ke liye ready hoon"}
+{"context": "signal block ki wajah se 8 min late ho jayega", "reply": "main time par pahunchne ki koshish kar raha hoon"}
+{"context": "accident ki wajah se 8 min late ho jayega", "reply": "bas 15 min mein pahunch jaunga"}
+{"context": "signal block ki wajah se late ho raha hai", "reply": "bas 20 min mein pahunch jaunga"}
+{"context": "jam ki wajah se 35 min late ho jayega", "reply": "main update de raha hoon"}
+{"context": "12 min ka delay hai", "reply": "main time par pahunchne ki koshish kar raha hoon"}
+{"context": "road work ki wajah se 18 min late ho jayega", "reply": "bas 12 min mein pahunch jaunga"}
+{"context": "payment me issue aa raha hai", "reply": "main restaurant se confirm karta hoon"}
+{"context": "rain ki wajah se 25 min late ho jayega", "reply": "main update dunga"}
+{"context": "map clear nahi hai", "reply": "theek hai main dekh raha hoon"}
+{"context": "35 min late ho jayega", "reply": "main check karke batata hoon"}
+{"context": "road work ki wajah se 30 min late ho jayega", "reply": "main jaldi aa raha hoon"}
+{"context": "map sahi nahi aa raha", "reply": "main update dunga"}
+{"context": "entry ka rasta nahi mil raha", "reply": "main location confirm karta hoon"}
+{"context": "status update chahiye", "reply": "theek hai main dekh raha hoon"}
+{"context": "diversion ki wajah se 8 min late ho jayega", "reply": "main update dunga"}
+{"context": "route sahi nahi aa raha", "reply": "main security se baat karta hoon"}
+{"context": "building ka rasta nahi mil raha", "reply": "main map check kar raha hoon"}
+{"context": "traffic ki wajah se 18 min late ho jayega", "reply": "thodi der aur"}
+{"context": "turn miss ho gaya", "reply": "main update dunga"}
+{"context": "block band hai", "reply": "main gate pe aa raha hoon"}
+{"context": "landmark samajh nahi aa raha", "reply": "main map check kar raha hoon"}
+{"context": "road closed ki wajah se 12 min late ho jayega", "reply": "on the way hoon"}
+{"context": "jam ki wajah se 25 min late ho jayega", "reply": "bas thoda wait kar lijiye"}
+{"context": "tower par entry issue hai", "reply": "main security se baat karta hoon"}
+{"context": "call lagaya par response nahi mila", "reply": "main thodi der mein call karta hoon"}
+{"context": "rain ki wajah se 30 min late ho jayega", "reply": "main check karke batata hoon"}
+{"context": "customer ne bola thoda wait karo", "reply": "main check karke batata hoon"}
+{"context": "road closed ki wajah se 20 min late ho jayega", "reply": "theek hai main dekh raha hoon"}
+{"context": "pickup location pahunch gaya hoon", "reply": "main handle kar raha hoon"}
+{"context": "traffic ki wajah se 18 min late ho jayega", "reply": "main update de raha hoon"}
+{"context": "traffic ki wajah se 18 min late ho jayega", "reply": "main check karke batata hoon"}
+{"context": "route sahi nahi aa raha", "reply": "main update dunga"}
+{"context": "restaurant ne bola 10 min aur lagega", "reply": "main update dunga"}
+{"context": "25 min ka delay hai", "reply": "bas 5 min mein pahunch jaunga"}
+{"context": "25 min ka delay hai", "reply": "main time par pahunchne ki koshish kar raha hoon"}
+{"context": "map sahi nahi aa raha", "reply": "main security se baat karta hoon"}
+{"context": "customer se confirmation chahiye", "reply": "main instructions check karta hoon"}
+{"context": "restaurant ne bola 12 min aur lagega", "reply": "main update dunga"}
+{"context": "8 min ka delay hai", "reply": "main handle kar raha hoon"}
+{"context": "landmark clear nahi hai", "reply": "main check karke batata hoon"}
+{"context": "diversion ki wajah se 25 min late ho jayega", "reply": "bas 30 min mein pahunch jaunga"}
+{"context": "thoda delay ho gaya", "reply": "bas 12 min mein pahunch jaunga"}
+{"context": "rasta samajh nahi aa raha", "reply": "main update dunga"}
+{"context": "delivery note confirm karna hai", "reply": "main entry details confirm karta hoon"}
+{"context": "accident ki wajah se 20 min late ho jayega", "reply": "main jaldi aa raha hoon"}
+{"context": "road work ki wajah se 12 min late ho jayega", "reply": "thodi der aur"}
+{"context": "landmark sahi nahi aa raha", "reply": "main landmark dekh kar aa raha hoon"}
+{"context": "traffic ki wajah se 5 min late ho jayega", "reply": "bas 18 min mein pahunch jaunga"}
+{"context": "road work ki wajah se 25 min late ho jayega", "reply": "delay ke liye sorry"}
+{"context": "building par entry issue hai", "reply": "main entry point dhoondh raha hoon"}
+{"context": "rain ki wajah se 35 min late ho jayega", "reply": "thodi der aur"}
+{"context": "signal block ki wajah se 10 min late ho jayega", "reply": "bas thoda wait kar lijiye"}
+{"context": "road work ki wajah se 5 min late ho jayega", "reply": "main update de raha hoon"}
+{"context": "traffic ki wajah se 20 min late ho jayega", "reply": "thodi der aur"}
+{"context": "thoda delay ho gaya", "reply": "main update de raha hoon"}
+{"context": "traffic ki wajah se late ho raha hai", "reply": "theek hai main dekh raha hoon"}
+{"context": "restaurant par wait chal raha hai", "reply": "bas thoda wait kijiye"}
+{"context": "customer ka gate lock hai", "reply": "main phir se aata hoon"}
+{"context": "building band hai", "reply": "main check karke batata hoon"}
+{"context": "society par security rok rahi hai", "reply": "main security se baat karta hoon"}
+{"context": "road work ki wajah se 12 min late ho jayega", "reply": "maaf kijiye thoda late ho raha hoon"}
+{"context": "accident ki wajah se 5 min late ho jayega", "reply": "bas 18 min mein pahunch jaunga"}
+{"context": "diversion ki wajah se 20 min late ho jayega", "reply": "main jaldi aa raha hoon"}
+{"context": "lane par security rok rahi hai", "reply": "theek hai main dekh raha hoon"}
+{"context": "traffic ki wajah se 8 min late ho jayega", "reply": "bas 18 min mein pahunch jaunga"}
+{"context": "society par entry issue hai", "reply": "main handle kar raha hoon"}
+{"context": "customer bol raha hai lift band hai", "reply": "theek hai main dekh raha hoon"}
+{"context": "landmark clear nahi hai", "reply": "main handle kar raha hoon"}
+{"context": "road closed ki wajah se 10 min late ho jayega", "reply": "main update dunga"}
+{"context": "rain ki wajah se 8 min late ho jayega", "reply": "main check karke batata hoon"}
+{"context": "12 min late ho jayega", "reply": "bas 10 min mein pahunch jaunga"}
+{"context": "road work ki wajah se 10 min late ho jayega", "reply": "bas thoda wait kar lijiye"}
+{"context": "road work ki wajah se 20 min late ho jayega", "reply": "main check karke batata hoon"}
+{"context": "traffic ki wajah se 15 min late ho jayega", "reply": "maaf kijiye thoda late ho raha hoon"}
+{"context": "accident ki wajah se 10 min late ho jayega", "reply": "main jaldi aa raha hoon"}
+{"context": "main queue me hoon", "reply": "main wait kar raha hoon"}
+{"context": "system bol raha hai order late hai", "reply": "main update de raha hoon"}
+{"context": "road closed ki wajah se late ho raha hai", "reply": "bas 12 min mein pahunch jaunga"}
+{"context": "25 min late ho jayega", "reply": "on the way hoon"}
+{"context": "order deliver kar diya", "reply": "main deliver kar raha hoon"}
+{"context": "customer ke paas pahunch gaya hoon", "reply": "main check karke batata hoon"}
+{"context": "jam ki wajah se 15 min late ho jayega", "reply": "on the way hoon"}
+{"context": "order ready hone ka wait hai", "reply": "main wait kar raha hoon"}
+{"context": "15 min ka delay hai", "reply": "main check karke batata hoon"}
+{"context": "block par security rok rahi hai", "reply": "main check karke batata hoon"}
+{"context": "rain ki wajah se 18 min late ho jayega", "reply": "bas 35 min mein pahunch jaunga"}
+{"context": "road work ki wajah se 15 min late ho jayega", "reply": "bas 12 min mein pahunch jaunga"}
+{"context": "system me location mismatch dikh raha hai", "reply": "main landmark dekh kar aa raha hoon"}
+{"context": "traffic ki wajah se 5 min late ho jayega", "reply": "thodi der aur"}
+{"context": "signal block ki wajah se 15 min late ho jayega", "reply": "main update de raha hoon"}
+{"context": "rain ki wajah se 20 min late ho jayega", "reply": "bas thoda wait kar lijiye"}
+{"context": "road work ki wajah se late ho raha hai", "reply": "bas 12 min mein pahunch jaunga"}
+{"context": "customer bol raha hai parking band hai", "reply": "theek hai main dekh raha hoon"}
+{"context": "signal block ki wajah se 25 min late ho jayega", "reply": "bas 18 min mein pahunch jaunga"}
+{"context": "location clear nahi hai", "reply": "main address verify kar raha hoon"}
+{"context": "25 min ka delay hai", "reply": "bas 20 min mein pahunch jaunga"}
+{"context": "traffic ki wajah se 20 min late ho jayega", "reply": "maaf kijiye thoda late ho raha hoon"}
+{"context": "accident ki wajah se 15 min late ho jayega", "reply": "thodi der aur"}
+{"context": "payment pending dikh raha hai", "reply": "theek hai main dekh raha hoon"}
+{"context": "5 min late ho jayega", "reply": "theek hai main dekh raha hoon"}
+{"context": "rain ki wajah se 25 min late ho jayega", "reply": "main handle kar raha hoon"}
+{"context": "10 min ka delay hai", "reply": "main update de raha hoon"}
+{"context": "restaurant ne bola 25 min aur lagega", "reply": "main pickup ke liye ready hoon"}
+{"context": "rain ki wajah se 25 min late ho jayega", "reply": "main update de raha hoon"}
+{"context": "accident ki wajah se 5 min late ho jayega", "reply": "bas 8 min mein pahunch jaunga"}
+{"context": "8 min late ho jayega", "reply": "bas 18 min mein pahunch jaunga"}
+{"context": "12 min late ho jayega", "reply": "thodi der aur"}
+{"context": "order details verify karni hai", "reply": "main details verify kar raha hoon"}
+{"context": "pin clear nahi hai", "reply": "main security se baat karta hoon"}
+{"context": "restaurant ne bola 35 min aur lagega", "reply": "restaurant se pickup ke baad nikalunga"}
+{"context": "main queue me hoon", "reply": "theek hai main dekh raha hoon"}
+{"context": "block par security rok rahi hai", "reply": "main security se baat karta hoon"}
+{"context": "order ready hai pickup kar raha hoon", "reply": "pickup complete ho gaya"}
+{"context": "restaurant ne bola 30 min aur lagega", "reply": "theek hai main dekh raha hoon"}
+{"context": "traffic ki wajah se 12 min late ho jayega", "reply": "on the way hoon"}
+{"context": "road closed ki wajah se 18 min late ho jayega", "reply": "bas 10 min mein pahunch jaunga"}
+{"context": "customer ne bola abhi nahi mil sakta", "reply": "main dobara try karta hoon"}
+{"context": "customer bol raha hai pin galat hai", "reply": "theek hai main dekh raha hoon"}
+{"context": "jam ki wajah se 5 min late ho jayega", "reply": "main handle kar raha hoon"}
